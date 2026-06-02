@@ -2,11 +2,11 @@
 
 The theme of your website defines its overall look and feel, making it a key factor in creating the first impression for your visitors.
 
-Themes in Bagisto include options like slider sections, product sections, category sections, footer links, service content, static content blocks, sidebars, logo resizer, button settings, blog settings, site preloader, related product options, icon customization, full-width templates, color options, widgets, sidebar layouts, and headers.
+Themes in ExalandStore include options like slider sections, product sections, category sections, footer links, service content, static content blocks, sidebars, logo resizer, button settings, blog settings, site preloader, related product options, icon customization, full-width templates, color options, widgets, sidebar layouts, and headers.
 
 The `theme_customizations` table supports customizations for multiple themes and channels, allowing you to define unique settings for each theme-channel combination. You can also filter attributes for more control over theme customization.
 
-In this Bagisto setup, the available shop theme is **Default**. While creating a theme customization, the available customization types are:
+In this ExalandStore setup, the available shop theme is **Default**. While creating a theme customization, the available customization types are:
 
 - **Product Carousel**
 - **Category Carousel**
@@ -135,4 +135,4 @@ Click **Save** to finalize.
 
 <ImagePopup src="/images/settings/themeOutput.png" alt="Theme Output" />
 
-You have now successfully created and customized a **Theme** in Bagisto.
+You have now successfully created and customized a **Theme** in ExalandStore.

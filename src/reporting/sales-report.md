@@ -1,6 +1,6 @@
 # Sales Reporting
 
-Bagisto provides various reports to help store owners track sales, customer behavior, and financial performance. Below is a breakdown of the Sales reporting.
+ExalandStore provides various reports to help store owners track sales, customer behavior, and financial performance. Below is a breakdown of the Sales reporting.
 
 ### 1) Total Sales 
 

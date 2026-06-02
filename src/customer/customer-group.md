@@ -24,9 +24,9 @@ The general customer group refers to customers who are not defined as Profession
 
 ---
 
-### To create a new customer group in Bagisto follow the below steps:
+### To create a new customer group in ExalandStore follow the below steps:
 
-**Step 1**: Login to the admin panel of Bagisto and go to **Customers >> Groups**. By default, there are three customer groups. To create a new group, click on the **Create Group** button as shown below.  
+**Step 1**: Login to the admin panel of ExalandStore and go to **Customers >> Groups**. By default, there are three customer groups. To create a new group, click on the **Create Group** button as shown below.  
 
 <ImagePopup src="/images/customer/createGroup.png" alt="Create Group" />
 
@@ -38,7 +38,7 @@ The general customer group refers to customers who are not defined as Profession
 
 <ImagePopup src="/images/customer/groupGrid.png" alt="Group Grid" />
 
-So by the above steps, you can easily create a new customer group from the admin panel in Bagisto. 
+So by the above steps, you can easily create a new customer group from the admin panel in ExalandStore. 
 
 ---
 

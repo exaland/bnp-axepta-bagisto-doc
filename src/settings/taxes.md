@@ -1,6 +1,6 @@
 # Taxes
 
-In e-commerce, various taxes are applied when purchasing products, and these rates can differ by country. Bagisto allows you to create and manage taxes efficiently.  
+In e-commerce, various taxes are applied when purchasing products, and these rates can differ by country. ExalandStore allows you to create and manage taxes efficiently.  
 
 ## Tax Rate
 
@@ -49,4 +49,4 @@ Select the **Shipping** and **Payment** methods and click **Continue**.
 
 The tax will appear on the product price in the frontend. For example, if a 20% tax is set, it will be applied to the product price at checkout.  
 
-This is how you can easily create **Taxes** in Bagisto.
+This is how you can easily create **Taxes** in ExalandStore.

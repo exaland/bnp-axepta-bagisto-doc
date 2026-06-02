@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.bagisto.com/sitemap.xml
+Sitemap: https://docs.ExalandStore.com/sitemap.xml
 

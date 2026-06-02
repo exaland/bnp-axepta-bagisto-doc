@@ -1,8 +1,8 @@
-# Bagisto Documentation
+# ExalandStore Documentation
 
-> The comprehensive guide to developing with Bagisto e-commerce platform
+> The comprehensive guide to developing with ExalandStore e-commerce platform
 
-A complete reference for developers building and extending Bagisto stores
+A complete reference for developers building and extending ExalandStore stores
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@ A complete reference for developers building and extending Bagisto stores
 - [Store Theme](/2.3/themes/create-store-theme)
 - [Admin Theme](/2.3/themes/create-admin-theme)
 
-### Bagisto APIs
+### ExalandStore APIs
 
 - [Rest API](/2.3/api/getting-started-with-the-api)
 

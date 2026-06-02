@@ -5,7 +5,7 @@ import path from "path";
 
 // Function to generate sitemap
 function generateSitemap(outputDir) {
-  const baseUrl = "https://docs.bagisto.com";
+  const baseUrl = "https://docs.ExalandStore.com";
   const srcDir = path.join(process.cwd(), "src");
 
   const getAllMarkdownFiles = (dir, prefix = "") => {
@@ -83,8 +83,8 @@ function sitemapPlugin() {
 
 export default defineConfig({
   lang: "en-US",
-  title: "Bagisto User Documentation",
-  description: "Bagisto User Documentation",
+  title: "ExalandStore User Documentation",
+  description: "ExalandStore User Documentation",
 
   vite: {
     server: {
@@ -111,7 +111,7 @@ export default defineConfig({
        (function () {
        let script = document.createElement('script');
 
-       script.innerHTML = 'window.chatbotConfig = { url: "https://ask.bagisto.com:5000/chat" };';
+       script.innerHTML = 'window.chatbotConfig = { url: "https://ask.ExalandStore.com:5000/chat" };';
 
        document.body.appendChild(script);
        })();;
@@ -120,7 +120,7 @@ export default defineConfig({
     [
       "script",
       {
-        src: "https://bagisto.github.io/ai-chatbot/chatbot.js",
+        src: "https://ExalandStore.github.io/ai-chatbot/chatbot.js",
         async: true,
       },
     ],
@@ -135,16 +135,12 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "Dev Docs", link: "https://devdocs.bagisto.com/" },
-      { text: "Extensions", link: "https://bagisto.com/en/extensions/" },
-      { text: "Community Forum", link: "https://forums.bagisto.com/" },
-      { text: "Contact Us", link: "https://bagisto.com/en/contacts/" },
+      { text: "Dev Docs", link: "https://devdocs.ExalandStore.com/" },
+      { text: "Extensions", link: "https://ExalandStore.com/en/extensions/" },
+      { text: "Community Forum", link: "https://forums.ExalandStore.com/" },
+      { text: "Contact Us", link: "https://ExalandStore.com/en/contacts/" },
     ],
 
-    editLink: {
-      pattern: "https://github.com/bagisto/bagisto-docs/edit/master/src/:path",
-      text: "Help us improve this page on Github.",
-    },
 
     lastUpdated: {
       text: "Last Updated",
@@ -503,10 +499,6 @@ export default defineConfig({
         'Released under the <a href="https://opensource.org/licenses/mit" target="_blank" class="mit-license">MIT License</a>.',
       copyright: `Copyright © ${new Date().getFullYear()} Webkul`,
     },
-
-    socialLinks: [
-      { icon: "github", link: "https://github.com/bagisto/bagisto" },
-    ],
 
     search: {
       provider: "local",

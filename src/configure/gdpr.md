@@ -1,6 +1,6 @@
 # GDPR
 
-Bagisto provides essential GDPR (General Data Protection Regulation) compliance features to help businesses ensure data privacy and transparency for their customers. Below are the key sections where GDPR-related settings and options are available:
+ExalandStore provides essential GDPR (General Data Protection Regulation) compliance features to help businesses ensure data privacy and transparency for their customers. Below are the key sections where GDPR-related settings and options are available:
 
 ## Enable GDPR Compliance Settings
 

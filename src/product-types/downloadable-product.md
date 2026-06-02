@@ -1,10 +1,10 @@
 # Downloadable Product 
 
-This document will guide you on how to create a Downloadable Product in Bagisto. Downloadable products refer to items that can be downloaded, such as eBooks, software applications, music, updates, games, etc. These products are digital and do not involve a shipping method at checkout.
+This document will guide you on how to create a Downloadable Product in ExalandStore. Downloadable products refer to items that can be downloaded, such as eBooks, software applications, music, updates, games, etc. These products are digital and do not involve a shipping method at checkout.
 
-### Steps to Create a Downloadable Product in Bagisto
+### Steps to Create a Downloadable Product in ExalandStore
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Downloadable** under the Product Type.
+1. On the ExalandStore admin dashboard, go to **Catalog Section >> Products >> select Downloadable** under the Product Type.
 2. Select **Attribute Family**.
 3. Enter **SKU** (Stock Keeping Unit) of the product, unique to every product.
 4. Now **Save the Product**, and you will be redirected to the next page with general settings.
@@ -14,7 +14,7 @@ This document will guide you on how to create a Downloadable Product in Bagisto.
 ### General Settings
 
 - **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., /products/bagisto-e-book (bagisto-e-book is the URL key).
+- **URL Key:** This will be the end of the URL, e.g., /products/ExalandStore-e-book (ExalandStore-e-book is the URL key).
 - **Tax Category:** Select the Tax Category from the drop-down list.
 
 <ImagePopup src="/images/downloadable-product/editProduct.png" alt="General Settings for Downloadable Product" />

@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Bagisto User Documentation"
+  name: "ExalandStore User Documentation"
   text: "Find detailed documentation with examples."
-  tagline: "Build amazing e-commerce experiences with Bagisto"
+  tagline: "Build amazing e-commerce experiences with ExalandStore"
   actions:
     - theme: brand
       text: Get Started →
       link: /getting-started/introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/bagisto/bagisto
+      link: https://github.com/ExalandStore/ExalandStore
   image:
     src: /logo-large.png
-    alt: Bagisto
+    alt: ExalandStore
 
 features:
   - title: Open Source
@@ -36,12 +36,12 @@ features:
     link: /multi-tenant-ecommerce/introduction.html
 
   - title: Open Source B2B eCommerce Platform
-    details: The B2B eCommerce Platform enhances your Bagisto store with advanced Business-to-Business (B2B) features.
+    details: The B2B eCommerce Platform enhances your ExalandStore store with advanced Business-to-Business (B2B) features.
     icon: 💼
     link: /b2b-ecommerce-platform/introduction.html
 
   - title: Native Mobile App 
-    details: Launch fully functional Android and iOS mobile applications for your Bagisto store with real-time synchronization, push notifications, and seamless shopping experiences.
+    details: Launch fully functional Android and iOS mobile applications for your ExalandStore store with real-time synchronization, push notifications, and seamless shopping experiences.
     icon: 📱
     link: /open-source-mobile-app/open-source-mobile-app.html
 ---

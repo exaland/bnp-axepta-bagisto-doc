@@ -6,7 +6,7 @@ The **Admin Logo** is a distinctive image or emblem representing the administrat
 
 **Steps to Update Admin Logo & Favicon**
 
-To update the **Admin Logo** and **Favicon** in Bagisto:
+To update the **Admin Logo** and **Favicon** in ExalandStore:
 
 1. Go to the **Admin Panel**.
 2. Navigate to **Configure → Design**.
@@ -30,7 +30,7 @@ After saving the configuration, the new **Admin Logo** and **Favicon** will be v
 
 **Menu Category View**
 
-Bagisto v2.3.x introduced a new option to configure how product categories are displayed in the storefront menu.
+ExalandStore v2.3.x introduced a new option to configure how product categories are displayed in the storefront menu.
 
 You can now choose between:
 

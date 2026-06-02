@@ -4,7 +4,7 @@ Typically, e-commerce stores offer 15- to 30 days in which customers can return 
 
 A customer who bought an item may ask the store for their money back if it didn't fit according to their choice. you may ask them to return your money.
 
-In Bagisto after your order is **Completed** after creating a shipment you go and edit that order and from there you can easily apply for a refund.
+In ExalandStore after your order is **Completed** after creating a shipment you go and edit that order and from there you can easily apply for a refund.
 
 <ImagePopup src="/images/orders/refund.png" alt="Refund" />
 
@@ -45,4 +45,4 @@ After that it will get redirected to the **Refund Grid** and show the refunded a
 
 <ImagePopup src="/images/orders/refundGrid.png" alt="Refund Grid" />
 
-By the above steps, you can easily **Refund** in Bagisto.
+By the above steps, you can easily **Refund** in ExalandStore.

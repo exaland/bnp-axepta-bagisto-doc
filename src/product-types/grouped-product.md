@@ -1,10 +1,10 @@
 # Grouped Product
 
-This document guides you on creating a Grouped Product in Bagisto. A grouped product is a collection of simple products that can be combined in Bagisto. This versatile product type allows you to offer variations of a single product or a group of products as a coordinated set. Each product in a grouped product can be purchased separately or all together as part of the group.
+This document guides you on creating a Grouped Product in ExalandStore. A grouped product is a collection of simple products that can be combined in ExalandStore. This versatile product type allows you to offer variations of a single product or a group of products as a coordinated set. Each product in a grouped product can be purchased separately or all together as part of the group.
 
-### Steps to Create a Grouped Product in Bagisto 
+### Steps to Create a Grouped Product in ExalandStore 
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Grouped** under the Product Type.
+1. On the ExalandStore admin dashboard, go to **Catalog Section >> Products >> select Grouped** under the Product Type.
 2. Select **Attribute Family >> enter SKU >>** Click to **Save Product**.
 3. Enter the **SKU** (Stock Keeping Unit) of the product, unique to every product.
 

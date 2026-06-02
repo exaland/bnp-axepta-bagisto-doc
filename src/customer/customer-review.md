@@ -10,7 +10,7 @@ Customer reviews are a form of customer feedback on electronic commerce and onli
 
 ---
 
-### To add Reviews in Bagisto follow the below steps:
+### To add Reviews in ExalandStore follow the below steps:
 
 **Step 1**: After logging in as a customer, go to the product detail page of the storefront. You will see the **Review** section as shown in the image below.  
 
@@ -20,7 +20,7 @@ Customer reviews are a form of customer feedback on electronic commerce and onli
 
 <ImagePopup src="/images/customer/rating.png" alt="Write Review" />
 
-**Step 3**: After adding the review, open the **Admin Panel** of Bagisto and navigate to **Customers >> Reviews**. The review submitted by the customer will be visible as shown below.  
+**Step 3**: After adding the review, open the **Admin Panel** of ExalandStore and navigate to **Customers >> Reviews**. The review submitted by the customer will be visible as shown below.  
 
 <ImagePopup src="/images/customer/adminReview.png" alt="Admin Review" />
 
@@ -34,4 +34,4 @@ Customer reviews are a form of customer feedback on electronic commerce and onli
 
 ---
 
-By following the above steps, you can easily manage **Customer Reviews** in Bagisto.
+By following the above steps, you can easily manage **Customer Reviews** in ExalandStore.

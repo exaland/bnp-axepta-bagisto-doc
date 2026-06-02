@@ -1,16 +1,16 @@
 # Customer Group Price | Tier Pricing
 
-Customer Group Pricing in Bagisto allows store owners to offer different product prices to different customer groups — such as **General, Wholesale, or Guest**.
+Customer Group Pricing in ExalandStore allows store owners to offer different product prices to different customer groups — such as **General, Wholesale, or Guest**.
 
 This feature helps businesses create personalized pricing strategies, reward loyal buyers, and encourage bulk purchases. 
 
 By assigning customers to specific groups, you can control how much each group pays for the same product, making your pricing model more flexible and customer-focused.
 
-### Steps to Create a Customer Group Price in Bagisto
+### Steps to Create a Customer Group Price in ExalandStore
 
 **Step 1**: First, create the customer group and assign the group to the customer, or by default use groups like **General, Wholesale, or Guest**.
 
-**Step 2**: Login to the admin panel of Bagisto and go to **Catalog >> Products**. 
+**Step 2**: Login to the admin panel of ExalandStore and go to **Catalog >> Products**. 
 
 Create a new product and go to the product edit page. You will be able to see the **Customer Group Price** section as shown in the below image.  
 

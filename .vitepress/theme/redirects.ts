@@ -22,8 +22,8 @@ export const redirects = {
   '/2.3/architecture/packages': '/architecture/backend',
   '/2.3/architecture/frontend': '/architecture/frontend',
   '/2.3/architecture/theme': '/architecture/frontend',
-  '/2.3/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/2.3/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/2.3/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/2.3/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development
   '/2.3/packages/create-package': '/package-development/getting-started',
@@ -67,7 +67,7 @@ export const redirects = {
   '/2.3/performance/octane': '/performance/configure-laravel-octane',
   '/2.3/performance/loadbalancing': '/performance/configure-load-balancing',
 
-  // Bagisto APIs
+  // ExalandStore APIs
   '/2.3/api/rest-api': '/api/rest-api',
   '/2.3/api/graphql-api': '/api/graphql-api',
 
@@ -90,8 +90,8 @@ export const redirects = {
   '/2.2/architecture/packages': '/architecture/backend',
   '/2.2/architecture/frontend': '/architecture/frontend',
   '/2.2/architecture/theme': '/architecture/frontend',
-  '/2.2/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/2.2/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/2.2/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/2.2/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development  
   '/2.2/packages/create-package': '/package-development/getting-started',
@@ -134,7 +134,7 @@ export const redirects = {
   '/2.2/performance/octane': '/performance/configure-laravel-octane',
   '/2.2/performance/loadbalancing': '/performance/configure-load-balancing',
 
-  // Bagisto APIs
+  // ExalandStore APIs
   '/2.2/api/rest-api': '/api/rest-api',
   '/2.2/api/graphql-api': '/api/graphql-api',
 
@@ -157,8 +157,8 @@ export const redirects = {
   '/2.1/architecture/packages': '/architecture/backend',
   '/2.1/architecture/frontend': '/architecture/frontend',
   '/2.1/architecture/theme': '/architecture/frontend',
-  '/2.1/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/2.1/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/2.1/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/2.1/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development
   '/2.1/packages/create-package': '/package-development/getting-started',
@@ -201,7 +201,7 @@ export const redirects = {
   '/2.1/performance/octane': '/performance/configure-laravel-octane',
   '/2.1/performance/loadbalancing': '/performance/configure-load-balancing',
 
-  // Bagisto APIs
+  // ExalandStore APIs
   '/2.1/api/getting-started-with-the-api': '/api/rest-api',
 
   /**
@@ -223,8 +223,8 @@ export const redirects = {
   '/2.0/architecture/packages': '/architecture/backend',
   '/2.0/architecture/frontend': '/architecture/frontend',
   '/2.0/architecture/theme': '/architecture/frontend',
-  '/2.0/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/2.0/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/2.0/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/2.0/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development
   '/2.0/packages/create-package': '/package-development/getting-started',
@@ -267,7 +267,7 @@ export const redirects = {
   '/2.0/performance/octane': '/performance/configure-laravel-octane',
   '/2.0/performance/loadbalancing': '/performance/configure-load-balancing',
 
-  // Bagisto APIs
+  // ExalandStore APIs
   '/2.0/api/getting-started-with-the-api': '/api/rest-api',
 
   /**
@@ -290,8 +290,8 @@ export const redirects = {
   '/2.x/architecture/frontend': '/architecture/frontend',
   '/2.x/architecture/theme': '/architecture/frontend',
   '/2.x/architecture/performance': '/performance/introduction',
-  '/2.x/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/2.x/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/2.x/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/2.x/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development
   '/2.x/packages/create-package': '/package-development/getting-started',
@@ -328,7 +328,7 @@ export const redirects = {
   '/2.x/themes/create-store-theme': '/theme-development/creating-store-theme',
   '/2.x/themes/create-admin-theme': '/theme-development/creating-admin-theme',
 
-  // Bagisto APIs
+  // ExalandStore APIs
   '/2.x/api/getting-started-with-the-api': '/api/rest-api',
 
   /**
@@ -351,8 +351,8 @@ export const redirects = {
   '/1.5.x/architecture/frontend': '/architecture/frontend',
   '/1.5.x/architecture/theme': '/architecture/frontend',
   '/1.5.x/architecture/performance': '/performance/introduction',
-  '/1.5.x/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-bagisto',
-  '/1.5.x/architecture/modular-design': '/architecture/backend.html#modular-design-in-bagisto',
+  '/1.5.x/architecture/repository-pattern': '/architecture/backend.html#repository-pattern-in-ExalandStore',
+  '/1.5.x/architecture/modular-design': '/architecture/backend.html#modular-design-in-ExalandStore',
 
   // Package Development
   '/1.5.x/packages/create-package': '/package-development/getting-started',
@@ -399,7 +399,7 @@ export const redirects = {
   // Introduction
   '/1.x/introduction/requirements': '/getting-started/before-you-start.html#system-requirements',
   '/1.x/introduction/installation': '/getting-started/installation',
-  '/1.x/introduction/upgrade-to-latest-bagisto': '/getting-started/upgrade-guide',
+  '/1.x/introduction/upgrade-to-latest-ExalandStore': '/getting-started/upgrade-guide',
   '/1.x/introduction/docker': '/getting-started/installation.html#🐳-docker-installation',
 
   // Package Development
@@ -443,7 +443,7 @@ export const redirects = {
   '/1.x/user-guides/cart-rule': '/getting-started/before-you-start',
   '/1.x/user-guides/social-auth': '/getting-started/before-you-start',
 
-  // Bagisto Web API
+  // ExalandStore Web API
   '/1.x/api/getting-started-with-the-api': '/api/rest-api',
   '/1.x/api/customers': '/api/rest-api',
   '/1.x/api/locales': '/api/rest-api',
@@ -460,7 +460,7 @@ export const redirects = {
   '/1.x/api/reviews': '/api/rest-api',
   '/1.x/api/wishlists': '/api/rest-api',
 
-  // Bagisto GraphQL Admin API
+  // ExalandStore GraphQL Admin API
   '/1.x/graphql-admin-api/installation': '/api/graphql-api',
   '/1.x/graphql-admin-api/getting-started-with-the-api.md': '/api/graphql-api',
   '/1.x/graphql-admin-api/settings.md': '/api/graphql-api',
@@ -475,7 +475,7 @@ export const redirects = {
   '/1.x/graphql-admin-api/attribute-families.md': '/api/graphql-api',
   '/1.x/graphql-admin-api/sales.md': '/api/graphql-api',
 
-  // Bagisto GraphQL Shop API
+  // ExalandStore GraphQL Shop API
   '/1.x/graphql-shop-api/getting-started-with-the-api.md': '/api/graphql-api',
   '/1.x/graphql-shop-api/addresses.md': '/api/graphql-api',
   '/1.x/graphql-shop-api/orders.md': '/api/graphql-api',

@@ -1,10 +1,10 @@
 # Currencies
 
-Before launching your eCommerce website, you need to set up the currency in which you will be doing your business. The currency symbol will be visible in product prices, orders, invoices, transactions, etc. Here are the steps to add currency in Bagisto.
+Before launching your eCommerce website, you need to set up the currency in which you will be doing your business. The currency symbol will be visible in product prices, orders, invoices, transactions, etc. Here are the steps to add currency in ExalandStore.
 
-### Add Currency in Bagisto
+### Add Currency in ExalandStore
 
-**Step 1:** On the Admin panel of Bagisto, go to **Settings >> Currencies >> Create Currency** as shown in the image below.
+**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Currencies >> Create Currency** as shown in the image below.
 
 <ImagePopup src="/images/settings/createCurrency.png" alt="Currency" />
 
@@ -38,4 +38,4 @@ Once the channel setting has been done, click on **Save Channel** as shown in th
 
 <ImagePopup src="/images/settings/currencyChannel.png" alt="Currency Channel" />
 
-So, by following these steps, you can easily create a **Currency** in Bagisto.
+So, by following these steps, you can easily create a **Currency** in ExalandStore.

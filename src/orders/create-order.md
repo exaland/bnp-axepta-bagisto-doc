@@ -1,10 +1,10 @@
 # Create Orders
 
-The order is created when a customer goes to your website, selects some product, and then places a request for it. Here we are going to discuss how to manage orders in Bagisto.
+The order is created when a customer goes to your website, selects some product, and then places a request for it. Here we are going to discuss how to manage orders in ExalandStore.
 
 When a customer places an order from the front end, the admin panel generates the order status, from where the admin can further process the order.
 
-## How to Manage Orders in Bagisto
+## How to Manage Orders in ExalandStore
 
 ### Adding Products in Cart
 
@@ -46,4 +46,4 @@ On the Information Page, the admin can check customer details like name, address
 
 ---
 
-✅ By following these steps, you can easily create an **Order** in Bagisto.
+✅ By following these steps, you can easily create an **Order** in ExalandStore.

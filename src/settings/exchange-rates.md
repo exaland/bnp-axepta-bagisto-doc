@@ -2,11 +2,11 @@
 
 An Exchange Rate is the worth of one nation’s currency compared to another nation’s currency.  
 
-For example: How many Euros are required to buy 1 Dollar? You require €0.88 to buy $1. This means the exchange rate of the Euro is 0.88 against the Dollar. Here we are going to discuss how to set the exchange rate in Bagisto.
+For example: How many Euros are required to buy 1 Dollar? You require €0.88 to buy $1. This means the exchange rate of the Euro is 0.88 against the Dollar. Here we are going to discuss how to set the exchange rate in ExalandStore.
 
-### Set Exchange Rate in Bagisto
+### Set Exchange Rate in ExalandStore
 
-**Step 1:** On the Admin panel of Bagisto, go to **Settings >> Exchange Rates >> Create Exchange Rate** as shown in the image below.
+**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Exchange Rates >> Create Exchange Rate** as shown in the image below.
 
 <ImagePopup src="/images/settings/exchangeRate.png" alt="Exchange Rate" />
 
@@ -24,4 +24,4 @@ The **Exchange Rate** of **0.919** is applied successfully on the product price 
 
 <ImagePopup src="/images/settings/exchangeOutput.png" alt="Exchange Rate Output" />
 
-So, by following these steps, you can easily create an **Exchange Rate** in Bagisto.
+So, by following these steps, you can easily create an **Exchange Rate** in ExalandStore.

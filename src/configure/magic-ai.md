@@ -104,7 +104,7 @@ If someone just wants to understand what is written, this feature can simply tra
 
 ### Personalized Checkout Message
 
-With the help of the Personalized Checkout Message feature in Bagisto, once you enable this option, customers will start seeing automatically generated messages after the checkout process and order gets completed.
+With the help of the Personalized Checkout Message feature in ExalandStore, once you enable this option, customers will start seeing automatically generated messages after the checkout process and order gets completed.
 
 It helps store owners create a more personalized and engaging shopping experience by displaying dynamic and AI-generated messages to customers at the time of checkout. 
 

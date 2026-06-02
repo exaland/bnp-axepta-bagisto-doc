@@ -1,16 +1,16 @@
-# How to Create Categories in Bagisto
+# How to Create Categories in ExalandStore
 
-The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in Bagisto.
+The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in ExalandStore.
 
 ### Root Category
 
-Bagisto comes with a default root category, i.e., Root, but you can also create your own root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
+ExalandStore comes with a default root category, i.e., Root, but you can also create your own root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
 
-### Steps to Create a New Root Category in Bagisto
+### Steps to Create a New Root Category in ExalandStore
 
 1. Click on **Catalog >> Categories >> Create Category** as shown in the image below.
 
-   <ImagePopup src="/images/category/create.png" alt="Create Category in Bagisto" />
+   <ImagePopup src="/images/category/create.png" alt="Create Category in ExalandStore" />
 
 2. Enter the general values like name, position, and description, and add images.
 
@@ -29,7 +29,7 @@ Bagisto comes with a default root category, i.e., Root, but you can also create 
 
 4. Save the category, and a new category will be created by the name of **Electronic Items** as shown in the image below.
 
-   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in Bagisto" />
+   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in ExalandStore" />
 
 5. Now check the product edit page while creating a product, and you will be able to see the newly created category there.
 

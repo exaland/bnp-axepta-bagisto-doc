@@ -4,7 +4,7 @@ Transaction is a digital financial exchange that occurs when you buy goods and s
 
 E-commerce transaction means the transfer of funds electronically in exchange for products or services, conducted via e-commerce websites or mobile applications.
 
-### Steps to Create Transactions in Bagisto 
+### Steps to Create Transactions in ExalandStore 
 
 **Step-1** Click on **Orders >> Transactions >> Create Transaction** as shown in the below image.
 

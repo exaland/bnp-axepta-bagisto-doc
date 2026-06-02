@@ -34,7 +34,7 @@ Admins can easily view all existing seller attributes and create new ones as nee
 
 Sellers can access a dedicated dashboard to manage their activities by opening the marketplace and clicking the **Open Shop** button.
 
-<ImagePopup src="/images/multi-vendor-marketplace/4-Bagisto-openshop-e.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/4-ExalandStore-openshop-e.webp" alt="Customer Email and Password" />
 
 It will be redirected to the seller registration page to sign up as a seller.
 
@@ -48,7 +48,7 @@ Add the additional information, and after filling in all the required details, c
 
 After registration, your seller account is created, and you can log in to the seller dashboard by clicking the **Sign In** button.
 
-<ImagePopup src="/images/multi-vendor-marketplace/7-bagisto-mp.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/7-ExalandStore-mp.webp" alt="Customer Email and Password" />
 
 
 

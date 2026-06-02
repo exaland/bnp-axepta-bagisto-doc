@@ -6,7 +6,7 @@ Customers generally create their own accounts in their shop. However, you can al
 
 ### To create a Customer from the Admin Panel follow the below steps:
 
-**Step 1**: Login to admin panel of Bagisto and go to **Customers >> Customers** then click on the **Create Customer** button.  
+**Step 1**: Login to admin panel of ExalandStore and go to **Customers >> Customers** then click on the **Create Customer** button.  
 
 <ImagePopup src="/images/customer/customer.png" alt="Customer" />
 
@@ -18,4 +18,4 @@ Customers generally create their own accounts in their shop. However, you can al
 
 <ImagePopup src="/images/customer/customerGrid.png" alt="Customer Grid" />
 
-So by the above steps, you can easily create a customer from the admin panel in Bagisto.
+So by the above steps, you can easily create a customer from the admin panel in ExalandStore.

@@ -24,4 +24,4 @@ Now you will be able to see the newly created **Sitemap** as shown below.
 
 <ImagePopup src="/images/marketing/sitemapOutput.png" alt="Search Field" />
 
-By this, you can easily create a **Sitemap** in Bagisto.
+By this, you can easily create a **Sitemap** in ExalandStore.

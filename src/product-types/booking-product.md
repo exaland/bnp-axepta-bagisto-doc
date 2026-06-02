@@ -4,9 +4,9 @@ With the help of booking products, customers can easily purchase and book everyt
 
 With this product type, the admin can manage all necessary details of the booking product, such as date available, slot period, stock value, price settings, and much more.
 
-So let’s get started with how to create booking products in Bagisto.
+So let’s get started with how to create booking products in ExalandStore.
 
-### How to Create Booking Products In Bagisto
+### How to Create Booking Products In ExalandStore
 
 **Step-1** Click on Catalog >> Products  >> Select Booking under Product Type as shown in the below image.
 
@@ -82,7 +82,7 @@ To add the product images, click on Add Images. You can add multiple images for 
 
 ### Booking Information
 
-To create the Booking Product, select the Booking type as per choice. There are 5 below types of booking products. Let’s discuss “How to create Booking Products in Bagisto” one by one.
+To create the Booking Product, select the Booking type as per choice. There are 5 below types of booking products. Let’s discuss “How to create Booking Products in ExalandStore” one by one.
 
 **1) Default**
 
@@ -288,7 +288,7 @@ Here customer has to select the date and time and add a note for admin.
 
 ### Admin Panel
 
-After placing the order login to the admin panel of bagisto
+After placing the order login to the admin panel of ExalandStore
 
 Click on **Sales >> Booking Product** and you will be able to see the ordered product in the booking product datagrid also you can see the calendar view of your booking for this click on **Calendar button** as shown in the below image.
 
@@ -300,4 +300,4 @@ The ordered slot is booked in the calendar view as shown in the below image.
 
 <ImagePopup src="/images/booking-product/32.png" alt="Bundle Product" />
 
-That’s all about Booking Products in bagisto.
+That’s all about Booking Products in ExalandStore.

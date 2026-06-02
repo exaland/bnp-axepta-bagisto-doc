@@ -1,12 +1,12 @@
 # Virtual Product
 
-This document provides a guide on creating virtual products in Bagisto. In an eCommerce store, products can generally be categorized into two types: physical and intangible.
+This document provides a guide on creating virtual products in ExalandStore. In an eCommerce store, products can generally be categorized into two types: physical and intangible.
 
-Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [Bagisto](https://bagisto.com/en/).
+Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [ExalandStore](https://ExalandStore.com/en/).
 
 A virtual product, unlike a downloadable product, is not something that can be downloaded but rather a service offered to customers.
 
-### Steps To Create Virtual Product In Bagisto 
+### Steps To Create Virtual Product In ExalandStore 
 
 1. Go to **Catalog >> Products >> Select Virtual** under Product Type select **Family**.
 2. Enter **SKU** and **Save the Product**, as shown in the image below.

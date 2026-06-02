@@ -1,6 +1,6 @@
 # CMS Pages
 
-With the help of CMS (content management system), you can create and edit pages for your Bagisto store. CMS is also helpful for customers while purchasing products to check the refund and return policy and more.
+With the help of CMS (content management system), you can create and edit pages for your ExalandStore store. CMS is also helpful for customers while purchasing products to check the refund and return policy and more.
 
 ### To create a CMS page from the Admin Panel, follow the below steps:
 
@@ -39,4 +39,4 @@ A new CMS page has been created successfully by the name of **New Page**, as sho
 
 <ImagePopup src="/images/cms/output.png" alt="CMS Page Output" />
 
-By this, you can easily create CMS pages in Bagisto.
+By this, you can easily create CMS pages in ExalandStore.

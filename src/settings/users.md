@@ -1,6 +1,6 @@
 # Users
 
-Access Control List (ACL) in Bagisto allows the store owner to create users and assign roles. This helps manage permissions for different users. Here’s how to create an admin ACL user in Bagisto.
+Access Control List (ACL) in ExalandStore allows the store owner to create users and assign roles. This helps manage permissions for different users. Here’s how to create an admin ACL user in ExalandStore.
 
 ### Create User
 
@@ -24,4 +24,4 @@ Click on **Save User**.
 
 <ImagePopup src="/images/settings/userOutput.png" alt="User Output" />
 
-You have now successfully created a **User** in Bagisto.
+You have now successfully created a **User** in ExalandStore.

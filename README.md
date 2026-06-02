@@ -1,10 +1,10 @@
-# Bagisto Documentation
+# ExalandStore Documentation
 
-You can find the online version of the Bagisto documentation at [https://docs.bagisto.com](https://docs.bagisto.com).
+You can find the online version of the ExalandStore documentation at [https://docs.ExalandStore.com](https://docs.ExalandStore.com).
 
 ## Contribution Guide
 
-We welcome contributions to improve the Bagisto documentation! Follow these steps to get started:
+We welcome contributions to improve the ExalandStore documentation! Follow these steps to get started:
 
 ### Getting Started
 

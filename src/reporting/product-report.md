@@ -1,6 +1,6 @@
 # Products Reporting
 
-Bagisto provides detailed insights into product performance through various reports. These reports help store owners track product sales, customer engagement, and search trends. Below is a breakdown of the available product-related reports.
+ExalandStore provides detailed insights into product performance through various reports. These reports help store owners track product sales, customer engagement, and search trends. Below is a breakdown of the available product-related reports.
 
 ### A) Sold Products Quantity
 

@@ -1,12 +1,12 @@
 # 2 Factor Authentication (2FA) 
 
-To make admin accounts safer, we have added Two-Factor Authentication (2FA) in Bagisto.
+To make admin accounts safer, we have added Two-Factor Authentication (2FA) in ExalandStore.
 
 This feature gives an extra level of security by asking admins to confirm their identity with a second step when they log in.
 
 ### Steps for 2 Factor Authentication (2FA)
 
-**Step-1** First, you need to log in to the Bagisto admin panel using your credentials (username and password). After logging in, you will be redirected to the dashboard.
+**Step-1** First, you need to log in to the ExalandStore admin panel using your credentials (username and password). After logging in, you will be redirected to the dashboard.
 
 On the dashboard, you will find your account section in the top-right corner. From there, you can access your account details or log out of the admin panel. Click on it and select **My Account** to proceed.
 

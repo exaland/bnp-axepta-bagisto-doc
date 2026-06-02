@@ -1,16 +1,16 @@
 # Inventory Source
 
-Multi-Warehouse Inventory is one of the unique features of Bagisto. Here we will explain how you can manage multi-warehouse inventory in Laravel eCommerce and provide reliable service to your customers.  
+Multi-Warehouse Inventory is one of the unique features of ExalandStore. Here we will explain how you can manage multi-warehouse inventory in Laravel eCommerce and provide reliable service to your customers.  
 
 Having a single inventory source can pose some restrictions for your eCommerce store.  
 
 For instance, suppose you have only one inventory in Delhi. A customer from Chennai places an order. Delivering that product from Delhi may result in delays, higher transportation costs, etc. However, if you have an inventory in Chennai, the product will reach the customer faster, cutting down time and shipping cost.  
 
-By using Multi-Warehouse Inventory, you can easily manage all inventory sources. In Bagisto, you can create as many inventory sources as needed and manage them seamlessly.
+By using Multi-Warehouse Inventory, you can easily manage all inventory sources. In ExalandStore, you can create as many inventory sources as needed and manage them seamlessly.
 
-### Easy Steps to Manage Inventory in Bagisto
+### Easy Steps to Manage Inventory in ExalandStore
 
-**Step 1:** On the Admin panel of Bagisto, go to **Settings >> Inventory Sources >> Create Inventory Source** as shown below.  
+**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Inventory Sources >> Create Inventory Source** as shown below.  
 
 <ImagePopup src="/images/settings/inventorySource.png" alt="Inventory Source" />
 
@@ -54,4 +54,4 @@ Under the **Product Ordered Section**, the Admin can decide from which inventory
 **Note:** You can enable only one Inventory at a time. When one inventory is selected, others will automatically be disabled.  
 For example, if you select **Noida Warehouse**, other inventories will be disabled. Enter the quantity to ship and click **Create Shipment**.
 
-So, by following these steps, you can easily create and manage **Inventory Sources** in Bagisto.
+So, by following these steps, you can easily create and manage **Inventory Sources** in ExalandStore.

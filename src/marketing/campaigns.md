@@ -46,4 +46,4 @@ Now you will be able to see the new **Campaign** as shown below.
 
 <ImagePopup src="/images/marketing/campaignOutput.png" alt="Campaign Output" />
 
-By this, you can easily create a **Campaign** in Bagisto.
+By this, you can easily create a **Campaign** in ExalandStore.

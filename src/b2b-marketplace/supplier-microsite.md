@@ -1,6 +1,6 @@
 # Supplier Microsite
 
-The **Supplier Microsite** in Bagisto B2B Marketplace is like a mini online store for each supplier. It lets suppliers showcase their brand, products, company details, and policies in one place. Buyers can visit the microsite to explore products, request quotes, or place orders directly.
+The **Supplier Microsite** in ExalandStore B2B Marketplace is like a mini online store for each supplier. It lets suppliers showcase their brand, products, company details, and policies in one place. Buyers can visit the microsite to explore products, request quotes, or place orders directly.
 
 This helps suppliers build trust, promote their business, and reach more customers easily.
 

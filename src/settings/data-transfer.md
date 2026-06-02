@@ -2,13 +2,13 @@
 
 Bulk import is a feature that allows users to import large quantities of data into a system quickly and efficiently. 
 
-It simplifies the process and saves time by not having to add each piece of information one by one. The feature works differently for each system and has a vast variety of use cases across many industries as well as Bagisto.
+It simplifies the process and saves time by not having to add each piece of information one by one. The feature works differently for each system and has a vast variety of use cases across many industries as well as ExalandStore.
 
 You can easily Bulk Upload **Products, Customers & Tax Rates**.
 
-### Steps to add Bulk Import in Bagisto
+### Steps to add Bulk Import in ExalandStore
 
-**Step 1:** Go to the Admin panel of Bagisto click on **Settings >> Data Transfer** and click on **Create Import** button.
+**Step 1:** Go to the Admin panel of ExalandStore click on **Settings >> Data Transfer** and click on **Create Import** button.
 
 <ImagePopup src="/images/settings/import.png" alt="Import" />
 
@@ -46,4 +46,4 @@ So now click on the **Save Import** Button.
 
 <ImagePopup src="/images/settings/importOutput.png" alt="Import" />
 
-By the above steps, you can easily create a **Bulk Import** in Bagisto.
+By the above steps, you can easily create a **Bulk Import** in ExalandStore.

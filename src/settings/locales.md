@@ -1,12 +1,12 @@
 # Locales
 
-To display your website in a different language, you need to set the Locale in Bagisto. Having more than one language for your website can improve the shopping experience for your customers.
+To display your website in a different language, you need to set the Locale in ExalandStore. Having more than one language for your website can improve the shopping experience for your customers.
 
-### Set Locales in Bagisto
+### Set Locales in ExalandStore
 
-Here are the steps to set Locales in Bagisto:
+Here are the steps to set Locales in ExalandStore:
 
-**Step 1:** On the Admin panel of Bagisto, go to **Settings >> Locales >> Create Locale** as shown below.
+**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Locales >> Create Locale** as shown below.
 
 <ImagePopup src="/images/settings/locales.png" alt="Locales" />
 
@@ -32,4 +32,4 @@ Now click **Save Locale** as shown in the below image.
 
 <ImagePopup src="/images/settings/localeChannel.png" alt="Locale Channel" />
 
-So, by following these steps, you can easily create **Locales** in Bagisto and make your website available in your desired language.
+So, by following these steps, you can easily create **Locales** in ExalandStore and make your website available in your desired language.

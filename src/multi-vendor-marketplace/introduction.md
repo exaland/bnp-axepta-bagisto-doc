@@ -1,6 +1,6 @@
 # Multi Vendor Marketplace 
 
-[Multi Vendor Marketplace](https://bagisto.com/en/laravel-multi-vendor-marketplace/) transforms a standard store into a complete marketplace, allowing the admin to manage sellers, commissions, product approvals, and order handling, while giving vendors a dedicated dashboard to manage their catalog, orders, and transactions. 
+[Multi Vendor Marketplace](https://ExalandStore.com/en/laravel-multi-vendor-marketplace/) transforms a standard store into a complete marketplace, allowing the admin to manage sellers, commissions, product approvals, and order handling, while giving vendors a dedicated dashboard to manage their catalog, orders, and transactions. 
 
 ### Vendor Management
 
@@ -26,7 +26,7 @@ It ensures smooth processing, timely updates, and better coordination between ve
 
 ### Commission Management
 
-The Marketplace Commission Management system in Bagisto lets platform owners (admins) set and manage commission rates for sellers in a flexible and clear way.
+The Marketplace Commission Management system in ExalandStore lets platform owners (admins) set and manage commission rates for sellers in a flexible and clear way.
 
 This system helps the marketplace earn steady income, and it also gives admins the ability to give special commission rates to sellers as rewards or incentives when necessary.
 

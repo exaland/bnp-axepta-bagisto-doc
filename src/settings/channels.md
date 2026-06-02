@@ -1,8 +1,8 @@
 # Storefront (Channel)
 
-Bagisto allows you to set up and manage multiple domains or stores in a single backend. This guide explains how to create multiple websites with different domains in Bagisto.
+ExalandStore allows you to set up and manage multiple domains or stores in a single backend. This guide explains how to create multiple websites with different domains in ExalandStore.
 
-### Creating Storefront in Bagisto
+### Creating Storefront in ExalandStore
 
 **Step 1:** Go to **Settings >> Channels >> Create Channel**.
 
@@ -15,7 +15,7 @@ Bagisto allows you to set up and manage multiple domains or stores in a single b
 **3. Description:** Add details about your store, its purpose, and products.  
 **4. Inventory Sources:** Select one or more inventories for this store.  
 **5. Root Category:** Choose a root category from the dropdown.  
-**6. Hostname:** Enter the URL of your website to connect it with Bagisto.
+**6. Hostname:** Enter the URL of your website to connect it with ExalandStore.
 
 <ImagePopup src="/images/settings/general.png" alt="General" />
 
@@ -81,4 +81,4 @@ After saving, your new Storefront will be listed.
 
 <ImagePopup src="/images/settings/channelGrid.png" alt="Storefront Grid" />
 
-You have now successfully created a new **Storefront** in Bagisto.
+You have now successfully created a new **Storefront** in ExalandStore.

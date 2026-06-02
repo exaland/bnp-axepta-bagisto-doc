@@ -1,8 +1,8 @@
 # Cart Rules
 
-It is human nature that everyone is attracted to offers, sales, and discounts while shopping. A Cart Rule is applied to the product in the shopping cart. Here we will discuss how to set cart rules in Bagisto.
+It is human nature that everyone is attracted to offers, sales, and discounts while shopping. A Cart Rule is applied to the product in the shopping cart. Here we will discuss how to set cart rules in ExalandStore.
 
-By using it, you can set one or multiple discounts on the same product. Follow the below steps to learn **how to set cart rules in Bagisto**.
+By using it, you can set one or multiple discounts on the same product. Follow the below steps to learn **how to set cart rules in ExalandStore**.
 
 ### Step 1: Add New Cart Rule
 
@@ -99,4 +99,4 @@ Now the **Coupon** is applied successfully.
 
 <ImagePopup src="/images/marketing/couponApplied.png" alt="Coupon Applied Successfully" />
 
-By following the above steps, you can easily create **Cart Rules** in Bagisto.
+By following the above steps, you can easily create **Cart Rules** in ExalandStore.

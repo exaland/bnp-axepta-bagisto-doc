@@ -4,7 +4,7 @@ The **Content** section allows you to customize frontend behavior, promotional b
 
 **Steps to Configure Content Settings**
 
-To update the **Content** configuration in Bagisto:
+To update the **Content** configuration in ExalandStore:
 
 1. Log in to the **Admin Panel**.
 2. Navigate to **Configure → Content**.
@@ -74,7 +74,7 @@ You will see the textbox to add the Copyright Content as shown in the image belo
 
 At last click on **Save Configuration** button.
 
-After this, you can go to the storefront footer of your Bagisto website and check that your copyright content has been successfully added.
+After this, you can go to the storefront footer of your ExalandStore website and check that your copyright content has been successfully added.
 
  <ImagePopup src="/images/configure/copyright-footer.png" alt="Coyright Content" />
 

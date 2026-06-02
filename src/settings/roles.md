@@ -1,6 +1,6 @@
 # Roles
 
-Roles in Bagisto allow the store owner to create users and assign permissions. This helps manage access levels for different users. Here’s how to create an admin ACL role in Bagisto.
+Roles in ExalandStore allow the store owner to create users and assign permissions. This helps manage access levels for different users. Here’s how to create an admin ACL role in ExalandStore.
 
 ### Create Roles
 
@@ -26,4 +26,4 @@ Click on **Save Role**.
 
 <ImagePopup src="/images/settings/roleGrid.png" alt="Role Grid" />
 
-You have now successfully created a **Role** in Bagisto.
+You have now successfully created a **Role** in ExalandStore.

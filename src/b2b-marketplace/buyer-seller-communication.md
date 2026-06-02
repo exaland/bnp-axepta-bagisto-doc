@@ -48,7 +48,7 @@ Customers can navigate to the supplier response page, where they can view replie
 
 ### Supplier to Customer Communication
 
-In the Bagisto B2B Marketplace, suppliers can easily communicate with customers to provide updates or respond to queries.
+In the ExalandStore B2B Marketplace, suppliers can easily communicate with customers to provide updates or respond to queries.
 
 ---
 

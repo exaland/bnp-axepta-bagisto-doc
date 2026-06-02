@@ -1,6 +1,6 @@
 # Exchange Rates Configuration
 
-Bagisto Exchange Rates lets you automatically refresh currency exchange rates by using outside API services.
+ExalandStore Exchange Rates lets you automatically refresh currency exchange rates by using outside API services.
 
 In the admin panel, you can quickly input API credentials, choose your favorite service provider, and arrange a timetable for automatic updates.
 
@@ -16,7 +16,7 @@ Below are the detailed steps of the exchange rates configurations.
 
 **1) General Settings**
 
-In this part, you can pick the default exchange rate service that Bagisto will use.
+In this part, you can pick the default exchange rate service that ExalandStore will use.
 
 You can choose between Exchange Rates API and Fixer API, based on what you like and what you need.
 
@@ -54,7 +54,7 @@ You can start it by using this command:
 
 ### Environment Variable Backup
 
-If you forget to put API keys in the admin panel, Bagisto will automatically grab the API keys from your .env file.
+If you forget to put API keys in the admin panel, ExalandStore will automatically grab the API keys from your .env file.
 
 For the Fixer API, you can use **FIXER_API_KEY**.
 
@@ -86,7 +86,7 @@ Alternatively, you can use the command in the CLI: **php artisan exchange-rate:u
 
 ### Supported Services
 
-Bagisto Exchange Rates API (exchangerate-api.com)
+ExalandStore Exchange Rates API (exchangerate-api.com)
 
 This tool gets all the currency exchange rates with just one API call. You can make 1,500 free requests every month.
 

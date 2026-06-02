@@ -26,4 +26,4 @@ Now you will be able to see the new **Email Template** as shown below.
 
 <ImagePopup src="/images/marketing/output.png" alt="Output" />
 
-So by this, you can easily create an **Email Template** and use it in emails in Bagisto.
+So by this, you can easily create an **Email Template** and use it in emails in ExalandStore.

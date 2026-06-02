@@ -1,6 +1,6 @@
 # Multi Tenant Ecommerce 
 
-[Multi-Tenant eCommerce](https://bagisto.com/en/laravel-multi-tenant-saas/) in Bagisto allows businesses to build a SaaS-based marketplace platform where multiple vendors or merchants can create and manage their own individual stores under a single system.
+[Multi-Tenant eCommerce](https://ExalandStore.com/en/laravel-multi-tenant-saas/) in ExalandStore allows businesses to build a SaaS-based marketplace platform where multiple vendors or merchants can create and manage their own individual stores under a single system.
 
 Each tenant (merchant) gets a dedicated storefront with complete control over products, categories, orders, and customers, while the platform owner manages the overall infrastructure, subscriptions, and revenue models. This setup reduces operational costs for merchants, as they don’t need to invest in separate eCommerce development or hosting.
 
@@ -20,7 +20,7 @@ Tenant Management in the SaaS makes it easy for tenants to sign up and quickly c
 
 After they register, the tenant’s storefront is set up automatically, so they can begin selling immediately without any technical difficulties.
 
-Using the Tenant Admin Panel, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to Bagisto.
+Using the Tenant Admin Panel, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to ExalandStore.
 
 Tenants can also manage orders by making invoices, setting up shipments, and using other menu options to run their store efficiently.
 

@@ -4,7 +4,7 @@
 
 After registration, the tenant’s storefront is set up automatically, allowing them to begin selling immediately without any technical difficulties.
 
-Using the **Tenant Admin Panel**, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to Bagisto. Tenants can also manage orders by creating invoices, setting up shipments, and using other menu options to run their store efficiently.
+Using the **Tenant Admin Panel**, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to ExalandStore. Tenants can also manage orders by creating invoices, setting up shipments, and using other menu options to run their store efficiently.
 
 ## Tenant Registration
 
@@ -45,9 +45,9 @@ After registration is complete, the tenant's online store is set up automaticall
 
 ## Tenant Admin Panel
 
-After registration, tenants can access their admin panel through a unique URL (e.g., **site1.bagisto.com/saas-common/admin/dashboard**).
+After registration, tenants can access their admin panel through a unique URL (e.g., **site1.ExalandStore.com/saas-common/admin/dashboard**).
 
-As shown in the image below, the panel provides a **Bagisto-like backend** where tenants can manage their store operations.
+As shown in the image below, the panel provides a **ExalandStore-like backend** where tenants can manage their store operations.
 
 <ImagePopup src="/images/multi-tenant-ecommerce/5-tenant-dashboard.png" alt="Tenant Admin Dashboard" />
 

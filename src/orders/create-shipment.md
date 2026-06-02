@@ -16,4 +16,4 @@ Now the order is **Completed** which you can check in the order list as shown in
 
 <ImagePopup src="/images/orders/shipmentOutput.png" alt="Shipment Output" />
 
-By following the above steps, you can easily create a **Shipment** in Bagisto.
+By following the above steps, you can easily create a **Shipment** in ExalandStore.

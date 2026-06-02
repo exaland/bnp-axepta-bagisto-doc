@@ -1,6 +1,6 @@
 # Newsletter Subscriptions
 
-Bagisto newsletter subscription is an opportunity for the store owners to let their customers receive an interesting newsletter from your Bagisto website.
+ExalandStore newsletter subscription is an opportunity for the store owners to let their customers receive an interesting newsletter from your ExalandStore website.
 
 Email marketing is one of the most powerful tools for your website.
 

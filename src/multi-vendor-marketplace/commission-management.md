@@ -1,6 +1,6 @@
 # Commission Management
 
-The Marketplace Commission Management system in Bagisto lets platform owners (admins) set and manage commission rates for sellers in a flexible and clear way.
+The Marketplace Commission Management system in ExalandStore lets platform owners (admins) set and manage commission rates for sellers in a flexible and clear way.
 
 This system helps the marketplace earn steady income, and it also gives admins the ability to give special commission rates to sellers as rewards or incentives when necessary.
 
@@ -74,7 +74,7 @@ If the global rate is 10%, but Seller A is given a custom rate of 5%, only 5% wi
 
 ### Sales Reporting for Transparency
 
-Bagisto has a built-in sales reporting tool that allows sellers to easily track how much commission they have paid over time.  
+ExalandStore has a built-in sales reporting tool that allows sellers to easily track how much commission they have paid over time.  
 
 This openness helps create trust between the marketplace and sellers by making sure there are no secret fees.
 

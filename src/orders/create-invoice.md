@@ -20,4 +20,4 @@ After creating an Invoice order status automatically goes from **Pending** to **
 
 <ImagePopup src="/images/orders/invoiceSubmit.png" alt="Invoice Submit" />
 
-By following the above steps, you can easily create a **Invoice** in Bagisto.
+By following the above steps, you can easily create a **Invoice** in ExalandStore.

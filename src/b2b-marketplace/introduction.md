@@ -1,6 +1,6 @@
 # B2B Marketplace 
 
-[B2B Marketplace](https://bagisto.com/en/laravel-b2b-marketplace/) is an advanced solution that transforms your store into a complete wholesale and B2B commerce platform. It enables businesses to manage bulk orders, negotiate pricing, and streamline procurement between buyers, suppliers, and distributors.
+[B2B Marketplace](https://ExalandStore.com/en/laravel-b2b-marketplace/) is an advanced solution that transforms your store into a complete wholesale and B2B commerce platform. It enables businesses to manage bulk orders, negotiate pricing, and streamline procurement between buyers, suppliers, and distributors.
 
 With features like RFQ (Request for Quote), tiered pricing, customer-specific catalogs, and vendor management, the B2B Marketplace offers flexibility and scalability for manufacturers, wholesalers, and enterprises. It combines the power of open-source with enterprise-ready tools to deliver a seamless B2B buying experience.
 
@@ -18,7 +18,7 @@ It builds strong relationships while keeping both parties clear and coordinated 
 
 ### Supplier Microsite 
 
-The Supplier Microsite in Bagisto B2B Marketplace is like a mini online store for each supplier. It lets suppliers showcase their brand, products, company details, and policies in one place.
+The Supplier Microsite in ExalandStore B2B Marketplace is like a mini online store for each supplier. It lets suppliers showcase their brand, products, company details, and policies in one place.
 
 Buyers can visit the microsite to explore products, request quotes, or place orders directly. This helps suppliers build trust, promote their business, and reach more customers easily.
 

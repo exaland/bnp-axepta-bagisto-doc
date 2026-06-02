@@ -1,8 +1,8 @@
 # Catalog Rules
 
-The catalog rule is a special rule that allows the customer to purchase the product at discounted prices that are set by the admin from the backend. Here will discuss how to set catalog rules in Bagisto.
+The catalog rule is a special rule that allows the customer to purchase the product at discounted prices that are set by the admin from the backend. Here will discuss how to set catalog rules in ExalandStore.
 
-The catalog rule is applied to the product before placed into the shopping cart. Follow the below step “How to set catalog rules in Bagisto”.
+The catalog rule is applied to the product before placed into the shopping cart. Follow the below step “How to set catalog rules in ExalandStore”.
 
 ### Step 1: Add New Catalog Rule
 
@@ -70,4 +70,4 @@ You will get a flat 50% OFF on the product after applying a catalog rule as show
 
 <ImagePopup src="/images/marketing/catalogFront.png" alt="Catalog Front" />
 
-By this, you can easily create a **Catalog Rule** in Bagisto.
+By this, you can easily create a **Catalog Rule** in ExalandStore.

@@ -30,7 +30,7 @@ For example, to map the domain **myshopdemo.com** with the SaaS server **IP: 206
 
 ### Step 3: Configure CNAME in SaaS
 
-After mapping the domain with the server IP, log in as **Super Admin** in the SaaS. You will see the tenant’s subdomain already created (e.g., **site1.bagisto.com**).
+After mapping the domain with the server IP, log in as **Super Admin** in the SaaS. You will see the tenant’s subdomain already created (e.g., **site1.ExalandStore.com**).
 
 <ImagePopup src="/images/multi-tenant-ecommerce/3-super-tenants.png" alt="Super Admin Tenants List" />
 

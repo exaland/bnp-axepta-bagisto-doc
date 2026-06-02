@@ -1,6 +1,6 @@
 # Customers Reporting
 
-Bagisto provides detailed customer analytics to help store owners understand their customer base, purchasing habits, and engagement levels. Below is an explanation of the customer-related reports.
+ExalandStore provides detailed customer analytics to help store owners understand their customer base, purchasing habits, and engagement levels. Below is an explanation of the customer-related reports.
 
 ### A) Total Customers 
 

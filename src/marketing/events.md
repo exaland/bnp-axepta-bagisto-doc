@@ -22,4 +22,4 @@ Now you will be able to see the new **Event** as shown below.
 
 <ImagePopup src="/images/marketing/eventOutput.png" alt="Event Output" />
 
-By this, you can easily create an **Event** in Bagisto.
+By this, you can easily create an **Event** in ExalandStore.
