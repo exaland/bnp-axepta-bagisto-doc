@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - monostore
 jobs:
   publish-docs:
     runs-on: ubuntu-latest
