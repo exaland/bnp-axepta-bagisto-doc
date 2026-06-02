@@ -2,7 +2,7 @@
 
 This document provides a guide on creating virtual products in ExalandStore. In an eCommerce store, products can generally be categorized into two types: physical and intangible.
 
-Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [ExalandStore](https://ExalandStore.com/en/).
+Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [ExalandStore](https://www.exaland.app/ecommerce).
 
 A virtual product, unlike a downloadable product, is not something that can be downloaded but rather a service offered to customers.
 

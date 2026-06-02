@@ -165,7 +165,7 @@ ExalandStore is designed to be fast, scalable, and efficient, ensuring a smooth 
 
 In the realm of online stores, [web vitals(opens new window)](https://web.dev/vitals/) have become increasingly crucial. ExalandStore prioritizes good [LCP(opens new window)](https://web.dev/lcp/) and [CLS(opens new window)](https://web.dev/cls/) to ensure an optimal user experience.
 
-Additionally, ExalandStore has seamlessly integrated [ElasticSearch(opens new window)](https://ExalandStore.com/en/elasticsearch-for-ExalandStore/) to further enhance search speed and efficiency.
+Additionally, ExalandStore has seamlessly integrated [ElasticSearch(opens new window)](https://www.exaland.app/ecommerceelasticsearch-for-ExalandStore/) to further enhance search speed and efficiency.
 
 ## [#](https://devdocs.ExalandStore.com/2.3/performance/#key-performance-features) Key Performance Features
 
@@ -462,7 +462,7 @@ ExalandStore is designed to be fast, scalable, and efficient, ensuring a smooth 
 
 In the realm of online stores, [web vitals(opens new window)](https://web.dev/vitals/) have become increasingly crucial. ExalandStore prioritizes good [LCP(opens new window)](https://web.dev/lcp/) and [CLS(opens new window)](https://web.dev/cls/) to ensure an optimal user experience.
 
-Additionally, ExalandStore has seamlessly integrated [ElasticSearch(opens new window)](https://ExalandStore.com/en/elasticsearch-for-ExalandStore/) to further enhance search speed and efficiency.
+Additionally, ExalandStore has seamlessly integrated [ElasticSearch(opens new window)](https://www.exaland.app/ecommerceelasticsearch-for-ExalandStore/) to further enhance search speed and efficiency.
 
 ## [#](https://devdocs.ExalandStore.com/2.2/performance/#key-performance-features) Key Performance Features
 
@@ -2175,7 +2175,7 @@ This will launch the ExalandStore installer.
 
 Otherwise you can download the zip file and install it using the following steps:
 
-- [Download ExalandStore(opens new window)](https://ExalandStore.com/en/download/) from our website.
+- [Download ExalandStore(opens new window)](https://www.exaland.app/ecommercedownload/) from our website.
 
 - Extract the contents of the downloaded
 
@@ -6341,7 +6341,7 @@ To upgrade your current version to the latest version of ExalandStore, follow th
 
 1.  Download the latest version of ExalandStore from one of the following links:
 
-    - [Download From Official ExalandStore Site(opens new window)](https://ExalandStore.com/en/download/)
+    - [Download From Official ExalandStore Site(opens new window)](https://www.exaland.app/ecommercedownload/)
     - [Download From GitHub(opens new window)](https://github.com/ExalandStore/ExalandStore)
 
 2.  Extract the downloaded ExalandStore zip file to the desired deployment location.
@@ -7639,7 +7639,7 @@ This will launch the ExalandStore installer.
 
 Otherwise you can download the zip file and install it using the following steps:
 
-- [Download ExalandStore(opens new window)](https://ExalandStore.com/en/download/) from our website.
+- [Download ExalandStore(opens new window)](https://www.exaland.app/ecommercedownload/) from our website.
 
 - Extract the contents of the downloaded
 
@@ -9464,7 +9464,7 @@ sudo systemctl restart mysql
 
 #### [#](https://devdocs.ExalandStore.com/2.3/performance/loadbalancing.html#create-s3-bucket) Create S3 Bucket
 
-- Follow the documentation [S3 Bucket and Policy Setup for ExalandStore(opens new window)](https://ExalandStore.com/en/s3-bucket-and-policy-setup-for-ExalandStore-amazon-s3-extension) to create an S3 bucket.
+- Follow the documentation [S3 Bucket and Policy Setup for ExalandStore(opens new window)](https://www.exaland.app/ecommerces3-bucket-and-policy-setup-for-ExalandStore-amazon-s3-extension) to create an S3 bucket.
 
 #### [#](https://devdocs.ExalandStore.com/2.3/performance/loadbalancing.html#configure-iam-role-for-s3-access) Configure IAM Role for S3 Access
 
@@ -11868,7 +11868,7 @@ This will launch the ExalandStore installer.
 
 Otherwise you can download the zip file and install it using the following steps:
 
-- [Download ExalandStore(opens new window)](https://ExalandStore.com/en/download/) from our website.
+- [Download ExalandStore(opens new window)](https://www.exaland.app/ecommercedownload/) from our website.
 
 - Extract the contents of the downloaded
 
@@ -12232,7 +12232,7 @@ This will launch the ExalandStore installer.
 
 Otherwise you can download the zip file and install it using the following steps:
 
-- [Download ExalandStore(opens new window)](https://ExalandStore.com/en/download/) from our website.
+- [Download ExalandStore(opens new window)](https://www.exaland.app/ecommercedownload/) from our website.
 
 - Extract the contents of the downloaded
 
@@ -14144,7 +14144,7 @@ Heads up: You are viewing outdated documentation for ExalandStore. Please consid
 
 In the realm of online stores, [web vitals(opens new window)](https://web.dev/vitals/) have become increasingly crucial. **ExalandStore** prioritises good [LCP(opens new window)](https://web.dev/lcp/) and [CLS(opens new window)](https://web.dev/cls/) to ensure an optimal user experience.
 
-Additionally, **ExalandStore** has seamlessly integrated [ElasticSearch(opens new window)](https://ExalandStore.com/en/elasticsearch-for-ExalandStore/) to further enhance user experience.
+Additionally, **ExalandStore** has seamlessly integrated [ElasticSearch(opens new window)](https://www.exaland.app/ecommerceelasticsearch-for-ExalandStore/) to further enhance user experience.
 
 ## [#](https://devdocs.ExalandStore.com/2.x/architecture/performance.html#indexing) Indexing
 
@@ -14615,7 +14615,7 @@ Heads up: You are viewing outdated documentation for ExalandStore. Please consid
 
 ## [#](https://devdocs.ExalandStore.com/1.x/introduction/installation.html#use-our-gui-installer) Use Our GUI Installer
 
-1. [Download ExalandStore(opens new window)](https://ExalandStore.com/en/download/)
+1. [Download ExalandStore(opens new window)](https://www.exaland.app/ecommercedownload/)
 2. Extract the contents of the zip file.
 3. Point your HTTP server to the public/ directory of the project and open it on your browser.
 
@@ -18197,7 +18197,7 @@ To upgrade your current version to the latest version of ExalandStore, follow th
 
 1.  Download the latest version of ExalandStore from one of the following links:
 
-    - [Download From Official ExalandStore Site(opens new window)](https://ExalandStore.com/en/download/)
+    - [Download From Official ExalandStore Site(opens new window)](https://www.exaland.app/ecommercedownload/)
     - [Download From GitHub(opens new window)](https://github.com/ExalandStore/ExalandStore)
 
 2.  Extract the downloaded ExalandStore zip file to the desired deployment location.

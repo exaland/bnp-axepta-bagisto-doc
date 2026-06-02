@@ -1,6 +1,6 @@
 # B2B eCommerce Platform 
 
-[B2B eCommerce Platform](https://ExalandStore.com/en/b2b-commerce-platform/) is an open-source solution that adds advanced Business-to-Business features to the ExalandStore eCommerce platform. It helps companies manage corporate accounts, bulk orders, and team access with ease.
+[B2B eCommerce Platform](https://exaland.app/ecommerce/) is an open-source solution that adds advanced Business-to-Business features to the ExalandStore eCommerce platform. It helps companies manage corporate accounts, bulk orders, and team access with ease.
 
 It is designed to simplify B2B operations by allowing companies to register, manage users, and handle purchasing from a single dashboard.
 

@@ -2,7 +2,7 @@
 
 Configurable products are items or services that offer customers the flexibility to personalize certain attributes according to their preferences. Whether in manufacturing, e-commerce, or software, these products enable users to choose from predefined options, such as features, specifications, colors, or sizes.
 
-This customization allows for a diverse range of variations without the need for creating unique products. Configurable products are designed to meet individual needs, enhancing customer satisfaction and providing a tailored experience in [ExalandStore](https://ExalandStore.com/en/).
+This customization allows for a diverse range of variations without the need for creating unique products. Configurable products are designed to meet individual needs, enhancing customer satisfaction and providing a tailored experience in [ExalandStore](https://www.exaland.app/ecommerce).
 
 ### How to Create a Configurable Product in ExalandStore 
 

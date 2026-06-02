@@ -10,9 +10,6 @@ hero:
     - theme: brand
       text: Get Started →
       link: /getting-started/introduction
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/ExalandStore/ExalandStore
   image:
     src: /logo-large.png
     alt: ExalandStore

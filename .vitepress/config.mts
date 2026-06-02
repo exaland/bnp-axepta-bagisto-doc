@@ -135,10 +135,10 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "Dev Docs", link: "https://devdocs.ExalandStore.com/" },
-      { text: "Extensions", link: "https://ExalandStore.com/en/extensions/" },
-      { text: "Community Forum", link: "https://forums.ExalandStore.com/" },
-      { text: "Contact Us", link: "https://ExalandStore.com/en/contacts/" },
+      // { text: "Dev Docs", link: "https://devdocs.ExalandStore.com/" },
+      // { text: "Extensions", link: "https://exaland.app/extensions/" },
+      // { text: "Community Forum", link: "https://forums.exaland.app/" },
+      { text: "Contact Us", link: "https://exaland.app/contact/" },
     ],
 
 
@@ -496,8 +496,8 @@ export default defineConfig({
 
     footer: {
       message:
-        'Released under the <a href="https://opensource.org/licenses/mit" target="_blank" class="mit-license">MIT License</a>.',
-      copyright: `Copyright © ${new Date().getFullYear()} Webkul`,
+        'Released under the <a href="https://www.exaland.app" target="_blank" class="mit-license">License</a>.',
+      copyright: `Copyright © ${new Date().getFullYear()} Exaland`,
     },
 
     search: {

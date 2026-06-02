@@ -1,6 +1,6 @@
 # Multi Vendor Marketplace 
 
-[Multi Vendor Marketplace](https://ExalandStore.com/en/laravel-multi-vendor-marketplace/) transforms a standard store into a complete marketplace, allowing the admin to manage sellers, commissions, product approvals, and order handling, while giving vendors a dedicated dashboard to manage their catalog, orders, and transactions. 
+[Multi Vendor Marketplace](https://www.exaland.app/ecommercelaravel-multi-vendor-marketplace/) transforms a standard store into a complete marketplace, allowing the admin to manage sellers, commissions, product approvals, and order handling, while giving vendors a dedicated dashboard to manage their catalog, orders, and transactions. 
 
 ### Vendor Management
 

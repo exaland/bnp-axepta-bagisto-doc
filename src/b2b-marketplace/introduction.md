@@ -1,6 +1,6 @@
 # B2B Marketplace 
 
-[B2B Marketplace](https://ExalandStore.com/en/laravel-b2b-marketplace/) is an advanced solution that transforms your store into a complete wholesale and B2B commerce platform. It enables businesses to manage bulk orders, negotiate pricing, and streamline procurement between buyers, suppliers, and distributors.
+[B2B Marketplace](https://www.exaland.app/ecommercelaravel-b2b-marketplace/) is an advanced solution that transforms your store into a complete wholesale and B2B commerce platform. It enables businesses to manage bulk orders, negotiate pricing, and streamline procurement between buyers, suppliers, and distributors.
 
 With features like RFQ (Request for Quote), tiered pricing, customer-specific catalogs, and vendor management, the B2B Marketplace offers flexibility and scalability for manufacturers, wholesalers, and enterprises. It combines the power of open-source with enterprise-ready tools to deliver a seamless B2B buying experience.
 
