@@ -333,161 +333,161 @@ export default defineConfig({
         link: "/payment-method/payment-methods",
       },
 
-      {
-        text: "Multi Vendor Marketplace",
-        collapsed: false,
-        items: [
-          {
-            text: "Introduction",
-            link: "/multi-vendor-marketplace/introduction",
-          },
-          {
-            text: "Vendor Management",
-            link: "/multi-vendor-marketplace/vendor-management",
-          },
-          {
-            text: "Dealership Management",
-            link: "/multi-vendor-marketplace/dealership-management",
-          },
-          {
-            text: "Order Management",
-            link: "/multi-vendor-marketplace/order-management",
-          },
-          {
-            text: "Commission Management",
-            link: "/multi-vendor-marketplace/commission-management",
-          },
-          {
-            text: "Product Management",
-            link: "/multi-vendor-marketplace/product-management",
-          },
-          {
-            text: "Rating Management",
-            link: "/multi-vendor-marketplace/rating-management",
-          },
-          {
-            text: "Payment Management",
-            link: "/multi-vendor-marketplace/payment-management",
-          },
-          {
-            text: "Return Merchandise Authorization (RMA)",
-            link: "/multi-vendor-marketplace/return-merchandise-authorization",
-          },
-          {
-            text: "Seller Catalog Bulk Upload",
-            link: "/multi-vendor-marketplace/seller-catalog-bulk-upload",
-          },
-          {
-            text: "Seller Attributes",
-            link: "/multi-vendor-marketplace/seller-attributes",
-          },
-          {
-            text: "Seller Attributes",
-            link: "/multi-vendor-marketplace/seller-attributes",
-          },
-          {
-            text: "Seller Subscription Management",
-            link: "/multi-vendor-marketplace/seller-subscription-management",
-          },
-          {
-            text: "Mass Payout Management",
-            link: "/multi-vendor-marketplace/mass-payout-management",
-          },
-          {
-            text: "Communications",
-            link: "/multi-vendor-marketplace/communications",
-          },
-        ],
-      },
+      // {
+      //   text: "Multi Vendor Marketplace",
+      //   collapsed: false,
+      //   items: [
+      //     {
+      //       text: "Introduction",
+      //       link: "/multi-vendor-marketplace/introduction",
+      //     },
+      //     {
+      //       text: "Vendor Management",
+      //       link: "/multi-vendor-marketplace/vendor-management",
+      //     },
+      //     {
+      //       text: "Dealership Management",
+      //       link: "/multi-vendor-marketplace/dealership-management",
+      //     },
+      //     {
+      //       text: "Order Management",
+      //       link: "/multi-vendor-marketplace/order-management",
+      //     },
+      //     {
+      //       text: "Commission Management",
+      //       link: "/multi-vendor-marketplace/commission-management",
+      //     },
+      //     {
+      //       text: "Product Management",
+      //       link: "/multi-vendor-marketplace/product-management",
+      //     },
+      //     {
+      //       text: "Rating Management",
+      //       link: "/multi-vendor-marketplace/rating-management",
+      //     },
+      //     {
+      //       text: "Payment Management",
+      //       link: "/multi-vendor-marketplace/payment-management",
+      //     },
+      //     {
+      //       text: "Return Merchandise Authorization (RMA)",
+      //       link: "/multi-vendor-marketplace/return-merchandise-authorization",
+      //     },
+      //     {
+      //       text: "Seller Catalog Bulk Upload",
+      //       link: "/multi-vendor-marketplace/seller-catalog-bulk-upload",
+      //     },
+      //     {
+      //       text: "Seller Attributes",
+      //       link: "/multi-vendor-marketplace/seller-attributes",
+      //     },
+      //     {
+      //       text: "Seller Attributes",
+      //       link: "/multi-vendor-marketplace/seller-attributes",
+      //     },
+      //     {
+      //       text: "Seller Subscription Management",
+      //       link: "/multi-vendor-marketplace/seller-subscription-management",
+      //     },
+      //     {
+      //       text: "Mass Payout Management",
+      //       link: "/multi-vendor-marketplace/mass-payout-management",
+      //     },
+      //     {
+      //       text: "Communications",
+      //       link: "/multi-vendor-marketplace/communications",
+      //     },
+      //   ],
+      // },
 
-      {
-        text: "B2B Marketplace",
-        collapsed: false,
-        items: [
-          { text: "Introduction", link: "/b2b-marketplace/introduction" },
-          {
-            text: "Request for Quotes",
-            link: "/b2b-marketplace/request-for-quotes",
-          },
-          {
-            text: "Buyer Seller Communication",
-            link: "/b2b-marketplace/buyer-seller-communication",
-          },
-          {
-            text: "Supplier Microsite",
-            link: "/b2b-marketplace/supplier-microsite",
-          },
-          { text: "Buying leads", link: "/b2b-marketplace/buying-leads" },
-          {
-            text: "Review Management",
-            link: "/b2b-marketplace/b2b-marketplace-review",
-          },
-        ],
-      },
+      // {
+      //   text: "B2B Marketplace",
+      //   collapsed: false,
+      //   items: [
+      //     { text: "Introduction", link: "/b2b-marketplace/introduction" },
+      //     {
+      //       text: "Request for Quotes",
+      //       link: "/b2b-marketplace/request-for-quotes",
+      //     },
+      //     {
+      //       text: "Buyer Seller Communication",
+      //       link: "/b2b-marketplace/buyer-seller-communication",
+      //     },
+      //     {
+      //       text: "Supplier Microsite",
+      //       link: "/b2b-marketplace/supplier-microsite",
+      //     },
+      //     { text: "Buying leads", link: "/b2b-marketplace/buying-leads" },
+      //     {
+      //       text: "Review Management",
+      //       link: "/b2b-marketplace/b2b-marketplace-review",
+      //     },
+      //   ],
+      // },
 
-      {
-        text: "Multi Tenant Ecommerce",
-        collapsed: false,
-        items: [
-          {
-            text: "Introduction",
-            link: "/multi-tenant-ecommerce/introduction",
-          },
-          {
-            text: "Super Admin Management",
-            link: "/multi-tenant-ecommerce/super-admin-management",
-          },
-          {
-            text: "Tenant Management",
-            link: "/multi-tenant-ecommerce/tenant-management",
-          },
-          {
-            text: "CName Mapping",
-            link: "/multi-tenant-ecommerce/cname-mapping",
-          },
-        ],
-      },
+      // {
+      //   text: "Multi Tenant Ecommerce",
+      //   collapsed: false,
+      //   items: [
+      //     {
+      //       text: "Introduction",
+      //       link: "/multi-tenant-ecommerce/introduction",
+      //     },
+      //     {
+      //       text: "Super Admin Management",
+      //       link: "/multi-tenant-ecommerce/super-admin-management",
+      //     },
+      //     {
+      //       text: "Tenant Management",
+      //       link: "/multi-tenant-ecommerce/tenant-management",
+      //     },
+      //     {
+      //       text: "CName Mapping",
+      //       link: "/multi-tenant-ecommerce/cname-mapping",
+      //     },
+      //   ],
+      // },
 
-      {
-        text: "B2B eCommerce Platform",
-        collapsed: false,
-        items: [
-          {
-            text: "Introduction",
-            link: "/b2b-ecommerce-platform/introduction",
-          },
-          {
-            text: "Company Registration",
-            link: "/b2b-ecommerce-platform/company-registration",
-          },
-          {
-            text: "Role Based Permissions",
-            link: "/b2b-ecommerce-platform/role-based-permissions",
-          },
-          {
-            text: "Purchase Orders",
-            link: "/b2b-ecommerce-platform/purchase-orders",
-          },
-          {
-            text: "Requisition Lists",
-            link: "/b2b-ecommerce-platform/requisition-lists",
-          },
-          { text: "Quick Order", link: "/b2b-ecommerce-platform/quick-order" },
-          {
-            text: "Request for Quote",
-            link: "/b2b-ecommerce-platform/request-for-quote",
-          },
-          {
-            text: "Quotation Handling",
-            link: "/b2b-ecommerce-platform/quotation-handling",
-          },
-        ],
-      },
+      // {
+      //   text: "B2B eCommerce Platform",
+      //   collapsed: false,
+      //   items: [
+      //     {
+      //       text: "Introduction",
+      //       link: "/b2b-ecommerce-platform/introduction",
+      //     },
+      //     {
+      //       text: "Company Registration",
+      //       link: "/b2b-ecommerce-platform/company-registration",
+      //     },
+      //     {
+      //       text: "Role Based Permissions",
+      //       link: "/b2b-ecommerce-platform/role-based-permissions",
+      //     },
+      //     {
+      //       text: "Purchase Orders",
+      //       link: "/b2b-ecommerce-platform/purchase-orders",
+      //     },
+      //     {
+      //       text: "Requisition Lists",
+      //       link: "/b2b-ecommerce-platform/requisition-lists",
+      //     },
+      //     { text: "Quick Order", link: "/b2b-ecommerce-platform/quick-order" },
+      //     {
+      //       text: "Request for Quote",
+      //       link: "/b2b-ecommerce-platform/request-for-quote",
+      //     },
+      //     {
+      //       text: "Quotation Handling",
+      //       link: "/b2b-ecommerce-platform/quotation-handling",
+      //     },
+      //   ],
+      // },
 
-      {
-        text: "Native Mobile App",
-        link: "/open-source-mobile-app/open-source-mobile-app",
-      },
+      // {
+      //   text: "Native Mobile App",
+      //   link: "/open-source-mobile-app/open-source-mobile-app",
+      // },
     ],
 
     outline: {
