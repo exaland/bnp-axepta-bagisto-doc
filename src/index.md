@@ -15,12 +15,12 @@ hero:
     alt: ExalandStore
 
 features:
-  - title: Open Source
-    details: Leverage open-source technology to customize, extend, and contribute to the platform freely.
-    icon: '<img src="/icons/opensource.png" alt="Open Source" style="width:40px;height:40px;" />'
+  - title: Powerful eCommerce Platform
+    details: Create professional online stores with advanced catalog management, inventory control, and order processing capabilities.
+    icon: 🛍️
     link: /getting-started/introduction.html
-  - title: Multi Vendor Marketplace (Paid)
-    details: Build a platform where multiple vendors can register, sell their products, and manage their stores independently.
+  - title: Multi Vendor Marketplace
+    details: Transform your store into a marketplace where multiple vendors can manage products, orders, and sales independently.
     icon: 🏬
     link: /multi-vendor-marketplace/introduction.html
   - title: B2B Marketplace (Paid)
@@ -31,14 +31,4 @@ features:
     details: Deploy a multi-tenant SaaS e-commerce platform with separate stores, shared resources, and centralized administration.
     icon: ☁️
     link: /multi-tenant-ecommerce/introduction.html
-
-  - title: Open Source B2B eCommerce Platform
-    details: The B2B eCommerce Platform enhances your ExalandStore store with advanced Business-to-Business (B2B) features.
-    icon: 💼
-    link: /b2b-ecommerce-platform/introduction.html
-
-  - title: Native Mobile App 
-    details: Launch fully functional Android and iOS mobile applications for your ExalandStore store with real-time synchronization, push notifications, and seamless shopping experiences.
-    icon: 📱
-    link: /open-source-mobile-app/open-source-mobile-app.html
 ---

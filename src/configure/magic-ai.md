@@ -1,4 +1,4 @@
-# Magic AI
+# Magic AI (Paid)
 
 To configure Magic AI, go to the Admin Panel and navigate to **Configure -> Magic AI**.
 
