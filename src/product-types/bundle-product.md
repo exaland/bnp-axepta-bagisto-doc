@@ -1,11 +1,11 @@
 # Bundle Product
 
-Today's document will guide you on how to create bundle products in ExalandStore. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [ExalandStore](https://ExalandStore.com/en/).
+Today's document will guide you on how to create bundle products in ExalandStore. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [ExalandStore](https://www.exaland.app/ecommerce).
 
 Each item in a bundle product can be based on one of the following product types:
 
-- [Simple Product](https://ExalandStore.com/en/how-to-create-simple-product-in-ExalandStore/)
-- [Configurable Products](https://ExalandStore.com/en/how-to-create-configurable-product-in-ExalandStore/)
+- [Simple Product](https://www.exaland.app/ecommercehow-to-create-simple-product-in-ExalandStore/)
+- [Configurable Products](https://www.exaland.app/ecommercehow-to-create-configurable-product-in-ExalandStore/)
 
 ### Steps To Create A Bundle Product In ExalandStore
 
