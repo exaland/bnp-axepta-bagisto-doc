@@ -1,5 +1,5 @@
-# Mass Payout Management 
+# Gestion des paiements de masse 
 
-The system lets admins check, approve, and release payments for several sellers at the same time, making transaction management quicker and more efficient.
+Le système permet aux administrateurs de vérifier, d'approuver et de débloquer les paiements de plusieurs vendeurs en même temps, rendant la gestion des transactions plus rapide et plus efficace. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/bulk-payout-by-admin.webp" alt="Global Commission Configuration" />

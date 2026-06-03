@@ -1,90 +1,90 @@
-# Virtual Product
+# Produit virtuel 
 
-This document provides a guide on creating virtual products in ExalandStore. In an eCommerce store, products can generally be categorized into two types: physical and intangible.
+Ce document fournit un guide sur la création de produits virtuels dans ExalandStore. Dans une boutique de commerce électronique, les produits peuvent généralement être classés en deux types : physiques et immatériels. 
 
-Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [ExalandStore](https://www.exaland.app/ecommerce).
+Les produits virtuels entrent dans la catégorie des produits immatériels, y compris les adhésions, services, garanties ou abonnements à [ExalandStore](https://www.exaland.app/ecommerce). 
 
-A virtual product, unlike a downloadable product, is not something that can be downloaded but rather a service offered to customers.
+Un produit virtuel, contrairement à un produit téléchargeable, n’est pas quelque chose qui peut être téléchargé mais plutôt un service proposé aux clients. 
 
-### Steps To Create Virtual Product In ExalandStore 
+### Étapes pour créer un produit virtuel dans ExalandStore 
 
-1. Go to **Catalog >> Products >> Select Virtual** under Product Type select **Family**.
-2. Enter **SKU** and **Save the Product**, as shown in the image below.
+1. Accédez à **Catalogue >> Produits >> Sélectionnez Virtuel** sous Type de produit, sélectionnez **Famille**. 
+2. Saisissez **SKU** et **Enregistrez le produit**, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/virtual-product/virtual.png" alt="Virtual Product" />
+<ImagePopup src="/images/virtual-product/virtual.png" alt="Virtual Product" /> 
 
-After clicking on the Save Product button, you'll be redirected to the next page with various new settings.
+Après avoir cliqué sur le bouton Enregistrer le produit, vous serez redirigé vers la page suivante avec divers nouveaux paramètres. 
 
-### General Settings
+### Paramètres généraux 
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, 
-    e.g., /products/fitness-membership (fitness-membership is a URL key).
-- **Tax Category:** Select the tax category from the dropdown list.
+- **Nom :** Saisissez le nom du produit. 
+- **Clé URL :** Ce sera la fin de l'URL, 
+par exemple, /products/fitness-membership (fitness-membership est une clé URL). 
+- **Catégorie fiscale :** Sélectionnez la catégorie fiscale dans la liste déroulante. 
 
-<ImagePopup src="/images/virtual-product/editProduct.png" alt="Edit Product" />
+<ImagePopup src="/images/virtual-product/editProduct.png" alt="Edit Product" /> 
 
-#### New
+#### Nouveau 
 
-- Enable the toggle button to feature the product as a new product, which will be shown under the New Products section.
+- Activez le bouton bascule pour présenter le produit en tant que nouveau produit, qui sera affiché dans la section Nouveaux produits. 
 
-#### Featured
+#### En vedette 
 
-- Enable the toggle button to show the product under the Featured Products section.
+- Activez le bouton bascule pour afficher le produit dans la section Produits en vedette. 
 
-#### Visible Individually
+#### Visible individuellement 
 
-- Enable the toggle button to make the product visible on the frontend.
+- Activez le bouton bascule pour rendre le produit visible sur le frontend. 
 
-#### Status
+#### Statut 
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- Activez le bouton bascule pour activer le produit sur votre boutique de commerce électronique. 
 
-#### Guest Checkout
+#### Paiement des invités 
 
-- Enable the toggle button to allow guest customers to order the product.
+- Activez le bouton bascule pour permettre aux clients invités de commander le produit. 
 
-<ImagePopup src="/images/virtual-product/toggleButtons.png" alt="Toggle Buttons" />
+<ImagePopup src="/images/virtual-product/toggleButtons.png" alt="Toggle Buttons" /> 
 
-### Description
+### Descriptif 
 
-Fill in the following fields under the description:
+Remplissez les champs suivants sous la description : 
 
-- **Short Description:** Enter a brief description of the product feature.
-- **Description:** Provide a detailed description of the product.
+- **Description courte :** Saisissez une brève description de la fonctionnalité du produit. 
+- **Description :** Fournissez une description détaillée du produit. 
 
-<ImagePopup src="/images/virtual-product/description.png" alt="Product Description" />
+<ImagePopup src="/images/virtual-product/description.png" alt="Product Description" /> 
 
-### Meta Description
+### Méta-description 
 
-Fill in the following fields under meta description for improved searchability on search engines:
+Remplissez les champs suivants sous la méta description pour une meilleure recherche sur les moteurs de recherche : 
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **Meta Title :** Indiquez le titre principal du produit. 
+- **Méta-mots-clés :** fournissez des méta-mots-clés pour une optimisation spécifique des moteurs de recherche. 
+- **Méta description :** Saisissez une description pour de meilleures listes dans les moteurs de recherche. 
 
-<ImagePopup src="/images/virtual-product/metaDescription.png" alt="Meta Description" />
+<ImagePopup src="/images/virtual-product/metaDescription.png" alt="Meta Description" /> 
 
-### Images
+### Images 
 
-Add product images by clicking on **Add Images**. Multiple images can be added.
+Ajoutez des images de produits en cliquant sur **Ajouter des images**. Plusieurs images peuvent être ajoutées. 
 
-<ImagePopup src="/images/virtual-product/image.png" alt="Product Images" />
+<ImagePopup src="/images/virtual-product/image.png" alt="Product Images" /> 
 
-### Inventory
+### Inventaire 
 
-Insert the quantity of the product available in your inventory. The default is set to 0, indicating out of stock on the frontend.
+Insérez la quantité du produit disponible dans votre inventaire. La valeur par défaut est définie sur 0, indiquant une rupture de stock sur le frontend. 
 
-<ImagePopup src="/images/virtual-product/inventories.png" alt="Inventories" />
+<ImagePopup src="/images/virtual-product/inventories.png" alt="Inventories" /> 
 
-### Price
+### Prix 
 
-Insert the price, cost, and special price. Set the special price date for displaying the special price on the website.
+Insérez le prix, le coût et le prix spécial. Définissez la date du prix spécial pour afficher le prix spécial sur le site Web. 
 
-<ImagePopup src="/images/virtual-product/price.png" alt="Product Price" />
+<ImagePopup src="/images/virtual-product/price.png" alt="Product Price" /> 
 
-### Product At Front End
+### Produit en amont 
 
-The virtual product will be visible at the front end.
+Le produit virtuel sera visible au début. 
 
 <ImagePopup src="/images/virtual-product/output.png" alt="Virtual Product Output" />

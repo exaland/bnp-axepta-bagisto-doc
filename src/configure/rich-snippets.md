@@ -1,17 +1,17 @@
-# Rich Snippets
+# Extraits enrichis 
 
-Rich Snippets (or "Rich Results") are enhanced Google search results showing extra information pulled from structured data in a page's HTML.
+Les Rich Snippets (ou « Rich Results ») sont des résultats de recherche Google améliorés affichant des informations supplémentaires extraites de données structurées dans le code HTML d'une page. 
 
-To configure, go to the Admin Panel and navigate to **Configure >> Rich Snippets**.
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Rich Snippets**. 
 
-### Products
+### Produits 
 
-Products are items available for purchase. Select **Enable/Disable** and click the **Save Configuration** button.
+Les produits sont des articles disponibles à l'achat. Sélectionnez **Activer/Désactiver** et cliquez sur le bouton **Enregistrer la configuration**. 
 
-<ImagePopup src="/images/configure/products.png" alt="Products Rich Snippets" />
+<ImagePopup src="/images/configure/products.png" alt="Products Rich Snippets" /> 
 
-### Categories
+### Catégories 
 
-Categories are groups that organize similar products for easier browsing and navigation. Select **Enable/Disable** and click the **Save Configuration** button.
+Les catégories sont des groupes qui organisent des produits similaires pour faciliter la navigation et la navigation. Sélectionnez **Activer/Désactiver** et cliquez sur le bouton **Enregistrer la configuration**. 
 
 <ImagePopup src="/images/configure/categories.png" alt="Categories Rich Snippets" />

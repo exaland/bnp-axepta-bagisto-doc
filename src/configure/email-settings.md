@@ -1,9 +1,9 @@
-# E-mail Settings
+# Paramètres de messagerie 
 
-Set email sender name, shop email address, admin name, and admin email address.
+Définissez le nom de l'expéditeur de l'e-mail, l'adresse e-mail de la boutique, le nom de l'administrateur et l'adresse e-mail de l'administrateur. 
 
-To add, go to the Admin Panel and click on **Configure >> Email Settings**.
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> Paramètres de messagerie**. 
 
-<ImagePopup src="/images/configure/emailSetting.png" alt="Email Settings" />
+<ImagePopup src="/images/configure/emailSetting.png" alt="Email Settings" /> 
 
-After clicking on the **Save Configuration** button.
+Après avoir cliqué sur le bouton **Enregistrer la configuration**.

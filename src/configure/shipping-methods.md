@@ -1,20 +1,20 @@
-# Shipping Methods
+# Méthodes d'expédition 
 
-To deliver products, ExalandStore provides two types of shipping methods.  
-To configure, go to the Admin Panel and navigate to **Configure >> Shipping Methods**.
+Pour livrer les produits, ExalandStore propose deux types de modes d'expédition. 
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Méthodes d'expédition**. 
 
-### 1) Free Shipping
+### 1) Livraison gratuite 
 
-Free shipping is a method where the cost of shipping is waived, and the seller covers the shipping expenses for delivering goods to the buyer.
+La livraison gratuite est une méthode dans laquelle les frais d'expédition sont supprimés et le vendeur couvre les frais d'expédition pour la livraison des marchandises à l'acheteur. 
 
-### 2) Flat Rate Shipping
+### 2) Expédition forfaitaire 
 
-Flat rate shipping is a method where a fixed fee is charged for shipping, regardless of weight, size, or distance of the package. This simplifies shipping costs and benefits both buyers and sellers.
+L'expédition forfaitaire est une méthode dans laquelle des frais fixes sont facturés pour l'expédition, quels que soient le poids, la taille ou la distance du colis. Cela simplifie les frais d’expédition et profite à la fois aux acheteurs et aux vendeurs. 
 
-<ImagePopup src="/images/configure/shippingMethods.png" alt="Shipping Methods Configuration" />
+<ImagePopup src="/images/configure/shippingMethods.png" alt="Shipping Methods Configuration" /> 
 
-After making changes, click on the **Save Configuration** button.
+Après avoir apporté les modifications, cliquez sur le bouton **Enregistrer la configuration**. 
 
-### Shipping Method Frontend
+### Frontend de la méthode d'expédition 
 
 <ImagePopup src="/images/configure/shippingOutput.png" alt="Shipping Methods Frontend View" />

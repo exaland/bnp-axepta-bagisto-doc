@@ -1,94 +1,94 @@
-# Commission Management
+# Gestion des commissions 
 
-The Marketplace Commission Management system in ExalandStore lets platform owners (admins) set and manage commission rates for sellers in a flexible and clear way.
+Le système de gestion des commissions du Marketplace d'ExalandStore permet aux propriétaires de plateforme (administrateurs) de définir et de gérer les taux de commission pour les vendeurs de manière flexible et claire. 
 
-This system helps the marketplace earn steady income, and it also gives admins the ability to give special commission rates to sellers as rewards or incentives when necessary.
+Ce système aide le marché à gagner un revenu stable et donne également aux administrateurs la possibilité d'accorder des taux de commission spéciaux aux vendeurs à titre de récompenses ou d'incitations si nécessaire. 
 
-There are three main parts to commission handling:
+La gestion des commissions comporte trois parties principales : 
 
-**1) Admin Commission Percentage (Global Rate)**
+**1) Pourcentage de commission administrative (taux global)** 
 
-**2) Seller Commission (Custom Rate)**
+**2) Commission du vendeur (taux personnalisé)** 
 
-**3) Sales Reporting for Transparency**
+**3) Rapports de ventes pour la transparence** 
 
-### Admin Commission Percentage (Global Rate)
+### Pourcentage de commission d'administration (taux global) 
 
-A global commission rate is a standard percentage that automatically applies to all sellers.
+Un taux de commission global est un pourcentage standard qui s'applique automatiquement à tous les vendeurs. 
 
-This is the easiest and most reliable way to make money from sales since every seller on the platform pays the same rate.
+Il s’agit du moyen le plus simple et le plus fiable de gagner de l’argent grâce aux ventes puisque chaque vendeur de la plateforme paie le même tarif. 
 
-**Why it’s important:**
+**Pourquoi c'est important :** 
 
-1) Makes sure that all sellers are treated fairly and equally.  
-2) Simple to handle — there's no need to set up separate commissions unless it's necessary.  
-3) Supports keeping a steady income for the marketplace.  
+1) S'assure que tous les vendeurs sont traités équitablement et équitablement. 
+2) Simple à gérer : il n'est pas nécessaire de créer des commissions distinctes, sauf si cela est nécessaire. 
+3) Prend en charge le maintien d’un revenu stable pour le marché. 
 
-**Steps to set the global commission**
+**Étapes pour fixer la commission globale** 
 
-1) In the Admin Panel, go to **Configure → Marketplace → General**.  
-2) Locate the **Admin Commission Percentage** field.  
-3) Enter the percentage rate you want to apply globally.  
-4) Click **Save Configuration** — the rate will now be applied automatically to all sellers.  
+1) Dans le panneau d'administration, accédez à **Configurer → Marketplace → Général**. 
+2) Localisez le champ **Pourcentage de commission administrative**. 
+3) Entrez le taux de pourcentage que vous souhaitez appliquer globalement. 
+4) Cliquez sur **Enregistrer la configuration** — le tarif sera désormais appliqué automatiquement à tous les vendeurs. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/configure_commission.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/configure_commission.png" alt="Global Commission Configuration" /> 
 
-**Example:**  
-If the global rate is 10%, and a seller sells something for $1,000, the admin will automatically get $100 as their commission, while the seller keeps $900.
+**Exemple :** 
+Si le taux global est de 10 % et qu'un vendeur vend quelque chose pour 1 000 $, l'administrateur recevra automatiquement 100 $ de commission, tandis que le vendeur conservera 900 $. 
 
----
+--- 
 
-### Seller Commission (Custom Rate)
+### Commission du vendeur (taux personnalisé) 
 
-At times, you might want to establish a unique commission rate for specific sellers.  
+Parfois, vous souhaiterez peut-être établir un taux de commission unique pour des vendeurs spécifiques. 
 
-This is called a custom commission rate and it can be either higher or lower than the overall rate, based on the agreement.
+C'est ce qu'on appelle un taux de commission personnalisé et il peut être supérieur ou inférieur au taux global, en fonction de l'accord. 
 
-**When to use a custom commission:**
+**Quand utiliser une commission personnalisée :** 
 
-1) To motivate new sellers by offering them lower commission rates.  
-2) As a bonus for sellers who perform really well.  
-3) For unique partnership deals.  
-4) For short-term promotions or boosts during seasonal sales.  
+1) Motiver les nouveaux vendeurs en leur proposant des taux de commission inférieurs. 
+2) En prime pour les vendeurs qui fonctionnent très bien. 
+3) Pour des accords de partenariat uniques. 
+4) Pour des promotions à court terme ou des boosts lors des soldes saisonnières. 
 
-**Key feature:**
+**Caractéristique clé :** 
 
-1) Status Toggle can enable or disable a custom commission anytime.  
-2) When it's on, the custom commission takes the place of the global commission for that specific seller.  
-3) When disabled, the seller returns to the global rate.  
+1) Status Toggle peut activer ou désactiver une commission personnalisée à tout moment. 
+2) Lorsqu'elle est activée, la commission personnalisée remplace la commission globale pour ce vendeur spécifique. 
+3) Une fois désactivé, le vendeur revient au tarif global. 
 
-**How to set a custom commission for a seller:**
+**Comment définir une commission personnalisée pour un vendeur :** 
 
-1) In the Admin Panel, go to: **Marketplace → Sellers**.  
-2) Find the seller you want to edit and click the **Edit** icon.  
-3) Locate the **Seller Commission** section.  
-4) Enter the desired rate and use the **Status Toggle** to turn it ON.  
-5) Save the settings — the custom rate will now apply only to that seller.  
+1) Dans le panneau d'administration, accédez à : **Marketplace → Vendeurs**. 
+2) Recherchez le vendeur que vous souhaitez modifier et cliquez sur l'icône **Modifier**. 
+3) Localisez la section **Commission du vendeur**. 
+4) Entrez le taux souhaité et utilisez le **Status Toggle** pour l'activer. 
+5) Enregistrez les paramètres : le tarif personnalisé s'appliquera désormais uniquement à ce vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/seller_commission.png" alt="Seller Custom Commission" />
+<ImagePopup src="/images/multi-vendor-marketplace/seller_commission.png" alt="Seller Custom Commission" /> 
 
-**Example:**  
-If the global rate is 10%, but Seller A is given a custom rate of 5%, only 5% will be deducted from Seller A’s sales, while others continue to be charged 10%.
+**Exemple :** 
+Si le taux global est de 10 %, mais que le vendeur A bénéficie d'un taux personnalisé de 5 %, seuls 5 % seront déduits des ventes du vendeur A, tandis que les autres continueront à être facturés à 10 %. 
 
----
+--- 
 
-### Sales Reporting for Transparency
+### Rapports de ventes pour la transparence 
 
-ExalandStore has a built-in sales reporting tool that allows sellers to easily track how much commission they have paid over time.  
+ExalandStore dispose d'un outil de reporting des ventes intégré qui permet aux vendeurs de suivre facilement le montant des commissions qu'ils ont payées au fil du temps. 
 
-This openness helps create trust between the marketplace and sellers by making sure there are no secret fees.
+Cette ouverture contribue à créer une confiance entre le marché et les vendeurs en garantissant qu'il n'y a pas de frais secrets. 
 
-**Benefits of sales reporting:**
+**Avantages des rapports de ventes :** 
 
-1) Sellers can track their total commission paid to the admin.  
-2) Provides insights into how commissions impact overall profits.  
-3) Encourages healthy business relationships.  
+1) Les vendeurs peuvent suivre la commission totale versée à l’administrateur. 
+2) Fournit un aperçu de l’impact des commissions sur les bénéfices globaux. 
+3) Encourage des relations d’affaires saines. 
 
-**Where sellers can find this report:**
+**Où les vendeurs peuvent trouver ce rapport :** 
 
-1) From the **Seller Dashboard**, navigate to: **Reporting → Total Commission Paid**.  
+1) Depuis le **Tableau de bord du vendeur**, accédez à : **Rapports → Commission totale payée**. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/total_commission_paid_reporting.png" alt="Total Commission Paid Reporting" />
+<ImagePopup src="/images/multi-vendor-marketplace/total_commission_paid_reporting.png" alt="Total Commission Paid Reporting" /> 
 
-**Example:**  
-A seller selling $50,000 worth of goods at a 10% commission rate will see $5,000 listed in the “Total Commission Paid” section.
+**Exemple :** 
+Un vendeur vendant des marchandises d'une valeur de 50 000 $ avec un taux de commission de 10 % verra 5 000 $ répertorié dans la section « Commission totale payée ».

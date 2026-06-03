@@ -1,52 +1,52 @@
-# Seller Attributes
+# Attributs du vendeur 
 
-Seller Attributes are custom fields created by the admin to collect additional information about sellers, beyond basic details.
+Les attributs du vendeur sont des champs personnalisés créés par l'administrateur pour collecter des informations supplémentaires sur les vendeurs, au-delà des détails de base. 
 
-These attributes help store specific seller data such as shop details, contact information, or business related fields.
+Ces attributs permettent de stocker des données spécifiques sur le vendeur, telles que les détails du magasin, les coordonnées ou les champs liés à l'entreprise. 
 
-The admin decides which seller attributes must be filled out and where they show up, like during seller registration or in the seller's profile.
+L'administrateur décide quels attributs du vendeur doivent être renseignés et où ils apparaissent, comme lors de l'inscription du vendeur ou dans le profil du vendeur. 
 
-Sellers complete these attributes when they sign up or update their profile, depending on what the admin has set up.
+Les vendeurs complètent ces attributs lorsqu'ils s'inscrivent ou mettent à jour leur profil, en fonction de ce que l'administrateur a configuré. 
 
-Seller attributes help organize seller profiles better and let the marketplace show important seller information clearly.
+Les attributs des vendeurs aident à mieux organiser les profils des vendeurs et permettent au marché d'afficher clairement les informations importantes sur le vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/1-seller-attributes.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/1-seller-attributes.webp" alt="Customer Email and Password" /> 
 
-Admins can easily view all existing seller attributes and create new ones as needed for sellers.
+Les administrateurs peuvent facilement afficher tous les attributs de vendeur existants et en créer de nouveaux selon les besoins des vendeurs. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/2-admin-create-seller-attribute.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/2-admin-create-seller-attribute.webp" alt="Customer Email and Password" /> 
 
-**1) Visible on Signup Page:** This attribute is shown on the seller registration page during signup.
+**1) Visible sur la page d'inscription :** Cet attribut est affiché sur la page d'inscription du vendeur lors de l'inscription. 
 
-**2) Visible on Profile Page:** This attribute is shown on the seller profile page when updating details.
+**2) Visible sur la page de profil :** Cet attribut est affiché sur la page de profil du vendeur lors de la mise à jour des détails. 
 
-**3) Visible on Public Page:** This attribute is shown on the seller’s public profile on the storefront.
+**3) Visible sur la page publique :** Cet attribut est affiché sur le profil public du vendeur sur la vitrine. 
 
-### Mapping of the Seller Attributes:
+### Cartographie des attributs du vendeur : 
 
-**Step 1:** Create the required attributes.
+**Étape 1 :** Créez les attributs requis. 
 
-**Step 2:** Drag and drop the Mapping button to assign the attributes to the appropriate group.
+**Étape 2 :** Faites glisser et déposez le bouton Mappage pour attribuer les attributs au groupe approprié. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/3-seller-attribute-mapping.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/3-seller-attribute-mapping.webp" alt="Customer Email and Password" /> 
 
-### Seller Dashboard
+### Tableau de bord du vendeur 
 
-Sellers can access a dedicated dashboard to manage their activities by opening the marketplace and clicking the **Open Shop** button.
+Les vendeurs peuvent accéder à un tableau de bord dédié pour gérer leurs activités en ouvrant la place de marché et en cliquant sur le bouton **Ouvrir la boutique**. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/4-ExalandStore-openshop-e.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/4-ExalandStore-openshop-e.webp" alt="Customer Email and Password" /> 
 
-It will be redirected to the seller registration page to sign up as a seller.
+Il sera redirigé vers la page d'inscription du vendeur pour vous inscrire en tant que vendeur. 
 
-Customers can then create their seller account by entering the required details, including their Shop URL.
+Les clients peuvent ensuite créer leur compte vendeur en saisissant les informations requises, y compris l'URL de leur boutique. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/5-seller-register.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/5-seller-register.webp" alt="Customer Email and Password" /> 
 
-Add the additional information, and after filling in all the required details, click the **Register** button.
+Ajoutez les informations supplémentaires et après avoir rempli tous les détails requis, cliquez sur le bouton **S'inscrire**. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/6-attribute-shop-sign-up.webp" alt="Customer Email and Password" />
+<ImagePopup src="/images/multi-vendor-marketplace/6-attribute-shop-sign-up.webp" alt="Customer Email and Password" /> 
 
-After registration, your seller account is created, and you can log in to the seller dashboard by clicking the **Sign In** button.
+Après l'inscription, votre compte vendeur est créé et vous pouvez vous connecter au tableau de bord du vendeur en cliquant sur le bouton **Connexion**. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/7-ExalandStore-mp.webp" alt="Customer Email and Password" />
 

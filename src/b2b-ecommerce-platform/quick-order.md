@@ -1,42 +1,42 @@
-# Quick Order
+# Commande rapide
 
-The Quick Order feature allows companies to add multiple products to their cart instantly using product SKUs or by uploading a CSV file.
+La fonction de commande rapide permet aux entreprises d'ajouter instantanément plusieurs produits à leur panier à l'aide des SKU de produits ou en téléchargeant un fichier CSV.
 
-It helps save time during bulk or repeat purchases by simplifying the product selection process.
+Il permet de gagner du temps lors des achats groupés ou répétés en simplifiant le processus de sélection des produits.
 
-### Steps to Use Quick Order
+### Étapes pour utiliser la commande rapide
 
-Go to **My Account → Profile → Quick Orders** from the company storefront.
+Accédez à **Mon compte → Profil → Commandes rapides** depuis la vitrine de l'entreprise.
 
-The Quick Order page will appear, allowing you to search products, enter SKUs, or upload a file for quick bulk ordering.
+La page Commande rapide apparaîtra, vous permettant de rechercher des produits, de saisir des SKU ou de télécharger un fichier pour une commande groupée rapide.
 
-**Available Options:**
+**Options disponibles :**
 
-**1) Search Product by SKU or Name –** Enter a product’s SKU or name to locate it quickly.
+**1) Rechercher un produit par SKU ou par nom –** Saisissez le SKU ou le nom d'un produit pour le localiser rapidement.
 
-**2) Enter Multiple SKUs –** Add several SKUs at once by separating them with commas.
+**2) Saisissez plusieurs SKU –** Ajoutez plusieurs SKU à la fois en les séparant par des virgules.
 
-**3) Upload File –** Upload a CSV file to add multiple products in one go.
+**3) Télécharger le fichier –** Téléchargez un fichier CSV pour ajouter plusieurs produits en une seule fois.
 
-**4) Supported Formats –** Only CSV files are supported. The columns should include:
+**4) Formats pris en charge –** Seuls les fichiers CSV sont pris en charge. Les colonnes doivent inclure :
 
-    - SKU – Product SKU
+- SKU – SKU du produit
 
-    - Quantity – Quantity to be added
+- Quantité – Quantité à ajouter
 
-**5) Download Sample File –** Download a sample CSV for reference before uploading your own.
+**5) Téléchargez un exemple de fichier –** Téléchargez un exemple de fichier CSV pour référence avant de télécharger le vôtre.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/1-quick-order.png" alt="Super Admin Login" />
 
-### Selected Products
+### Produits sélectionnés
 
-After entering the SKU in the field, the product associated with that SKU will be displayed.
+Après avoir saisi le SKU dans le champ, le produit associé à ce SKU sera affiché.
 
-Click the **Add to List** button, and the product will be added under the Selected Products section.
+Cliquez sur le bouton **Ajouter à la liste** et le produit sera ajouté dans la section Produits sélectionnés.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/2-selected-products.png" alt="Super Admin Login" />
 
-Once you have reviewed the selected products, click **Add To Cart** to move them directly to your shopping cart for checkout.
+Une fois que vous avez examiné les produits sélectionnés, cliquez sur **Ajouter au panier** pour les déplacer directement vers votre panier pour procéder au paiement.
 
-This feature enables companies to place bulk orders quickly and efficiently, eliminating the need to browse through multiple product pages.
+Cette fonctionnalité permet aux entreprises de passer des commandes groupées rapidement et efficacement, éliminant ainsi le besoin de parcourir plusieurs pages de produits.
 

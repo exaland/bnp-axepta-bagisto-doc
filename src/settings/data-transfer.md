@@ -1,49 +1,49 @@
-# Data Transfer | Bulk Upload
+# Transfert de données | Téléchargement groupé 
 
-Bulk import is a feature that allows users to import large quantities of data into a system quickly and efficiently. 
+L'importation en masse est une fonctionnalité qui permet aux utilisateurs d'importer de grandes quantités de données dans un système rapidement et efficacement. 
 
-It simplifies the process and saves time by not having to add each piece of information one by one. The feature works differently for each system and has a vast variety of use cases across many industries as well as ExalandStore.
+Cela simplifie le processus et fait gagner du temps en n'ayant pas à ajouter chaque information une par une. La fonctionnalité fonctionne différemment pour chaque système et présente une grande variété de cas d'utilisation dans de nombreux secteurs ainsi qu'ExalandStore. 
 
-You can easily Bulk Upload **Products, Customers & Tax Rates**.
+Vous pouvez facilement télécharger en masse **Produits, clients et taux de taxe**. 
 
-### Steps to add Bulk Import in ExalandStore
+### Étapes pour ajouter une importation groupée dans ExalandStore 
 
-**Step 1:** Go to the Admin panel of ExalandStore click on **Settings >> Data Transfer** and click on **Create Import** button.
+**Étape 1 :** Accédez au panneau d'administration d'ExalandStore, cliquez sur **Paramètres >> Transfert de données** et cliquez sur le bouton **Créer une importation**. 
 
-<ImagePopup src="/images/settings/import.png" alt="Import" />
+<ImagePopup src="/images/settings/import.png" alt="Import" /> 
 
-**Step 2:** Under general configurations select the below fields:
+**Étape 2 :** Sous Configurations générales, sélectionnez les champs ci-dessous : 
 
-**1) Type –** Kindly select the type i.e. (Products, Customers, Tax rates) which you want to import.
+**1) Type –** Veuillez sélectionner le type, c'est-à-dire (Produits, Clients, Taux d'imposition) que vous souhaitez importer. 
 
-**2) File –** Choose the file in your desired format (CSV, XLS, XLSX) and kindly make sure you have all the required fields in the file.
+**2) Fichier –** Choisissez le fichier dans le format souhaité (CSV, XLS, XLSX) et assurez-vous d'avoir tous les champs requis dans le fichier. 
 
-*Note – While Import the product data Simple, Configurable, Virtual, Bundled & Grouped product types can be imported except Downloadable products.*
+*Remarque – Lors de l'importation des données produit, les types de produits simples, configurables, virtuels, groupés et groupés peuvent être importés, à l'exception des produits téléchargeables.* 
 
-**3) Download Sample –** You can also download the sample files of types (Products, Customers, Tax Rates). Kindly make sure the file you are uploading is similar to this sample file.
+**3) Télécharger l'échantillon –** Vous pouvez également télécharger les exemples de fichiers de types (Produits, Clients, Taux d'imposition). Veuillez vous assurer que le fichier que vous téléchargez est similaire à cet exemple de fichier. 
 
-**4) Image Directory Path –** Use relative path to /project-root/storage/import/app, e.g. product-images, import-images.
+**4) Chemin du répertoire d'images –** Utilisez le chemin relatif vers /project-root/storage/import/app, par exemple. images de produits, images d'importation. 
 
-**5) Action –** Kindly select from the settings configuration that you want to Create/Update or Delete the records.
+**5) Action –** Veuillez sélectionner dans la configuration des paramètres que vous souhaitez créer/mettre à jour ou supprimer les enregistrements. 
 
-**6) Validation Strategy –** This unique feature allows you to Skip the Errors or to Stop on Errors while Importing the data.
+**6) Stratégie de validation –** Cette fonctionnalité unique vous permet d'ignorer les erreurs ou de vous arrêter sur les erreurs lors de l'importation des données. 
 
-**7) Allowed Errors –** This feature allows you how much quantity of errors will get neglected while importing the data.
+**7) Erreurs autorisées –** Cette fonctionnalité vous permet de déterminer la quantité d'erreurs qui seront négligées lors de l'importation des données. 
 
-**8) Field Separator –** This feature allows you to set the fields.
+**8) Séparateur de champs –** Cette fonctionnalité vous permet de définir les champs. 
 
-**9) Process in Queue –** This feature allows you to run your import process in a queue.
+**9) Processus en file d'attente –** Cette fonctionnalité vous permet d'exécuter votre processus d'importation dans une file d'attente. 
 
-So now click on the **Save Import** Button.
+Alors maintenant, cliquez sur le bouton **Enregistrer l'importation**. 
 
-<ImagePopup src="/images/settings/createImport.png" alt="Import" />
+<ImagePopup src="/images/settings/createImport.png" alt="Import" /> 
 
-**Step 3:** Now the import process will get started and after it is completed the product import process will be done.
+**Étape 3 :** Le processus d'importation va maintenant démarrer et une fois terminé, le processus d'importation du produit sera terminé. 
 
-<ImagePopup src="/images/settings/importDone.png" alt="Import" />
+<ImagePopup src="/images/settings/importDone.png" alt="Import" /> 
 
-**Step 4:** Now you will able see to all the products under the **Catalog >> Products** section as shown in the given image.
+**Étape 4 :** Vous pourrez désormais voir tous les produits dans la section **Catalogue >> Produits**, comme indiqué dans l'image donnée. 
 
-<ImagePopup src="/images/settings/importOutput.png" alt="Import" />
+<ImagePopup src="/images/settings/importOutput.png" alt="Import" /> 
 
-By the above steps, you can easily create a **Bulk Import** in ExalandStore.
+En suivant les étapes ci-dessus, vous pouvez facilement créer une **importation groupée** dans ExalandStore.

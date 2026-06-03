@@ -1,95 +1,95 @@
-# Downloadable Product 
+# Produit téléchargeable 
 
-This document will guide you on how to create a Downloadable Product in ExalandStore. Downloadable products refer to items that can be downloaded, such as eBooks, software applications, music, updates, games, etc. These products are digital and do not involve a shipping method at checkout.
+Ce document vous guidera sur la façon de créer un produit téléchargeable dans ExalandStore. Les produits téléchargeables font référence aux éléments qui peuvent être téléchargés, tels que des livres électroniques, des applications logicielles, de la musique, des mises à jour, des jeux, etc. Ces produits sont numériques et n'impliquent pas de méthode d'expédition au moment du paiement. 
 
-### Steps to Create a Downloadable Product in ExalandStore
+### Étapes pour créer un produit téléchargeable dans ExalandStore 
 
-1. On the ExalandStore admin dashboard, go to **Catalog Section >> Products >> select Downloadable** under the Product Type.
-2. Select **Attribute Family**.
-3. Enter **SKU** (Stock Keeping Unit) of the product, unique to every product.
-4. Now **Save the Product**, and you will be redirected to the next page with general settings.
+1. Sur le tableau de bord d'administration ExalandStore, accédez à **Section Catalogue >> Produits >> sélectionnez Téléchargeable** sous le type de produit. 
+2. Sélectionnez **Famille d'attributs**. 
+3. Saisissez le **SKU** (Stock Keeping Unit) du produit, unique à chaque produit. 
+4. Maintenant **Enregistrez le produit** et vous serez redirigé vers la page suivante avec les paramètres généraux. 
 
-<ImagePopup src="/images/downloadable-product/downloadable.png" alt="Downloadable Product Creation" />
+<ImagePopup src="/images/downloadable-product/downloadable.png" alt="Downloadable Product Creation" /> 
 
-### General Settings
+### Paramètres généraux 
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., /products/ExalandStore-e-book (ExalandStore-e-book is the URL key).
-- **Tax Category:** Select the Tax Category from the drop-down list.
+- **Nom :** Saisissez le nom du produit. 
+- **Clé URL :** Ce sera la fin de l'URL, par exemple /products/ExalandStore-e-book (ExalandStore-e-book est la clé URL). 
+- **Catégorie de taxe :** Sélectionnez la catégorie de taxe dans la liste déroulante. 
 
-<ImagePopup src="/images/downloadable-product/editProduct.png" alt="General Settings for Downloadable Product" />
+<ImagePopup src="/images/downloadable-product/editProduct.png" alt="General Settings for Downloadable Product" /> 
 
-#### New
+#### Nouveau 
 
-- Enable the toggle button to feature the product as a new product, shown under the New Products section.
+- Activez le bouton bascule pour présenter le produit en tant que nouveau produit, affiché dans la section Nouveaux produits. 
 
-#### Featured
+#### En vedette 
 
-- Enable the toggle button to show the product under the Featured Products section.
+- Activez le bouton bascule pour afficher le produit dans la section Produits en vedette. 
 
-#### Visible Individually
+#### Visible individuellement 
 
-- Enable the toggle button to make the product visible on the frontend.
+- Activez le bouton bascule pour rendre le produit visible sur le frontend. 
 
-#### Status
+#### Statut 
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- Activez le bouton bascule pour activer le produit sur votre boutique de commerce électronique. 
 
-<ImagePopup src="/images/downloadable-product/toggleButtons.png" alt="Downloadable Product Toggle Options" />
+<ImagePopup src="/images/downloadable-product/toggleButtons.png" alt="Downloadable Product Toggle Options" /> 
 
-### Description
+### Descriptif 
 
-Fill in the following fields under the description:
+Remplissez les champs suivants sous la description : 
 
-- **Short Description:** Enter a brief description of the product feature.
-- **Description:** Mention your product in detail.
+- **Description courte :** Saisissez une brève description de la fonctionnalité du produit. 
+- **Description :** Mentionnez votre produit en détail. 
 
-<ImagePopup src="/images/downloadable-product/description.png" alt="Downloadable Product Description" />
+<ImagePopup src="/images/downloadable-product/description.png" alt="Downloadable Product Description" /> 
 
-### Meta Description
+### Méta-description 
 
-Fill in the following fields under meta description for improved searchability on search engines:
+Remplissez les champs suivants sous la méta description pour une meilleure recherche sur les moteurs de recherche : 
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **Meta Title :** Indiquez le titre principal du produit. 
+- **Méta-mots-clés :** fournissez des méta-mots-clés pour une optimisation spécifique des moteurs de recherche. 
+- **Méta description :** Saisissez une description pour de meilleures listes dans les moteurs de recherche. 
 
-<ImagePopup src="/images/downloadable-product/metaDescription.png" alt="Downloadable Product Meta Description" />
+<ImagePopup src="/images/downloadable-product/metaDescription.png" alt="Downloadable Product Meta Description" /> 
 
-### Price
+### Prix 
 
-Insert the price, cost, and special price. Set the special price date for which the special price will be shown on the website.
+Insérez le prix, le coût et le prix spécial. Définissez la date du prix spécial pour laquelle le prix spécial sera affiché sur le site Web. 
 
-<ImagePopup src="/images/downloadable-product/price.png" alt="Downloadable Product Price Settings" />
+<ImagePopup src="/images/downloadable-product/price.png" alt="Downloadable Product Price Settings" /> 
 
-### Images
+### Images 
 
-To add product images, click on Add Images. You can add multiple images for your product.
+Pour ajouter des images de produits, cliquez sur Ajouter des images. Vous pouvez ajouter plusieurs images pour votre produit. 
 
-<ImagePopup src="/images/downloadable-product/image.png" alt="Upload Images for Downloadable Product" />
+<ImagePopup src="/images/downloadable-product/image.png" alt="Upload Images for Downloadable Product" /> 
 
-### Downloadable Information
+### Informations téléchargeables 
 
-Here, enter the downloadable information about your product:
+Entrez ici les informations téléchargeables sur votre produit : 
 
-- **Name:** Enter the name of your downloadable product.
-- **Price:** Enter the price of the downloadable product.
-- **File:** Attach the file.  
-  - **Upload File:** Upload the file.  
-  - **Insert URL:** Insert the URL.  
-- **Sample:** Insert URL/upload file to give a free sample.  
-- **Download Allow:** Specify the maximum number of downloads. Enter "0" for unlimited downloads.  
+- **Nom :** Saisissez le nom de votre produit téléchargeable. 
+- **Prix :** Saisissez le prix du produit téléchargeable. 
+- **Fichier :** Joignez le fichier. 
+- **Télécharger le fichier :** Téléchargez le fichier. 
+- **Insérer une URL :** Insérez l'URL. 
+- **Exemple :** Insérez l'URL/le fichier de téléchargement pour donner un échantillon gratuit. 
+- **Téléchargement autorisé :** Spécifiez le nombre maximum de téléchargements. Entrez "0" pour des téléchargements illimités. 
 
-<ImagePopup src="/images/downloadable-product/downlodableInfo.png" alt="Downloadable Product File Information" />
+<ImagePopup src="/images/downloadable-product/downlodableInfo.png" alt="Downloadable Product File Information" /> 
 
-### Samples
+### Échantillons 
 
-If you want to provide a free sample of your product, add a new link from the Samples section below the Links section. Enter the title and attach the sample file.
+Si vous souhaitez fournir un échantillon gratuit de votre produit, ajoutez un nouveau lien depuis la section Échantillons sous la section Liens. Entrez le titre et joignez le fichier exemple. 
 
-<ImagePopup src="/images/downloadable-product/link.png" alt="Downloadable Product Sample File" />
+<ImagePopup src="/images/downloadable-product/link.png" alt="Downloadable Product Sample File" /> 
 
-### Product At Front End
+### Produit en amont 
 
-The downloadable product will be visible at the front end.
+Le produit téléchargeable sera visible au début. 
 
 <ImagePopup src="/images/downloadable-product/output.png" alt="Downloadable Product Frontend View" />

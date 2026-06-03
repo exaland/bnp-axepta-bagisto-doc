@@ -1,57 +1,57 @@
-# Inventory Source
+# Source d'inventaire 
 
-Multi-Warehouse Inventory is one of the unique features of ExalandStore. Here we will explain how you can manage multi-warehouse inventory in Laravel eCommerce and provide reliable service to your customers.  
+L'inventaire multi-entrepôt est l'une des fonctionnalités uniques d'ExalandStore. Nous expliquerons ici comment vous pouvez gérer l'inventaire multi-entrepôts dans Laravel eCommerce et fournir un service fiable à vos clients. 
 
-Having a single inventory source can pose some restrictions for your eCommerce store.  
+Avoir une seule source d'inventaire peut imposer certaines restrictions pour votre boutique de commerce électronique. 
 
-For instance, suppose you have only one inventory in Delhi. A customer from Chennai places an order. Delivering that product from Delhi may result in delays, higher transportation costs, etc. However, if you have an inventory in Chennai, the product will reach the customer faster, cutting down time and shipping cost.  
+Par exemple, supposons que vous n'ayez qu'un seul inventaire à Delhi. Un client de Chennai passe une commande. La livraison de ce produit depuis Delhi peut entraîner des retards, des coûts de transport plus élevés, etc. Cependant, si vous avez un inventaire à Chennai, le produit parviendra plus rapidement au client, ce qui réduira le temps et les frais d'expédition. 
 
-By using Multi-Warehouse Inventory, you can easily manage all inventory sources. In ExalandStore, you can create as many inventory sources as needed and manage them seamlessly.
+En utilisant Multi-Warehouse Inventory, vous pouvez facilement gérer toutes les sources d’inventaire. Dans ExalandStore, vous pouvez créer autant de sources d'inventaire que nécessaire et les gérer de manière transparente. 
 
-### Easy Steps to Manage Inventory in ExalandStore
+### Étapes faciles pour gérer l'inventaire dans ExalandStore 
 
-**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Inventory Sources >> Create Inventory Source** as shown below.  
+**Étape 1 :** Dans le panneau d'administration d'ExalandStore, accédez à **Paramètres >> Sources d'inventaire >> Créer une source d'inventaire** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/inventorySource.png" alt="Inventory Source" />
+<ImagePopup src="/images/settings/inventorySource.png" alt="Inventory Source" /> 
 
-**Step 2: General**  
-Enter the **Code, Name, Description, Latitude, Longitude, and Priority**, and set the **Status** as active.  
+**Étape 2 : Général** 
+Entrez le **Code, le Nom, la Description, la Latitude, la Longitude et la Priorité**, et définissez le **Statut** comme actif. 
 
-<ImagePopup src="/images/settings/inventoryConfiguration.png" alt="Inventory Configuration" />
+<ImagePopup src="/images/settings/inventoryConfiguration.png" alt="Inventory Configuration" /> 
 
-**Step 3: Contact Information**  
-Enter **Name, Email, Fax, and Contact Number**.  
+**Étape 3 : Coordonnées** 
+Saisissez **Nom, e-mail, fax et numéro de contact**. 
 
-<ImagePopup src="/images/settings/contactInfo.png" alt="Contact Information" />
+<ImagePopup src="/images/settings/contactInfo.png" alt="Contact Information" /> 
 
-**Step 4: Source Address**  
-Enter the source address details like country, address, state, and city.  
+**Étape 4 : Adresse source** 
+Saisissez les détails de l'adresse source tels que le pays, l'adresse, l'état et la ville. 
 
-<ImagePopup src="/images/settings/sourceAddress.png" alt="Source Address" />
+<ImagePopup src="/images/settings/sourceAddress.png" alt="Source Address" /> 
 
-After that, click on **Save Inventory Source**. You will now see the newly created inventory source as shown below.  
+Après cela, cliquez sur **Enregistrer la source d'inventaire**. Vous verrez maintenant la source d'inventaire nouvellement créée, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/inventoryOutput.png" alt="Inventory Output" />
+<ImagePopup src="/images/settings/inventoryOutput.png" alt="Inventory Output" /> 
 
-**Step 5:** Go to **Settings >> Channels**. Open the selected channel in **Edit Mode >> Inventory Sources**. This is a multi-select field where you can select multiple inventory sources for your channels. After that, click **Save Channel**.
+**Étape 5 :** Accédez à **Paramètres >> Chaînes**. Ouvrez le canal sélectionné dans **Mode Édition >> Sources d'inventaire**. Il s'agit d'un champ à sélection multiple dans lequel vous pouvez sélectionner plusieurs sources d'inventaire pour vos chaînes. Après cela, cliquez sur **Enregistrer la chaîne**. 
 
-### Inventory Setting on the Product Page
+### Paramètres d'inventaire sur la page produit 
 
-Go to **Catalog >> Products**. Open the selected product in **Edit Mode** and enter the **quantity** for each inventory source. After filling up the required fields, click **Save Product**.  
+Accédez au **Catalogue >> Produits**. Ouvrez le produit sélectionné en **Mode Édition** et saisissez la **quantité** pour chaque source d'inventaire. Après avoir rempli les champs obligatoires, cliquez sur **Enregistrer le produit**. 
 
-**Note:** If you do not enter any quantity, by default 0 is saved, and an inventory with 0 quantity will not be visible in the shipment page inventory options.  
+**Remarque :** Si vous n'entrez aucune quantité, par défaut 0 est enregistré et un inventaire avec 0 quantité ne sera pas visible dans les options d'inventaire de la page d'expédition. 
 
-<ImagePopup src="/images/settings/productInventory.png" alt="Product Inventory" />
+<ImagePopup src="/images/settings/productInventory.png" alt="Product Inventory" /> 
 
-### Inventory Setting on the Shipment Page
+### Paramètres d'inventaire sur la page d'expédition 
 
-Go to **Sales >> Orders**. Open the selected order in **Edit Mode >> Invoice >> Save Invoice >> Ship**.  
+Accédez à **Ventes >> Commandes**. Ouvrez la commande sélectionnée dans **Mode Édition >> Facture >> Enregistrer la facture >> Expédier**. 
 
-Under the **Product Ordered Section**, the Admin can decide from which inventory the product should be delivered.  
+Dans la **Section Produit commandé**, l'administrateur peut décider à partir de quel inventaire le produit doit être livré. 
 
-<ImagePopup src="/images/settings/inventorySetting.png" alt="Inventory Setting" />
+<ImagePopup src="/images/settings/inventorySetting.png" alt="Inventory Setting" /> 
 
-**Note:** You can enable only one Inventory at a time. When one inventory is selected, others will automatically be disabled.  
-For example, if you select **Noida Warehouse**, other inventories will be disabled. Enter the quantity to ship and click **Create Shipment**.
+**Remarque :** Vous ne pouvez activer qu'un seul inventaire à la fois. Lorsqu'un inventaire est sélectionné, les autres seront automatiquement désactivés. 
+Par exemple, si vous sélectionnez **Noida Warehouse**, les autres inventaires seront désactivés. Saisissez la quantité à expédier et cliquez sur **Créer un envoi**. 
 
-So, by following these steps, you can easily create and manage **Inventory Sources** in ExalandStore.
+Ainsi, en suivant ces étapes, vous pouvez facilement créer et gérer des **Sources d'inventaire** dans ExalandStore.

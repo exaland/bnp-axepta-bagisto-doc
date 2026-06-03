@@ -1,9 +1,9 @@
-# Notifications
+# Notifications 
 
-A notification is a message or alert that provides information or prompts an action to users, usually within software applications, websites, or devices.
+Une notification est un message ou une alerte qui fournit des informations ou incite les utilisateurs à effectuer une action, généralement au sein d'applications logicielles, de sites Web ou d'appareils. 
 
-To configure notifications, go to the Admin Panel and navigate to **Configure >> Notifications**.
+Pour configurer les notifications, accédez au panneau d'administration et accédez à **Configurer >> Notifications**. 
 
-<ImagePopup src="/images/configure/notifications.png" alt="Notifications" />
+<ImagePopup src="/images/configure/notifications.png" alt="Notifications" /> 
 
-After making changes, click the **Save Configuration** button.
+Après avoir apporté des modifications, cliquez sur le bouton **Enregistrer la configuration**.

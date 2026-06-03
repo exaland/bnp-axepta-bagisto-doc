@@ -1,29 +1,29 @@
-# Roles
+# Rôles 
 
-Roles in ExalandStore allow the store owner to create users and assign permissions. This helps manage access levels for different users. Here’s how to create an admin ACL role in ExalandStore.
+Les rôles dans ExalandStore permettent au propriétaire du magasin de créer des utilisateurs et d'attribuer des autorisations. Cela permet de gérer les niveaux d'accès pour différents utilisateurs. Voici comment créer un rôle ACL administrateur dans ExalandStore. 
 
-### Create Roles
+### Créer des rôles 
 
-**Step 1:** In the admin panel, go to **Settings >> Roles**. Click on **Create Role**.
+**Étape 1 :** Dans le panneau d'administration, accédez à **Paramètres >> Rôles**. Cliquez sur **Créer un rôle**. 
 
-<ImagePopup src="/images/settings/role.png" alt="Role" />
+<ImagePopup src="/images/settings/role.png" alt="Role" /> 
 
-**Step 2:** Fill in the required details:  
+**Étape 2 :** Remplissez les informations requises : 
 
-**1. Name:** Enter the role name.  
+**1. Nom :** Saisissez le nom du rôle. 
 
-**2. Description:** Enter the description of the role.  
+**2. Description :** Saisissez la description du rôle. 
 
-<ImagePopup src="/images/settings/newRole.png" alt="New Role" />
+<ImagePopup src="/images/settings/newRole.png" alt="New Role" /> 
 
-**Step 3:** Configure the **Access Control** permissions as needed.
+**Étape 3 :** Configurez les autorisations **Contrôle d'accès** selon vos besoins. 
 
-<ImagePopup src="/images/settings/accessControl.png" alt="Access Control" />
+<ImagePopup src="/images/settings/accessControl.png" alt="Access Control" /> 
 
-Click on **Save Role**.
+Cliquez sur **Enregistrer le rôle**. 
 
-**Step 4:** Once saved, the new **Role** will appear in the list as shown below.
+**Étape 4 :** Une fois enregistré, le nouveau **Rôle** apparaîtra dans la liste comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/roleGrid.png" alt="Role Grid" />
+<ImagePopup src="/images/settings/roleGrid.png" alt="Role Grid" /> 
 
-You have now successfully created a **Role** in ExalandStore.
+Vous avez maintenant créé avec succès un **Rôle** dans ExalandStore.

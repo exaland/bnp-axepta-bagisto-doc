@@ -1,73 +1,73 @@
-# Catalog Rules
+# Règles du catalogue 
 
-The catalog rule is a special rule that allows the customer to purchase the product at discounted prices that are set by the admin from the backend. Here will discuss how to set catalog rules in ExalandStore.
+La règle du catalogue est une règle spéciale qui permet au client d'acheter le produit à des prix réduits définis par l'administrateur depuis le backend. Nous expliquerons ici comment définir les règles du catalogue dans ExalandStore. 
 
-The catalog rule is applied to the product before placed into the shopping cart. Follow the below step “How to set catalog rules in ExalandStore”.
+La règle du catalogue est appliquée au produit avant son placement dans le panier. Suivez l'étape ci-dessous « Comment définir les règles du catalogue dans ExalandStore ». 
 
-### Step 1: Add New Catalog Rule
+### Étape 1 : Ajouter une nouvelle règle de catalogue 
 
-a) On Admin panel, go to **Marketing >> Promotions >> Catalog Rules**
+a) Dans le panneau d'administration, accédez à **Marketing >> Promotions >> Règles du catalogue** 
 
-b) On the upper right side, click on **Create Catalog Rule** button as shown below
+b) Dans le coin supérieur droit, cliquez sur le bouton **Créer une règle de catalogue** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/catalogRule.png" alt="Catalog" />
+<ImagePopup src="/images/marketing/catalogRule.png" alt="Catalog" /> 
 
-### Do the following entry in the Rule Information Section
+### Effectuez l'entrée suivante dans la section Informations sur la règle 
 
-**1. Name:-** Enter the name of the new catalog rule. (only for internal reference)
+**1. Nom :-** Saisissez le nom de la nouvelle règle de catalogue. (uniquement pour référence interne) 
 
-**2. Description:-** Enter a description of the rule. (only for internal reference)
+**2. Description : -** Entrez une description de la règle. (uniquement pour référence interne) 
 
-**3. Status:-** Set status of catalog rule is active.
+**3. Statut : -** Définir le statut de la règle de catalogue est actif. 
 
-**4. Channels:-** Select the channel on which this catalog rule will be applied.
+**4. Canaux :-** Sélectionnez le canal sur lequel cette règle de catalogue sera appliquée. 
 
-**5. Customer Group:-** Select the customer group on which this catalog rule will be applied.
+**5. Groupe de clients :-** Sélectionnez le groupe de clients sur lequel cette règle de catalogue sera appliquée. 
 
-**6. From and To dates:-** Set the range of dates, when the catalog rule will be affected. If you do not set the dates, the rule applies as soon as the rule is saved.
+**6. Dates de début et de fin :-** Définissez la plage de dates à laquelle la règle de catalogue sera affectée. Si vous ne définissez pas les dates, la règle s'applique dès qu'elle est enregistrée. 
 
-**7. Priority:-** Enter the priority of this rule.
+**7. Priorité : -** Entrez la priorité de cette règle. 
 
-<ImagePopup src="/images/marketing/catalogConfigurations.png" alt="Catalog Configurations" />
+<ImagePopup src="/images/marketing/catalogConfigurations.png" alt="Catalog Configurations" /> 
 
-### Step 2: Set Conditions
+### Étape 2 : Définir les conditions 
 
-All condition in the catalog rule is based on the product attribute. If you want to apply the rule on all products don’t set any condition. Set the condition type to all conditions that are true or any condition that is true.
+Toutes les conditions de la règle de catalogue sont basées sur l'attribut du produit. Si vous souhaitez appliquer la règle à tous les produits, ne posez aucune condition. Définissez le type de condition sur toutes les conditions vraies ou sur toute condition vraie. 
 
-<ImagePopup src="/images/marketing/condition.png" alt="Condition" />
+<ImagePopup src="/images/marketing/condition.png" alt="Condition" /> 
 
-Then click on the Add condition to set the conditions. Under the list of a product attribute, select the attribute that you want to set for the condition.
+Cliquez ensuite sur Ajouter une condition pour définir les conditions. Sous la liste d'un attribut de produit, sélectionnez l'attribut que vous souhaitez définir pour la condition. 
 
-<ImagePopup src="/images/marketing/catalogConditions.png" alt="Conditions" />
+<ImagePopup src="/images/marketing/catalogConditions.png" alt="Conditions" /> 
 
-For example, if you have selected Categories then you have to choose contains/does not contain and select the category as in the below image.
+Par exemple, si vous avez sélectionné Catégories, vous devez choisir contient/ne contient pas et sélectionner la catégorie comme dans l'image ci-dessous. 
 
-If you want to delete any condition, then click on the delete icon.
+Si vous souhaitez supprimer une condition, cliquez sur l'icône de suppression. 
 
-<ImagePopup src="/images/marketing/contains.png" alt="Contains" />
+<ImagePopup src="/images/marketing/contains.png" alt="Contains" /> 
 
-### Step 3: Set the Actions
+### Étape 3 : Définir les actions 
 
-In the Action section, we have to set actions like how we want to apply the rule to the product.
+Dans la section Action, nous devons définir des actions telles que la manière dont nous souhaitons appliquer la règle au produit. 
 
-<ImagePopup src="/images/marketing/catalogAction.png" alt="Catalog Action" />
+<ImagePopup src="/images/marketing/catalogAction.png" alt="Catalog Action" /> 
 
-**1. Actions Type:-** You can apply a discount on a percentage basis or a fixed amount basis.
+**1. Type d'actions : -** Vous pouvez appliquer une remise sur une base de pourcentage ou sur une base de montant fixe. 
 
-**2. Discount Amount:-** Enter discount amount.
+**2. Montant de la remise : -** Entrez le montant de la remise. 
 
-**3. End Other Rules:-** To stop applying other rules after this rule applies set “Yes”. This will work for applying multiple discounts on the same product.
+**3. Mettre fin aux autres règles : -** Pour arrêter d'appliquer d'autres règles après l'application de cette règle, définissez « Oui ». Cela fonctionnera pour appliquer plusieurs remises sur le même produit. 
 
-**Note:- If you want multiple rules to apply to the product then set “NO”. So in that case the rule which has the highest priority will apply first.**
+**Remarque : - Si vous souhaitez que plusieurs règles s'appliquent au produit, définissez « NON ». Dans ce cas, la règle ayant la priorité la plus élevée s'appliquera en premier.** 
 
-Now **Save the Catalog Rule** and you will able to see a new **Catalog Rule** is been created successfully.
+**Enregistrez maintenant la règle de catalogue** et vous pourrez voir qu'une nouvelle **règle de catalogue** a été créée avec succès. 
 
-<ImagePopup src="/images/marketing/catalogOutput.png" alt="Catalog Output" />
+<ImagePopup src="/images/marketing/catalogOutput.png" alt="Catalog Output" /> 
 
-### Front End:-
+### Front-End : - 
 
-You will get a flat 50% OFF on the product after applying a catalog rule as shown below.
+Vous obtiendrez une réduction forfaitaire de 50 % sur le produit après avoir appliqué une règle de catalogue comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/catalogFront.png" alt="Catalog Front" />
+<ImagePopup src="/images/marketing/catalogFront.png" alt="Catalog Front" /> 
 
-By this, you can easily create a **Catalog Rule** in ExalandStore.
+Grâce à cela, vous pouvez facilement créer une **Règle de catalogue** dans ExalandStore.

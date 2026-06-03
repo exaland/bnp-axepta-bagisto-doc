@@ -1,82 +1,82 @@
-# Grouped Product
+# Produit groupé 
 
-This document guides you on creating a Grouped Product in ExalandStore. A grouped product is a collection of simple products that can be combined in ExalandStore. This versatile product type allows you to offer variations of a single product or a group of products as a coordinated set. Each product in a grouped product can be purchased separately or all together as part of the group.
+Ce document vous guide dans la création d'un produit groupé dans ExalandStore. Un produit groupé est un ensemble de produits simples pouvant être combinés dans ExalandStore. Ce type de produit polyvalent vous permet de proposer des variantes d’un seul produit ou d’un groupe de produits sous forme d’ensemble coordonné. Chaque produit d'un produit groupé peut être acheté séparément ou tous ensemble dans le cadre du groupe. 
 
-### Steps to Create a Grouped Product in ExalandStore 
+### Étapes pour créer un produit groupé dans ExalandStore 
 
-1. On the ExalandStore admin dashboard, go to **Catalog Section >> Products >> select Grouped** under the Product Type.
-2. Select **Attribute Family >> enter SKU >>** Click to **Save Product**.
-3. Enter the **SKU** (Stock Keeping Unit) of the product, unique to every product.
+1. Sur le tableau de bord d'administration ExalandStore, accédez à **Section Catalogue >> Produits >> sélectionnez Groupé** sous le type de produit. 
+2. Sélectionnez **Famille d'attributs >> entrez le SKU >>** Cliquez pour **Enregistrer le produit**. 
+3. Saisissez le **SKU** (Stock Keeping Unit) du produit, unique à chaque produit. 
 
-<ImagePopup src="/images/grouped-product/grouped.png" alt="Grouped Product" />
+<ImagePopup src="/images/grouped-product/grouped.png" alt="Grouped Product" /> 
 
-After clicking on the Save Product button, you will be redirected to the next page with several new settings as shown in the below image.
+Après avoir cliqué sur le bouton Enregistrer le produit, vous serez redirigé vers la page suivante avec plusieurs nouveaux paramètres, comme indiqué dans l'image ci-dessous. 
 
-### General Settings
+### Paramètres généraux 
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., /products/set-of-men-casual-wear (set-of-men-casual-wear is a URL key).
-- **Tax Category:** Select the Tax Category from the dropdown list.
+- **Nom :** Saisissez le nom du produit. 
+- **Clé d'URL :** Ce sera la fin de l'URL, par exemple /products/set-of-men-casual-wear (set-of-men-casual-wear est une clé d'URL). 
+- **Catégorie fiscale :** Sélectionnez la catégorie fiscale dans la liste déroulante. 
 
-<ImagePopup src="/images/grouped-product/editProduct.png" alt="Edit Product" />
+<ImagePopup src="/images/grouped-product/editProduct.png" alt="Edit Product" /> 
 
-#### New
+#### Nouveau 
 
-- Enable the toggle button to feature the product as a new product, shown under the New Products section.
+- Activez le bouton bascule pour présenter le produit en tant que nouveau produit, affiché dans la section Nouveaux produits. 
 
-#### Featured
+#### En vedette 
 
-- Enable the toggle button to show the product under the Featured Products section.
+- Activez le bouton bascule pour afficher le produit dans la section Produits en vedette. 
 
-#### Visible Individually
+#### Visible individuellement 
 
-- Enable the toggle button to make the product visible on the frontend.
+- Activez le bouton bascule pour rendre le produit visible sur le frontend. 
 
-#### Status
+#### Statut 
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- Activez le bouton bascule pour activer le produit sur votre boutique de commerce électronique. 
 
-#### Guest Checkout
+#### Paiement des invités 
 
-- Enable the toggle button to allow the product to be ordered by guest customers.
+- Activez le bouton bascule pour permettre au produit d'être commandé par les clients invités. 
 
-<ImagePopup src="/images/grouped-product/toggleButtons.png" alt="Toggle Buttons" />
+<ImagePopup src="/images/grouped-product/toggleButtons.png" alt="Toggle Buttons" /> 
 
-### Description
+### Descriptif 
 
-Fill in the following fields under the description:
+Remplissez les champs suivants sous la description : 
 
-- **Short Description:** Enter a short description of the product feature.
-- **Description:** Mention your product in detail.
+- **Description courte :** Saisissez une brève description de la fonctionnalité du produit. 
+- **Description :** Mentionnez votre produit en détail. 
 
-<ImagePopup src="/images/grouped-product/description.png" alt="Product Description" />
+<ImagePopup src="/images/grouped-product/description.png" alt="Product Description" /> 
 
-### Meta Description
+### Méta-description 
 
-Fill in the following fields under meta description for improved searchability on search engines:
+Remplissez les champs suivants sous la méta description pour une meilleure recherche sur les moteurs de recherche : 
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **Meta Title :** Indiquez le titre principal du produit. 
+- **Méta-mots-clés :** fournissez des méta-mots-clés pour une optimisation spécifique des moteurs de recherche. 
+- **Méta description :** Saisissez une description pour de meilleures listes dans les moteurs de recherche. 
 
-<ImagePopup src="/images/grouped-product/metaDescription.png" alt="Meta Description" />
+<ImagePopup src="/images/grouped-product/metaDescription.png" alt="Meta Description" /> 
 
-### Images
+### Images 
 
-To add product images, click on **Add Images**. You can add multiple images for your product.
+Pour ajouter des images de produits, cliquez sur **Ajouter des images**. Vous pouvez ajouter plusieurs images pour votre produit. 
 
-<ImagePopup src="/images/grouped-product/image.png" alt="Product Images" />
+<ImagePopup src="/images/grouped-product/image.png" alt="Product Images" /> 
 
-### Grouped Products
+### Produits groupés 
 
-Search Products under this **Search Product** section. You can simply search the Simple Product to add in the Grouped Product. Once you add all the required products, they will be listed.  
+Recherchez des produits dans cette section **Rechercher un produit**. Vous pouvez simplement rechercher le produit simple à ajouter dans le produit groupé. Une fois que vous aurez ajouté tous les produits requis, ils seront répertoriés. 
 
-Here you can also enter the default quantity (which will automatically be added to the customer cart) of the product and sort orders accordingly. Products will be listed on the front end as shown in the below image.
+Ici, vous pouvez également saisir la quantité par défaut (qui sera automatiquement ajoutée au panier client) du produit et trier les commandes en conséquence. Les produits seront répertoriés sur le front-end, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/grouped-product/groupProducts.png" alt="Grouped Products" />
+<ImagePopup src="/images/grouped-product/groupProducts.png" alt="Grouped Products" /> 
 
-### Product at Front End
+### Produit au niveau du front-end 
 
-The grouped product will be visible at the front end, as shown in the image below:
+Le produit groupé sera visible au premier plan, comme le montre l'image ci-dessous : 
 
 <ImagePopup src="/images/grouped-product/output.png" alt="Front End Output" />

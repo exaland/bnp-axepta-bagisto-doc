@@ -1,29 +1,29 @@
-# Email Templates
+# Modèles d'e-mails 
 
-As we all know, everyone wants some customization according to their own taste that's why knowing about changing the email template is also quite helpful for some users.
+Comme nous le savons tous, chacun souhaite une personnalisation selon ses propres goûts, c'est pourquoi connaître la modification du modèle d'e-mail est également très utile pour certains utilisateurs. 
 
-### Step 1: 
+### Étape 1 : 
 
-**Add New Email Template**
+**Ajouter un nouveau modèle d'e-mail** 
 
-On the Admin panel, go to **Marketing >> Communications >> Email Templates** and click on **Create Template** as shown in the below image.
+Dans le panneau d'administration, accédez à **Marketing >> Communications >> Modèles d'e-mail** et cliquez sur **Créer un modèle** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/template.png" alt="Template" />
+<ImagePopup src="/images/marketing/template.png" alt="Template" /> 
 
-### Step 2: 
+### Étape 2 : 
 
-Add **Name** and **Status** as Active, Inactive, or Draft of the Email Template as shown in the below image.
+Ajoutez le **Nom** et le **Statut** comme Actif, Inactif ou Brouillon du modèle d'e-mail, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/templateName.png" alt="Template Name" />
+<ImagePopup src="/images/marketing/templateName.png" alt="Template Name" /> 
 
-### Step 3: 
+### Étape 3 : 
 
-Add the content by simply copying and pasting. You can also apply a link after right-clicking on the content and add the **URL, Text to display, Title, Open Link in** as shown in the below image.
+Ajoutez le contenu par simple copier-coller. Vous pouvez également appliquer un lien après avoir cliqué avec le bouton droit sur le contenu et ajouter l'**URL, le texte à afficher, le titre, Ouvrir le lien dans** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/link.png" alt="Link" />
+<ImagePopup src="/images/marketing/link.png" alt="Link" /> 
 
-Now you will be able to see the new **Email Template** as shown below.
+Vous pourrez désormais voir le nouveau **Modèle d'e-mail** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/output.png" alt="Output" />
+<ImagePopup src="/images/marketing/output.png" alt="Output" /> 
 
-So by this, you can easily create an **Email Template** and use it in emails in ExalandStore.
+Ainsi, vous pouvez facilement créer un **Modèle d'e-mail** et l'utiliser dans les e-mails dans ExalandStore.

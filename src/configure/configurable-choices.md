@@ -1,15 +1,15 @@
-# Configurable Choices
+# Choix configurables 
 
-Settings refer to configurable choices that control how a system, application, or device behaves, tailored to user preferences and requirements.
+Les paramètres font référence à des choix configurables qui contrôlent le comportement d'un système, d'une application ou d'un appareil, adaptés aux préférences et aux exigences de l'utilisateur. 
 
-**1)** To add configurable choices, go to the Admin panel and navigate to **Configure >> Content**. Next, you will see the options below:
+**1)** Pour ajouter des choix configurables, accédez au panneau d'administration et accédez à **Configurer >> Contenu**. Ensuite, vous verrez les options ci-dessous : 
 
-**Compare Options** - Allows you to easily compare your products.
+**Options de comparaison** - Vous permet de comparer facilement vos produits. 
 
-**Wishlist Option** - Adds the functionality of a Wishlist.
+**Option de liste de souhaits** - Ajoute la fonctionnalité d'une liste de souhaits. 
 
-**Image Search Option** - Helps to search your images.
+**Option de recherche d'images** - Aide à rechercher vos images. 
 
-<ImagePopup src="/images/configure/options.png" alt="Configurable Choices Options" />
+<ImagePopup src="/images/configure/options.png" alt="Configurable Choices Options" /> 
 
-After selecting your desired options, click on the **Save Configuration** button.
+Après avoir sélectionné les options souhaitées, cliquez sur le bouton **Enregistrer la configuration**.

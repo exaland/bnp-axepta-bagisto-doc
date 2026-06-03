@@ -1,117 +1,117 @@
-# Sales Reporting
+# Rapports de ventes 
 
-ExalandStore provides various reports to help store owners track sales, customer behavior, and financial performance. Below is a breakdown of the Sales reporting.
+ExalandStore fournit divers rapports pour aider les propriétaires de magasins à suivre les ventes, le comportement des clients et les performances financières. Vous trouverez ci-dessous une ventilation des rapports de ventes. 
 
-### 1) Total Sales 
+### 1) Ventes totales 
 
-This report displays the total revenue generated from all orders within the selected date range.
+Ce rapport affiche le revenu total généré par toutes les commandes au cours de la plage de dates sélectionnée. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- **Total Sales:** The total amount earned from completed orders.  
-- **Percentage Change:** Comparison with the previous period.  
-- **View Details:** Click to see a breakdown of individual transactions.  
+- **Ventes totales :** Le montant total gagné grâce aux commandes terminées. 
+- **Pourcentage de variation :** Comparaison avec la période précédente. 
+- **Afficher les détails :** Cliquez pour voir le détail des transactions individuelles. 
 
-### 2) Sales Over Time
+### 2) Ventes au fil du temps 
 
-This section provides a graphical view of sales trends over different time periods. It helps store owners analyze sales patterns and seasonal trends.
+Cette section fournit une vue graphique des tendances des ventes sur différentes périodes. Il aide les propriétaires de magasins à analyser les modèles de ventes et les tendances saisonnières. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- Compare sales between different date ranges.  
-- Identify peak sales periods.  
-- Adjust marketing strategies based on trends.  
+- Comparez les ventes entre différentes plages de dates. 
+- Identifier les périodes de pointe des ventes. 
+- Ajuster les stratégies marketing en fonction des tendances. 
 
-<ImagePopup src="/images/reporting/total-sale.png" alt="Total Sales" />
+<ImagePopup src="/images/reporting/total-sale.png" alt="Total Sales" /> 
 
-### 3) Purchase Funnel
+### 3) Entonnoir d'achat 
 
-The purchase funnel tracks customer behavior from visiting the store to completing a purchase. It helps identify where customers drop off in the buying process.
+L'entonnoir d'achat suit le comportement du client depuis la visite du magasin jusqu'à la finalisation d'un achat. Cela permet d'identifier où les clients abandonnent dans le processus d'achat. 
 
-**Key Stages:**
+**Étapes clés :** 
 
-- **Total Visits –** Number of visitors on the store.  
-- **Product Views –** Percentage of visitors who viewed a product.  
-- **Added to Cart –** Percentage of visitors who added a product to the cart.  
-- **Purchased –** Percentage of visitors who completed a purchase.  
+- **Total des visites –** Nombre de visiteurs sur la boutique. 
+- **Vues du produit –** Pourcentage de visiteurs ayant consulté un produit. 
+- **Ajouté au panier –** Pourcentage de visiteurs qui ont ajouté un produit au panier. 
+- **Acheté –** Pourcentage de visiteurs ayant effectué un achat. 
 
-<ImagePopup src="/images/reporting/purchase-funnel.png" alt="Purchase Funnel" />
+<ImagePopup src="/images/reporting/purchase-funnel.png" alt="Purchase Funnel" /> 
 
-### 4) Abandoned Carts
+### 4) Chariots abandonnés 
 
-This report tracks the revenue lost due to customers adding products to the cart but not completing the purchase.
+Ce rapport suit les revenus perdus en raison du fait que les clients ajoutent des produits au panier mais ne finalisent pas l'achat. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- **Abandoned Revenue:** Estimated lost revenue from abandoned carts.  
-- **Abandoned Carts:** Number of abandoned shopping carts.  
-- **Abandonment Rate:** Percentage of abandoned carts compared to initiated checkouts.  
-- **Abandoned Products:** Specific products left in abandoned carts.  
+- **Revenus abandonnés :** Estimation de la perte de revenus due aux paniers abandonnés. 
+- **Paniers abandonnés :** Nombre de paniers abandonnés. 
+- **Taux d'abandon :** Pourcentage de paniers abandonnés par rapport aux paiements initiés. 
+- **Produits abandonnés :** Produits spécifiques laissés dans les paniers abandonnés. 
 
-<ImagePopup src="/images/reporting/abandoned-cart.png" alt="Abandoned Cart" />
+<ImagePopup src="/images/reporting/abandoned-cart.png" alt="Abandoned Cart" /> 
 
-### 5) Total Orders
+### 5) Total des commandes 
 
-Displays the total number of orders placed during the selected period.
+Affiche le nombre total de commandes passées pendant la période sélectionnée. 
 
-**Key Insights:**
+**Informations clés :** 
 
-- Helps track order trends over time.  
-- A decrease in orders may indicate the need for promotional activities.  
+- Aide à suivre les tendances des commandes au fil du temps. 
+- Une diminution des commandes peut indiquer la nécessité d'activités promotionnelles. 
 
-<ImagePopup src="/images/reporting/total-order.png" alt="Total Orders" />
+<ImagePopup src="/images/reporting/total-order.png" alt="Total Orders" /> 
 
-### 6) Average Order Value (AOV)
+### 6) Valeur moyenne des commandes (AOV) 
 
-AOV calculates the average amount spent per order. It helps measure customer spending habits.
+AOV calcule le montant moyen dépensé par commande. Il permet de mesurer les habitudes de dépenses des clients. 
 
-**Why It Matters**
+**Pourquoi c'est important** 
 
-- Higher AOV indicates customers are buying more per transaction.  
-- Strategies to increase AOV include product bundling and upselling.  
+- Un AOV plus élevé indique que les clients achètent davantage par transaction. 
+- Les stratégies visant à augmenter l'AOV incluent le regroupement de produits et la vente incitative. 
 
-<ImagePopup src="/images/reporting/average-order-value.png" alt="Average Order Value" />
+<ImagePopup src="/images/reporting/average-order-value.png" alt="Average Order Value" /> 
 
-### 7) Tax Collected
+### 7) Taxe collectée 
 
-Shows the total tax amount collected from orders based on tax rules set in the store.
+Affiche le montant total des taxes collectées sur les commandes en fonction des règles fiscales définies dans le magasin. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- **Tax Collected:** Total tax amount from all sales.  
-- **Top Tax Categories:** Categories contributing the most to tax collection.  
+- **Taxe collectée :** Montant total de la taxe sur toutes les ventes. 
+- **Principales catégories fiscales :** Catégories contribuant le plus à la collecte des impôts. 
 
-<ImagePopup src="/images/reporting/tax-collected.png" alt="Tax Collected" />
+<ImagePopup src="/images/reporting/tax-collected.png" alt="Tax Collected" /> 
 
-### 8) Shipping Collected
+### 8) Expédition collectée 
 
-Displays the total amount collected for shipping fees during the selected period.
+Affiche le montant total collecté pour les frais d'expédition pendant la période sélectionnée. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- **Shipping Revenue:** Total shipping fees collected.  
-- **Top Shipping Methods:** Most frequently used shipping methods.  
+- **Revenus d'expédition :** Total des frais d'expédition collectés. 
+- **Principales méthodes d'expédition :** Méthodes d'expédition les plus fréquemment utilisées. 
 
-<ImagePopup src="/images/reporting/shipping-collected.png" alt="Shipping Collected" />
+<ImagePopup src="/images/reporting/shipping-collected.png" alt="Shipping Collected" /> 
 
-### 9) Refunds
+### 9) Remboursements 
 
-This report tracks the amount refunded to customers for returned or canceled orders.
+Ce rapport suit le montant remboursé aux clients pour les commandes retournées ou annulées. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-- **Total Refunds:** The total amount refunded.  
-- **Refund Trend:** Helps track frequent refund reasons.  
+- **Total des remboursements :** Le montant total remboursé. 
+- **Tendance de remboursement :** Aide à suivre les raisons de remboursement fréquentes. 
 
-<ImagePopup src="/images/reporting/refund.png" alt="Refunds" />
+<ImagePopup src="/images/reporting/refund.png" alt="Refunds" /> 
 
-### 10) Top Payment Methods
+### 10) Principales méthodes de paiement 
 
-Shows which payment methods customers use the most.
+Indique les méthodes de paiement les plus utilisées par les clients. 
 
-**Key Insights:**
+**Informations clés :** 
 
-- If a payment method has low usage, consider offering alternatives.  
-- Helps optimize checkout for preferred payment options.  
+- Si un mode de paiement est peu utilisé, envisagez de proposer des alternatives. 
+- Aide à optimiser le paiement pour les options de paiement préférées. 
 
 <ImagePopup src="/images/reporting/top-payment-method.png" alt="Top Payment Methods" />

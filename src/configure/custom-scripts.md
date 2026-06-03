@@ -1,27 +1,27 @@
-# Custom Scripts
+# Scripts personnalisés 
 
-Custom scripts are personalized pieces of code created to add specific functions or features to the software, enhancing its capabilities uniquely.
+Les scripts personnalisés sont des morceaux de code personnalisés créés pour ajouter des fonctions ou des fonctionnalités spécifiques au logiciel, améliorant ainsi ses capacités de manière unique. 
 
-Here, in this specified section, Admin can write CSS and JS code. At the end, it will automatically append the code to the master file.
+Ici, dans cette section spécifiée, l'administrateur peut écrire du code CSS et JS. À la fin, il ajoutera automatiquement le code au fichier maître. 
 
-**Steps to Add Custom Scripts**
+**Étapes pour ajouter des scripts personnalisés** 
 
-To add **Custom Scripts**, go to the Admin panel: **Configure >> Content**. You will see the following options:
+Pour ajouter des **Scripts personnalisés**, accédez au panneau d'administration : **Configurer >> Contenu**. Vous verrez les options suivantes : 
 
-### Custom CSS
+### CSS personnalisé 
 
-We have used a background color **Light Blue** and saved the configurations.
+Nous avons utilisé une couleur de fond **Bleu clair** et enregistré les configurations. 
 
-<ImagePopup src="/images/configure/css.png" alt="Custom CSS" />
+<ImagePopup src="/images/configure/css.png" alt="Custom CSS" /> 
 
-Now the storefront background color has changed, as shown below:
+La couleur d’arrière-plan de la vitrine a désormais changé, comme indiqué ci-dessous : 
 
-<ImagePopup src="/images/configure/cssOutput.png" alt="Custom CSS Output" />
+<ImagePopup src="/images/configure/cssOutput.png" alt="Custom CSS Output" /> 
 
-### Custom JS
+### JS personnalisé 
 
-You can apply JavaScript according to your requirement and click on the **Save Configuration** button.
+Vous pouvez appliquer JavaScript selon vos besoins et cliquer sur le bouton **Enregistrer la configuration**. 
 
-<ImagePopup src="/images/configure/js.png" alt="Custom JS" />
+<ImagePopup src="/images/configure/js.png" alt="Custom JS" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**.

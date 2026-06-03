@@ -1,7 +1,7 @@
-# Shipping
+# Expédition 
 
-Shipping Origin refers to the location from which goods or products are dispatched. It is the starting point of the shipping process before items are transported to their destination.
+L'origine de l'expédition fait référence à l'endroit à partir duquel les marchandises ou les produits sont expédiés. C'est le point de départ du processus d'expédition avant que les articles ne soient transportés vers leur destination. 
 
-To configure, go to the Admin Panel and navigate to **Configure >> Shipping**.
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Expédition**. 
 
 <ImagePopup src="/images/configure/shipping.png" alt="Shipping Configuration" />

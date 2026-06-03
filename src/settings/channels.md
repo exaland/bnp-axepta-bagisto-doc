@@ -1,84 +1,84 @@
-# Storefront (Channel)
+# Vitrine (canal) 
 
-ExalandStore allows you to set up and manage multiple domains or stores in a single backend. This guide explains how to create multiple websites with different domains in ExalandStore.
+ExalandStore vous permet de configurer et de gérer plusieurs domaines ou magasins dans un seul backend. Ce guide explique comment créer plusieurs sites Web avec différents domaines dans ExalandStore. 
 
-### Creating Storefront in ExalandStore
+### Création d'une vitrine dans ExalandStore 
 
-**Step 1:** Go to **Settings >> Channels >> Create Channel**.
+**Étape 1 :** Accédez à **Paramètres >> Chaînes >> Créer une chaîne**. 
 
-<ImagePopup src="/images/settings/channels.png" alt="Storefront (Channel)" />
+<ImagePopup src="/images/settings/channels.png" alt="Storefront (Channel)" /> 
 
-### General
+### Général 
 
-**1. Code:** Enter a code for your store.  
-**2. Name:** Provide a name for your store.  
-**3. Description:** Add details about your store, its purpose, and products.  
-**4. Inventory Sources:** Select one or more inventories for this store.  
-**5. Root Category:** Choose a root category from the dropdown.  
-**6. Hostname:** Enter the URL of your website to connect it with ExalandStore.
+**1. Code :** Entrez un code pour votre magasin. 
+**2. Nom :** Indiquez un nom pour votre boutique. 
+**3. Description :** Ajoutez des détails sur votre boutique, son objectif et ses produits. 
+**4. Sources d'inventaire :** Sélectionnez un ou plusieurs inventaires pour ce magasin. 
+**5. Catégorie racine :** Choisissez une catégorie racine dans la liste déroulante. 
+**6. Nom d'hôte :** Saisissez l'URL de votre site Web pour le connecter à ExalandStore. 
 
-<ImagePopup src="/images/settings/general.png" alt="General" />
+<ImagePopup src="/images/settings/general.png" alt="General" /> 
 
-### Currencies and Locales
+### Devises et paramètres régionaux 
 
-**1. Locales:** Select one or more locales for the store.  
-**2. Default Locale:** Choose the default locale.  
-**3. Currencies:** Select one or more currencies for the store.
+**1. Paramètres régionaux :** Sélectionnez un ou plusieurs paramètres régionaux pour le magasin. 
+**2. Paramètres régionaux par défaut :** Choisissez les paramètres régionaux par défaut. 
+**3. Devises :** Sélectionnez une ou plusieurs devises pour la boutique. 
 
-<ImagePopup src="/images/settings/currencyLocal.png" alt="Currency and Locales" />
+<ImagePopup src="/images/settings/currencyLocal.png" alt="Currency and Locales" /> 
 
-### Design
+### Conception 
 
-Select a theme from the dropdown (if multiple themes are available).
+Sélectionnez un thème dans la liste déroulante (si plusieurs thèmes sont disponibles). 
 
-<ImagePopup src="/images/settings/theme.png" alt="Theme" />
+<ImagePopup src="/images/settings/theme.png" alt="Theme" /> 
 
-### Logo
+###Logo 
 
-Upload a logo for the frontend and click **Save Channel**.
+Téléchargez un logo pour le frontend et cliquez sur **Enregistrer la chaîne**. 
 
-<ImagePopup src="/images/settings/frontendLogos.png" alt="Frontend Logo" />
+<ImagePopup src="/images/settings/frontendLogos.png" alt="Frontend Logo" /> 
 
-### Logo on Frontend
+### Logo sur le front-end 
 
-The updated logo will be visible on the frontend.
+Le logo mis à jour sera visible sur le frontend. 
 
-<ImagePopup src="/images/settings/logoOutputs.png" alt="Frontend Logo Output" />
+<ImagePopup src="/images/settings/logoOutputs.png" alt="Frontend Logo Output" /> 
 
-### Favicon
+### Icône de favori 
 
-Upload a favicon for the frontend and click **Save Channel**.
+Téléchargez une favicon pour le frontend et cliquez sur **Enregistrer la chaîne**. 
 
-<ImagePopup src="/images/settings/frontendFavicon.png" alt="Frontend Favicon" />
+<ImagePopup src="/images/settings/frontendFavicon.png" alt="Frontend Favicon" /> 
 
-### Favicon on Frontend
+### Favicon sur le frontend 
 
-The updated favicon will be visible on the frontend.
+Le favicon mis à jour sera visible sur le frontend. 
 
-<ImagePopup src="/images/settings/faviconOutput.png" alt="Frontend Favicon Output" />
+<ImagePopup src="/images/settings/faviconOutput.png" alt="Frontend Favicon Output" /> 
 
-### Home Page SEO
+### Référencement de la page d'accueil 
 
-**1. Meta Title:** Enter the main title for SEO.  
-**2. Meta Keywords:** Provide keywords for better search visibility.  
-**3. Meta Description:** Add a description to appear in search results.
+**1. Meta Title :** Entrez le titre principal pour le référencement. 
+**2. Méta-mots-clés :** fournissez des mots-clés pour une meilleure visibilité de la recherche. 
+**3. Méta description :** Ajoutez une description pour apparaître dans les résultats de recherche. 
 
-<ImagePopup src="/images/settings/seo.png" alt="SEO" />
+<ImagePopup src="/images/settings/seo.png" alt="SEO" /> 
 
-### Maintenance Mode
+### Mode maintenance 
 
-Maintenance mode allows you to temporarily disable your store while making updates.
+Le mode maintenance vous permet de désactiver temporairement votre boutique lors des mises à jour. 
 
-**1. Message:** Message shown to customers during maintenance.  
-**2. Allowed IPs:** IPs that can access the store during maintenance.  
-**3. Status:** Enable or disable maintenance mode.
+**1. Message :** Message affiché aux clients lors de la maintenance. 
+**2. IP autorisées :** IP pouvant accéder au magasin pendant la maintenance. 
+**3. Statut :** Activer ou désactiver le mode maintenance. 
 
-<ImagePopup src="/images/settings/maintenanceMode.png" alt="Maintenance Mode" />
+<ImagePopup src="/images/settings/maintenanceMode.png" alt="Maintenance Mode" /> 
 
-### Storefront Created
+### Vitrine créée 
 
-After saving, your new Storefront will be listed.
+Après avoir enregistré, votre nouvelle vitrine sera répertoriée. 
 
-<ImagePopup src="/images/settings/channelGrid.png" alt="Storefront Grid" />
+<ImagePopup src="/images/settings/channelGrid.png" alt="Storefront Grid" /> 
 
-You have now successfully created a new **Storefront** in ExalandStore.
+Vous avez maintenant créé avec succès une nouvelle **Storefront** dans ExalandStore.

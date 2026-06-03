@@ -1,67 +1,67 @@
-# Payment Methods
+# Méthodes de paiement 
 
-Payment methods refer to the various options available for customers to make payments when purchasing a product or service. Common methods include cash, credit/debit cards, gift cards, and mobile payments.
+Les méthodes de paiement font référence aux différentes options disponibles pour les clients pour effectuer des paiements lors de l'achat d'un produit ou d'un service. Les méthodes courantes incluent les espèces, les cartes de crédit/débit, les cartes cadeaux et les paiements mobiles. 
 
-To configure the default payment methods, go to the Admin Panel and navigate to **Configure >> Payment Method**.
+Pour configurer les modes de paiement par défaut, accédez au panneau d'administration et accédez à **Configurer >> Mode de paiement**. 
 
-### Stripe
+### Rayure 
 
-**Stripe:** It is a safe and popular online payment system that helps businesses take payments using credit cards, debit cards, digital wallets, and other ways to pay.
+**Stripe :** Il s'agit d'un système de paiement en ligne sûr et populaire qui aide les entreprises à accepter des paiements par carte de crédit, carte de débit, portefeuille numérique et d'autres moyens de paiement. 
 
-It offers a smooth checkout process for customers and works with many currencies and international transactions.
+Il offre un processus de paiement fluide aux clients et fonctionne avec de nombreuses devises et transactions internationales. 
 
-When store owners use Stripe, they can easily handle online payments, refunds, keep track of transactions, and see financial reports all from one dashboard.
+Lorsque les propriétaires de magasins utilisent Stripe, ils peuvent facilement gérer les paiements en ligne, les remboursements, suivre les transactions et consulter les rapports financiers à partir d'un seul tableau de bord. 
 
-<ImagePopup src="/images/configure/stripe-admin.png" alt="Stripe" />
+<ImagePopup src="/images/configure/stripe-admin.png" alt="Stripe" /> 
 
-### Razorpay
+### Razorpay 
 
-Razorpay is a top digital payment service that helps businesses easily accept, process, and manage online payments. It started in India in 2014. 
+Razorpay est un service de paiement numérique de premier plan qui aide les entreprises à accepter, traiter et gérer facilement les paiements en ligne. Cela a commencé en Inde en 2014. 
 
-Razorpay has grown to be one of the most reliable payment gateways for startups, small and medium enterprises, and big companies all over India.
+Razorpay est devenu l'une des passerelles de paiement les plus fiables pour les startups, les petites et moyennes entreprises et les grandes entreprises de toute l'Inde. 
 
-The platform allows merchants to take payments in various ways like UPI, credit cards, debit cards, net banking, wallets, and EMI options, giving customers a quick and safe checkout experience.
+La plate-forme permet aux commerçants d'accepter les paiements de différentes manières, telles que l'UPI, les cartes de crédit, les cartes de débit, les services bancaires en ligne, les portefeuilles et les options EMI, offrant ainsi aux clients une expérience de paiement rapide et sûre. 
 
-<ImagePopup src="/images/configure/razorpay-admin.png" alt="Razorpay" />
+<ImagePopup src="/images/configure/razorpay-admin.png" alt="Razorpay" /> 
 
-### PayU
+### Payer 
 
-PayU allows businesses to handle transactions using various payment options like credit cards, debit cards, UPI, net banking, digital wallets, and EMI choices, making sure customers have a smooth and trustworthy checkout experience.
+PayU permet aux entreprises de gérer les transactions en utilisant diverses options de paiement telles que les cartes de crédit, les cartes de débit, l'UPI, les services bancaires en ligne, les portefeuilles numériques et les choix EMI, garantissant ainsi aux clients une expérience de paiement fluide et fiable. 
 
-With simple integration, real-time tracking of transactions, strong fraud protection, and adaptable settlement cycles, PayU assists companies in effectively managing their online payments. 
+Avec une intégration simple, un suivi des transactions en temps réel, une protection renforcée contre la fraude et des cycles de règlement adaptables, PayU aide les entreprises à gérer efficacement leurs paiements en ligne. 
 
-Merchants can set up the gateway with their Merchant Key and Salt, check payment statuses from the admin panel, and start refunds when necessary.
+Les commerçants peuvent configurer la passerelle avec leur Merchant Key et Salt, vérifier les statuts de paiement à partir du panneau d'administration et lancer les remboursements si nécessaire. 
 
-<ImagePopup src="/images/configure/payu-admin.png" alt="PayU" />
+<ImagePopup src="/images/configure/payu-admin.png" alt="PayU" /> 
 
-### Paypal
+### Paypal 
 
-**PayPal Smart Button:** Simplifies online payments with customizable buttons for secure, multi-method transactions on websites and apps.
+**Bouton intelligent PayPal :** Simplifie les paiements en ligne avec des boutons personnalisables pour des transactions sécurisées et multi-méthodes sur les sites Web et les applications. 
 
-<ImagePopup src="/images/configure/paypal.png" alt="Paypal" />
+<ImagePopup src="/images/configure/paypal.png" alt="Paypal" /> 
 
-### Cash On Delivery
+### Paiement à la livraison 
 
-A payment method where customers pay in cash upon receiving goods or services at their doorstep.
+Méthode de paiement par laquelle les clients paient en espèces lorsqu'ils reçoivent des biens ou des services à leur porte. 
 
-<ImagePopup src="/images/configure/cod.png" alt="Cash On Delivery" />
+<ImagePopup src="/images/configure/cod.png" alt="Cash On Delivery" /> 
 
-### Money Transfer
+### Transfert d'argent 
 
-Transfer of funds from one person or account to another, often electronically, for transactions or remittances.
+Transfert de fonds d'une personne ou d'un compte à un autre, souvent par voie électronique, pour des transactions ou des transferts de fonds. 
 
-<ImagePopup src="/images/configure/moneyTransfer.png" alt="Money Transfer" />
+<ImagePopup src="/images/configure/moneyTransfer.png" alt="Money Transfer" /> 
 
-### PayPal Standard
+### Norme PayPal 
 
-A basic PayPal payment option for online businesses, allowing customers to pay using PayPal accounts or credit/debit cards.
+Une option de paiement PayPal de base pour les entreprises en ligne, permettant aux clients de payer en utilisant des comptes PayPal ou des cartes de crédit/débit. 
 
-<ImagePopup src="/images/configure/paypalStandard.png" alt="Paypal Standard" />
+<ImagePopup src="/images/configure/paypalStandard.png" alt="Paypal Standard" /> 
 
-After configuring, click the **Save Configuration** button.
+Après la configuration, cliquez sur le bouton **Enregistrer la configuration**. 
 
-### Payment Methods Frontend
+### Frontend des méthodes de paiement 
 
-This is how the payment methods will appear on the storefront during checkout.
+C'est ainsi que les modes de paiement apparaîtront sur la vitrine lors du paiement. 
 
 <ImagePopup src="/images/configure/payment-method.png" alt="Payment Methods Frontend" />

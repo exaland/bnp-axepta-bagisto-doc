@@ -1,37 +1,37 @@
-# Search Synonyms
+# Rechercher des synonymes 
 
-Search Synonyms are terms that customers use as alternatives for a particular product.  
+Les synonymes de recherche sont des termes que les clients utilisent comme alternatives pour un produit particulier. 
 
-For example, if a customer searches for *shoe*, it can also match with *formal shoes, sports shoes, party wear shoes,* etc.
+Par exemple, si un client recherche *chaussure*, cela peut également correspondre à des *chaussures formelles, chaussures de sport, chaussures de soirée,* etc. 
 
-### Step 1: Create Search Synonym
+### Étape 1 : Créer un synonyme de recherche 
 
-On the Admin panel, go to **Marketing >> Search & SEO >> Search Synonyms** and click on the **Create Search Synonyms** button as shown below.
+Dans le panneau d'administration, accédez à **Marketing >> Recherche et référencement >> Synonymes de recherche** et cliquez sur le bouton **Créer des synonymes de recherche** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/searchSynonym.png" alt="Search Synonym" />
+<ImagePopup src="/images/marketing/searchSynonym.png" alt="Search Synonym" /> 
 
-### Step 2: Enter Synonym Details
+### Étape 2 : Saisissez les détails du synonyme 
 
-Fill in the following fields:
+Remplissez les champs suivants : 
 
-- **Name** – Enter the main synonym word.  
+- **Nom** – Entrez le mot synonyme principal. 
 
-- **Terms** – Add the related terms that belong to the synonym name.  
+- **Termes** – Ajoutez les termes associés qui appartiennent au nom du synonyme. 
 
-<ImagePopup src="/images/marketing/synonymField.png" alt="Search Synonym Fields" />
+<ImagePopup src="/images/marketing/synonymField.png" alt="Search Synonym Fields" /> 
 
-Click on the **Save Search Synonym** button.
+Cliquez sur le bouton **Enregistrer le synonyme de recherche**. 
 
-### Step 3: Verify Synonym
+### Étape 3 : Vérifier le synonyme 
 
-A new synonym field (for example, **shoe**) is created successfully as shown below.
+Un nouveau champ synonyme (par exemple, **chaussure**) est créé avec succès, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/synonymGrid.png" alt="Synonym Grid" />
+<ImagePopup src="/images/marketing/synonymGrid.png" alt="Synonym Grid" /> 
 
-### Step 4: Frontend 
+### Étape 4 : Frontend 
 
-Now test the result by searching your synonym.  
+Testez maintenant le résultat en recherchant votre synonyme. 
 
-It will display all related categories of the synonym (e.g., shoes) as shown below.
+Il affichera toutes les catégories associées au synonyme (par exemple, les chaussures), comme indiqué ci-dessous. 
 
 <ImagePopup src="/images/marketing/synonymOutput.png" alt="Synonym Output" />

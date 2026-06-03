@@ -1,27 +1,27 @@
-# Users
+# Utilisateurs 
 
-Access Control List (ACL) in ExalandStore allows the store owner to create users and assign roles. This helps manage permissions for different users. Here’s how to create an admin ACL user in ExalandStore.
+La liste de contrôle d'accès (ACL) dans ExalandStore permet au propriétaire du magasin de créer des utilisateurs et d'attribuer des rôles. Cela permet de gérer les autorisations pour différents utilisateurs. Voici comment créer un utilisateur ACL administrateur dans ExalandStore. 
 
-### Create User
+### Créer un utilisateur 
 
-**Step 1:** In the admin panel, go to **Settings >> Users**. Click on **Create User**.
+**Étape 1 :** Dans le panneau d'administration, accédez à **Paramètres >> Utilisateurs**. Cliquez sur **Créer un utilisateur**. 
 
-<ImagePopup src="/images/settings/user.png" alt="User" />
+<ImagePopup src="/images/settings/user.png" alt="User" /> 
 
-**Step 2:** Fill in the required details:  
+**Étape 2 :** Remplissez les informations requises : 
 
-**1. Name:** Enter the user’s name.  
-**2. Email:** Enter the user’s email address.  
-**3. Password:** Enter and confirm the password.  
-**4. Role:** Select a role for the user.  
-**5. Image:** Upload an image for the user.  
+**1. Nom :** Saisissez le nom de l'utilisateur. 
+**2. E-mail :** Saisissez l'adresse e-mail de l'utilisateur. 
+**3. Mot de passe :** Saisissez et confirmez le mot de passe. 
+**4. Rôle :** Sélectionnez un rôle pour l'utilisateur. 
+**5. Image :** Téléchargez une image pour l'utilisateur. 
 
-Click on **Save User**.
+Cliquez sur **Enregistrer l'utilisateur**. 
 
-<ImagePopup src="/images/settings/createUser.png" alt="Create User" />
+<ImagePopup src="/images/settings/createUser.png" alt="Create User" /> 
 
-**Step 3:** Once saved, the new **User** will appear in the list as shown below.
+**Étape 3 :** Une fois enregistré, le nouvel **utilisateur** apparaîtra dans la liste comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/userOutput.png" alt="User Output" />
+<ImagePopup src="/images/settings/userOutput.png" alt="User Output" /> 
 
-You have now successfully created a **User** in ExalandStore.
+Vous avez maintenant créé avec succès un **Utilisateur** dans ExalandStore.

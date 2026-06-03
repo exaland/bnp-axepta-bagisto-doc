@@ -1,11 +1,11 @@
-# Product View Page
+# Page d'affichage du produit 
 
-A Product View Page is a dedicated page within an online store that displays detailed information about a specific product. This page helps customers make informed purchasing decisions.
+Une page d'affichage du produit est une page dédiée dans une boutique en ligne qui affiche des informations détaillées sur un produit spécifique. Cette page aide les clients à prendre des décisions d'achat éclairées. 
 
-To configure, go to the Admin Panel and navigate to **Configure >> Products**.
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Produits**. 
 
-Here, you can manage **Related Products** and **Up-Sell Products** that will be visible on the storefront.
+Ici, vous pouvez gérer les **Produits associés** et les **Produits de vente incitative** qui seront visibles sur la vitrine. 
 
-<ImagePopup src="/images/configure/pageConfiguration.png" alt="Page Configuration" />
+<ImagePopup src="/images/configure/pageConfiguration.png" alt="Page Configuration" /> 
 
-After configuring, click the **Save Configuration** button.
+Après la configuration, cliquez sur le bouton **Enregistrer la configuration**.

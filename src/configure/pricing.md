@@ -1,9 +1,9 @@
-# Pricing
+# Prix 
 
-Pricing refers to the details about the cost of goods or services, including base price, discounts, taxes, and additional charges.
+La tarification fait référence aux détails sur le coût des biens ou des services, y compris le prix de base, les remises, les taxes et les frais supplémentaires. 
 
-To configure pricing, go to the Admin Panel and navigate to **Configure >> Pricing**.
+Pour configurer la tarification, accédez au panneau d'administration et accédez à **Configurer >> Tarification**. 
 
-<ImagePopup src="/images/configure/pricing.png" alt="Pricing" />
+<ImagePopup src="/images/configure/pricing.png" alt="Pricing" /> 
 
-After configuring, click the **Save Configuration** button.
+Après la configuration, cliquez sur le bouton **Enregistrer la configuration**.

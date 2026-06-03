@@ -1,34 +1,34 @@
-# Create Product Attribute
+# Créer un attribut de produit
 
-An Attribute is a specification or characteristic of a product, for example Color, Size, and Pattern are attributes of a T-Shirt. You can create many attributes for a single product. Product Attributes play a major role in the buying decision of the customer.
+Un attribut est une spécification ou une caractéristique d'un produit, par exemple la couleur, la taille et le motif sont des attributs d'un T-shirt. Vous pouvez créer de nombreux attributs pour un seul produit. Les attributs du produit jouent un rôle majeur dans la décision d'achat du client.
 
-### How to Create a Product Attribute in ExalandStore
+### Comment créer un attribut de produit dans ExalandStore
 
-To create ExalandStore Attributes, open the Admin Panel and then follow the steps below.
+Pour créer des attributs ExalandStore, ouvrez le panneau d'administration, puis suivez les étapes ci-dessous.
 
-### Add Attributes
+### Ajouter des attributs
 
-Click on **Catalog** >> **Attributes** >> **Create Attributes** from your admin panel 
+Cliquez sur **Catalogue** >> **Attributs** >> **Créer des attributs** depuis votre panneau d'administration
 
-### Attribute Types
+### Types d'attributs
 
-Enter **Label**, **Attribute Code**, and select **Attribute Type**.
+Saisissez **Label**, **Code d'attribut** et sélectionnez **Type d'attribut**.
 
-- **Attribute Code**: Enter the Attribute Code to identify the Attribute.  
-- **Attribute Type**: ExalandStore provides various attribute types such as Text, Textarea, Price, Boolean, Select, Multi-select, and DateTime.
+- **Code d'attribut** : saisissez le code d'attribut pour identifier l'attribut.
+- **Type d'attribut** : ExalandStore fournit différents types d'attributs tels que Text, Textarea, Price, Boolean, Select, Multi-select et DateTime.
 
 <ImagePopup src="/images/attribute/attributeTypes.png" alt="Attribute Types" />
 
-Now add validation & configuration as per your requirement.
+Ajoutez maintenant la validation et la configuration selon vos besoins.
 
 <ImagePopup src="/images/attribute/validation.png" alt="Validation" />
 
-So, **Save the Attribute** and then go to the **Attribute Family** from **Catalog >> Attribute Families** and assign it from the unassigned attributes by drag and drop at your desired place as shown in the below image.
+Alors, **Enregistrez l'attribut**, puis accédez à la **Famille d'attributs** à partir du **Catalogue >> Familles d'attributs** et attribuez-le à partir des attributs non attribués par glisser-déposer à l'endroit souhaité, comme indiqué dans l'image ci-dessous.
 
 <ImagePopup src="/images/attribute/attributeFamily.png" alt="Attribute Family" />
 
-Now, **Save the Attribute Family** and check the output while creating products on the product edit page as shown in the below image.
+Maintenant, **Enregistrez la famille d'attributs** et vérifiez le résultat lors de la création de produits sur la page de modification du produit, comme indiqué dans l'image ci-dessous.
 
 <ImagePopup src="/images/attribute/editPage.png" alt="Product Edit Page with Attributes" />
 
-By following the above steps, you can easily create a Product Attribute in ExalandStore.
+En suivant les étapes ci-dessus, vous pouvez facilement créer un attribut de produit dans ExalandStore.

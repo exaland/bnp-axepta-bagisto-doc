@@ -1,33 +1,33 @@
-# Frontend
+# Front-end 
 
-The storefront serves as the customer-facing component of an online store, featuring product displays, category listings, and intuitive navigation to ensure a smooth and enjoyable shopping experience.
+La vitrine sert de composant orienté client d'une boutique en ligne, proposant des affichages de produits, des listes de catégories et une navigation intuitive pour garantir une expérience d'achat fluide et agréable. 
 
-To add, go to Admin Panel and click on **Configure >> Products >> Storefront**.
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> Produits >> Vitrine**. 
 
-**1. Search Mode:** Select the search mode by **Database or Elasticsearch** as per your requirements.
+**1. Mode de recherche :** Sélectionnez le mode de recherche par **Base de données ou Elasticsearch** selon vos besoins. 
 
-**A) Elastic Search** – When you have a large number of products on your website, searching can be slow. Elastic Search mode enables fast product search.
+**A) Elastic Search** – Lorsque vous avez un grand nombre de produits sur votre site Web, la recherche peut être lente. Le mode Elastic Search permet une recherche rapide de produits. 
 
-**B) Database** – Recommended for websites with a small number of products; use the database option for search mode.
+**B) Base de données** – Recommandé pour les sites Web proposant un petit nombre de produits ; utilisez l'option de base de données pour le mode de recherche. 
 
-**2. Default List Mode:** Manage how your products are visible on the storefront; select from the dropdown **Grid or List**.
+**2. Mode liste par défaut :** Gérez la façon dont vos produits sont visibles sur la vitrine ; sélectionnez dans la liste déroulante **Grille ou Liste**. 
 
-### List Mode
+### Mode Liste 
 
-<ImagePopup src="/images/configure/listmode.png" alt="List Mode" />
+<ImagePopup src="/images/configure/listmode.png" alt="List Mode" /> 
 
-### Grid Mode
+### Mode Grille 
 
-<ImagePopup src="/images/configure/gridmode.png" alt="Grid Mode" />
+<ImagePopup src="/images/configure/gridmode.png" alt="Grid Mode" /> 
 
-**3. Products Per Page:** Enter the number of products visible per page on the storefront.
+**3. Produits par page :** Saisissez le nombre de produits visibles par page sur la vitrine. 
 
-**4. Sort By:** Select a sort-by option from the dropdown according to your requirements.
+**4. Trier par :** Sélectionnez une option de tri dans la liste déroulante en fonction de vos besoins. 
 
-**5. Buy Now Products:** Select from the **Enable/Disable** option as required. Once enabled, it will be visible on the product detail page.
+**5. Produits Acheter maintenant :** Sélectionnez parmi l'option **Activer/Désactiver** selon vos besoins. Une fois activé, il sera visible sur la page de détail du produit. 
 
-<ImagePopup src="/images/configure/storefront.png" alt="Storefront Settings" />
+<ImagePopup src="/images/configure/storefront.png" alt="Storefront Settings" /> 
 
-<ImagePopup src="/images/configure/buyNow.png" alt="Buy Now Products" />
+<ImagePopup src="/images/configure/buyNow.png" alt="Buy Now Products" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**.

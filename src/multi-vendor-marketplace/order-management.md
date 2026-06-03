@@ -1,102 +1,102 @@
-# Order Management
-Order management in a Laravel Multi Vendor Marketplace helps sellers and admins track, manage, and fulfill customer orders with ease.
+# Gestion des commandes 
+La gestion des commandes dans un Laravel Multi Vendor Marketplace aide les vendeurs et les administrateurs à suivre, gérer et exécuter facilement les commandes des clients. 
 
-From the moment a buyer places an order to shipping and delivery, everything is handled in one place.
+Depuis le moment où un acheteur passe une commande jusqu’à l’expédition et la livraison, tout est géré au même endroit. 
 
-It ensures smooth processing, timely updates, and better coordination between vendors and buyers for a hassle-free shopping experience.
+Il garantit un traitement fluide, des mises à jour rapides et une meilleure coordination entre les vendeurs et les acheteurs pour une expérience d'achat sans tracas. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/1homepage.png" alt="Homepage" />
+<ImagePopup src="/images/multi-vendor-marketplace/1homepage.png" alt="Homepage" /> 
 
-### Orders
-Go to the **"Orders"** menu and click on it.
+### Commandes 
+Allez dans le menu **"Commandes"** et cliquez dessus. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/dashboard-order.png" alt="Dashboard Order" />
+<ImagePopup src="/images/multi-vendor-marketplace/dashboard-order.png" alt="Dashboard Order" /> 
 
-The order management page will open, where you can see all customer orders in one place. You can also filter orders by date or status, track progress, and update delivery status.
+La page de gestion des commandes s'ouvrira, où vous pourrez voir toutes les commandes des clients en un seul endroit. Vous pouvez également filtrer les commandes par date ou statut, suivre la progression et mettre à jour le statut de livraison. 
 
-This helps you manage orders quickly and keep your customers happy.
-<ImagePopup src="/images/multi-vendor-marketplace/order-page.png" alt="Order Page" />
+Cela vous aide à gérer les commandes rapidement et à satisfaire vos clients. 
+<ImagePopup src="/images/multi-vendor-marketplace/order-page.png" alt="Order Page" /> 
 
-Clicking the arrow icon, you will find more information on the order, along with the invoice and shipment details.
+En cliquant sur l'icône en forme de flèche, vous trouverez plus d'informations sur la commande, ainsi que les détails de la facture et de l'expédition. 
 
-After clicking on the arrow icon next to an order, the order view page will open.
-Here, you can view order details like product name, price, status, billing & shipping info, payment method, and total amount.
+Après avoir cliqué sur l'icône en forme de flèche à côté d'une commande, la page d'affichage de la commande s'ouvrira. 
+Ici, vous pouvez afficher les détails de la commande tels que le nom du produit, le prix, le statut, les informations de facturation et d'expédition, le mode de paiement et le montant total. 
 
-Initially, the order item will be in the “Pending” state. This means the order has been received but not yet processed or shipped.
+Initialement, l'article commandé sera dans l'état « En attente ». Cela signifie que la commande a été reçue mais pas encore traitée ou expédiée. 
 
-### Invoice
-The seller can create an invoice.
+### Facture 
+Le vendeur peut créer une facture. 
 
-Click on the **"Invoice"** button in the top right corner.
+Cliquez sur le bouton **"Facture"** dans le coin supérieur droit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/pending-status-invoice.png" alt="Pending Status Invoice" />
+<ImagePopup src="/images/multi-vendor-marketplace/pending-status-invoice.png" alt="Pending Status Invoice" /> 
 
-A popup will appear showing invoice details like product name, quantity, price, and total amount.
+Une fenêtre contextuelle apparaîtra affichant les détails de la facture tels que le nom du produit, la quantité, le prix et le montant total. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/create-invoice.png" alt="Create Invoice" />
+<ImagePopup src="/images/multi-vendor-marketplace/create-invoice.png" alt="Create Invoice" /> 
 
-On clicking the "Create Invoice" button, the invoice is generated automatically.
-A success message will appear on the screen, and the order status will change from Pending state to Processing state, indicating that the order is now being prepared for shipment.
+En cliquant sur le bouton "Créer une facture", la facture est générée automatiquement. 
+Un message de réussite apparaîtra à l'écran et le statut de la commande passera de l'état En attente à l'état En cours de traitement, indiquant que la commande est maintenant en cours de préparation pour l'expédition. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/processing-state.png" alt="Processing State" />
+<ImagePopup src="/images/multi-vendor-marketplace/processing-state.png" alt="Processing State" /> 
 
-Once the invoice is created, you can view it under the "Invoice" tab.
+Une fois la facture créée, vous pouvez la consulter sous l'onglet « Facture ». 
 
-<ImagePopup src="/images/multi-vendor-marketplace/invoice.png" alt="Invoice" />
+<ImagePopup src="/images/multi-vendor-marketplace/invoice.png" alt="Invoice" /> 
 
-### Shipment
-The seller can create a shipment.
+### Expédition 
+Le vendeur peut créer une expédition. 
 
-Click on the **"Ship"** button in the top right corner.
+Cliquez sur le bouton **"Expédier"** dans le coin supérieur droit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/Ship-button.png" alt="Ship Button" />
+<ImagePopup src="/images/multi-vendor-marketplace/Ship-button.png" alt="Ship Button" /> 
 
-A popup will appear showing shipment details like product name, quantity, Ordered Quantity, Shipped Quantity.
+Une fenêtre contextuelle apparaîtra affichant les détails de l'expédition tels que le nom du produit, la quantité, la quantité commandée, la quantité expédiée. 
 
-To create the shipment, follow these steps:
+Pour créer l'envoi, procédez comme suit : 
 
-1) Enter the Carrier Title (e.g., FedEx, DHL, etc.)
+1) Saisissez le titre du transporteur (par exemple, FedEx, DHL, etc.) 
 
-2) Enter the Tracking ID provided by the shipping service
+2) Entrez l'ID de suivi fourni par le service d'expédition 
 
-3) Select the Product Ordered Source from the dropdown
+3) Sélectionnez la source du produit commandé dans la liste déroulante 
 
-4) Click on the **"Create Shipment"** button to proceed
+4) Cliquez sur le bouton **"Créer un envoi"** pour continuer 
 
-<ImagePopup src="/images/multi-vendor-marketplace/create-ship.png" alt="Create Shipment" />
+<ImagePopup src="/images/multi-vendor-marketplace/create-ship.png" alt="Create Shipment" /> 
 
-On clicking the **"Create Shipment"** button, the shipment is generated automatically.
+En cliquant sur le bouton **"Créer un envoi"**, l'envoi est généré automatiquement. 
 
-A success message will appear on the screen, and the order status will change from **Processing** to **Completed**, indicating that the order has been successfully shipped and fulfilled.
+Un message de réussite apparaîtra à l'écran et le statut de la commande passera de **En cours** à **Terminé**, indiquant que la commande a été expédiée et exécutée avec succès. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/complete.png" alt="Order Completed" />
+<ImagePopup src="/images/multi-vendor-marketplace/complete.png" alt="Order Completed" /> 
 
-Once the Shipment is created, you can view it under the "Shipment" tab.
-<ImagePopup src="/images/multi-vendor-marketplace/Shipment.png" alt="Shipment" />
+Une fois l'envoi créé, vous pouvez le visualiser sous l'onglet « Envoi ». 
+<ImagePopup src="/images/multi-vendor-marketplace/Shipment.png" alt="Shipment" /> 
 
-### Cancelled
-The seller can cancel the order.
+### Annulé 
+Le vendeur peut annuler la commande. 
 
-**Note:** The seller can cancel the order only before creating the invoice or shipment.
+**Remarque :** Le vendeur peut annuler la commande uniquement avant de créer la facture ou l'expédition. 
 
-Once the invoice or shipment is generated, the order can no longer be cancelled.
+Une fois la facture ou l'expédition générée, la commande ne peut plus être annulée. 
 
-Click on the **"Cancel"** button in the top right corner
+Cliquez sur le bouton **"Annuler"** dans le coin supérieur droit 
 
-<ImagePopup src="/images/multi-vendor-marketplace/cancel-button.png" alt="Cancel Button" />
+<ImagePopup src="/images/multi-vendor-marketplace/cancel-button.png" alt="Cancel Button" /> 
 
-A popup will appear asking, "Are you sure?"
+Une fenêtre contextuelle apparaîtra demandant : « Êtes-vous sûr ? » 
 
-You will be given two options:
+Deux options vous seront proposées : 
 
-**1)** Agree to confirm the cancellation
+**1)** Accepter de confirmer l'annulation 
 
-**2)** Disagree to keep the order active.
+**2)** Je n'accepte pas de maintenir la commande active. 
 
-Choose accordingly to proceed.
+Choisissez en conséquence pour continuer. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/msg-popup.png" alt="Confirmation Popup" />
+<ImagePopup src="/images/multi-vendor-marketplace/msg-popup.png" alt="Confirmation Popup" /> 
 
-A success message will appear on the screen, and the order status will change from **"Pending"** to **"Cancelled"**, indicating that the order has been successfully cancelled and will not proceed further.
+Un message de réussite apparaîtra à l'écran et le statut de la commande passera de **"En attente"** à **"Annulée"**, indiquant que la commande a été annulée avec succès et ne continuera pas. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/cancelled.png" alt="Order Cancelled" />

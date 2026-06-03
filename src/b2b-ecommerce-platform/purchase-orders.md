@@ -1,65 +1,65 @@
-# Purchase Orders 
+# Bons de commande
 
-The Purchase Orders feature allows companies to view and manage all their purchase orders directly from their dashboard.
+La fonctionnalité Bons de commande permet aux entreprises de visualiser et de gérer tous leurs bons de commande directement depuis leur tableau de bord.
 
-It helps businesses monitor procurement activities, track order progress, and maintain transparency within their organization.
+Il aide les entreprises à surveiller les activités d'approvisionnement, à suivre l'avancement des commandes et à maintenir la transparence au sein de leur organisation.
 
-### Steps to View Purchase Orders
+### Étapes pour afficher les bons de commande
 
-Go to **My Account → Profile → Purchase Orders** from the company storefront.
+Accédez à **Mon compte → Profil → Bons de commande** depuis la vitrine de l'entreprise.
 
-The My Purchase Orders page will appear, showing all existing purchase orders with options to search, filter, and manage them.
+La page Mes bons de commande apparaîtra, affichant tous les bons de commande existants avec des options pour les rechercher, les filtrer et les gérer.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/1-my-purchase-orders.png" alt="Super Admin Login" />
 
-### Purchase Order Details Include:
+### Les détails du bon de commande incluent :
 
-**A) ID –** Displays the unique purchase order ID.
+**A) ID –** Affiche l'ID unique du bon de commande.
 
-**B) Quotation Name –** Shows the name or reference of the quotation linked to the purchase order.
+**B) Nom du devis –** Affiche le nom ou la référence du devis lié au bon de commande.
 
-**C) Company –** Indicates the company associated with the order.
+**C) Entreprise –** Indique l'entreprise associée à la commande.
 
-**D) Base Total –** Displays the original order amount before negotiation or discount.
+**D) Total de base –** Affiche le montant initial de la commande avant négociation ou remise.
 
-**E) Negotiated Total –** Shows the final amount after price negotiation.
+**E) Total négocié –** Affiche le montant final après négociation du prix.
 
-**F) Status –** Indicates the current status of the purchase order (e.g., Completed, Pending, Ordered).
+**F) Statut –** Indique le statut actuel du bon de commande (par exemple, Terminé, En attente, Commandé).
 
-**G) Created At –** Displays the date and time when the order was created.
+**G) Créé à –** Affiche la date et l'heure de création de la commande.
 
-**H) Actions –** Provides options to view order details or perform further actions.
+**H) Actions –** Fournit des options pour afficher les détails de la commande ou effectuer d'autres actions.
 
 **Note:**
 
-Company users can easily track and manage their orders while maintaining visibility into negotiated totals and order statuses for efficient procurement management.
+Les utilisateurs de l'entreprise peuvent facilement suivre et gérer leurs commandes tout en conservant une visibilité sur les totaux négociés et les statuts des commandes pour une gestion efficace des achats.
 
-### Purchase Orders (Admin End)
+### Bons de commande (fin administrateur)
 
-The Purchase Orders (Admin End) feature allows the store admin to centrally view and manage all purchase orders created by different companies.
+La fonctionnalité Bons de commande (fin administrateur) permet à l'administrateur du magasin de visualiser et de gérer de manière centralisée tous les bons de commande créés par différentes sociétés.
 
-This section provides a complete overview of each company’s procurement activity, enabling better tracking and order management.
+Cette section fournit un aperçu complet de l’activité d’approvisionnement de chaque entreprise, permettant un meilleur suivi et une meilleure gestion des commandes.
 
-### Steps to View Purchase Orders
+### Étapes pour afficher les bons de commande
 
-Go to **Admin Panel → Customers → Purchase Orders**.
+Accédez à **Panneau d'administration → Clients → Bons de commande**.
 
-The Purchase Orders page will appear, showing a complete list of all purchase orders placed by companies.
+La page Bons de commande apparaîtra, affichant une liste complète de tous les bons de commande passés par les entreprises.
 
-Admins can **search, filter, export** and view detailed information for each order.
+Les administrateurs peuvent **rechercher, filtrer, exporter** et afficher des informations détaillées pour chaque commande.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/2-purchase-orders-admin.png" alt="Super Admin Login" />
 
-### Purchase Order Details Include:
+### Les détails du bon de commande incluent :
 
-**A) Purchase Order ID / Quotation Name / Status –** Displays the unique order ID, related quotation title, and current order status (e.g., Completed, Ordered, Pending).
+**A) ID du bon de commande / Nom du devis / Statut –** Affiche l'ID de commande unique, le titre du devis associé et le statut actuel de la commande (par exemple, Terminée, Commandée, En attente).
 
-**B) Company / Customer / Created At –** Shows the company name, customer name, and the date when the purchase order was created.
+**B) Entreprise / Client / Créé à –** Affiche le nom de l'entreprise, le nom du client et la date à laquelle le bon de commande a été créé.
 
-**C) Base Total / Negotiated Total / Expiration Date –** Displays the original order value, final negotiated price, and the expiration date of the quotation or order.
+**C) Total de base / Total négocié / Date d'expiration –** Affiche la valeur originale de la commande, le prix final négocié et la date d'expiration du devis ou de la commande.
 
-**D) Items –** Lists the products included in the purchase order.
+**D) Articles –** Répertorie les produits inclus dans le bon de commande.
 
 **Note:**
 
-Admins can monitor, track, and manage all company purchase orders from a single interface, ensuring smooth order processing and accurate business reporting.
+Les administrateurs peuvent surveiller, suivre et gérer tous les bons de commande de l'entreprise à partir d'une interface unique, garantissant ainsi un traitement fluide des commandes et des rapports commerciaux précis.

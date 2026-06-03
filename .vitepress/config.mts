@@ -82,9 +82,9 @@ function sitemapPlugin() {
 }
 
 export default defineConfig({
-  lang: "en-US",
-  title: "ExalandStore User Documentation",
-  description: "ExalandStore User Documentation",
+  lang: "fr-FR",
+  title: "Documentation utilisateur ExalandStore",
+  description: "Documentation utilisateur ExalandStore",
 
   vite: {
     server: {
@@ -138,12 +138,12 @@ export default defineConfig({
       // { text: "Dev Docs", link: "https://devdocs.ExalandStore.com/" },
       // { text: "Extensions", link: "https://exaland.app/extensions/" },
       // { text: "Community Forum", link: "https://forums.exaland.app/" },
-      { text: "Contact Us", link: "https://exaland.app/contact/" },
+      { text: "Nous contacter", link: "https://exaland.app/contact/" },
     ],
 
 
     lastUpdated: {
-      text: "Last Updated",
+      text: "Derniere mise a jour",
       formatOptions: {
         dateStyle: "full",
       },
@@ -156,180 +156,180 @@ export default defineConfig({
       },
 
       {
-        text: "Product Types",
+        text: "Types de produits",
         collapsed: false,
         items: [
-          { text: "Simple Product", link: "/product-types/simple-product" },
+          { text: "Produit simple", link: "/product-types/simple-product" },
           {
-            text: "Configurable Product",
+            text: "Produit configurable",
             link: "/product-types/configurable-product",
           },
-          { text: "Virtual Product", link: "/product-types/virtual-product" },
-          { text: "Bundle Product", link: "/product-types/bundle-product" },
-          { text: "Grouped Product", link: "/product-types/grouped-product" },
+          { text: "Produit virtuel", link: "/product-types/virtual-product" },
+          { text: "Produit groupé", link: "/product-types/bundle-product" },
+          { text: "Produit pack", link: "/product-types/grouped-product" },
           {
-            text: "Downlodable Product",
+            text: "Produit telechargeable",
             link: "/product-types/downloadable-product",
           },
-          { text: "Booking Product", link: "/product-types/booking-product" },
+          { text: "Produit de reservation", link: "/product-types/booking-product" },
         ],
       },
 
       {
-        text: "Category",
+        text: "Categorie",
         collapsed: false,
-        items: [{ text: "Create Category", link: "/category/create-category" }],
+        items: [{ text: "Creer une categorie", link: "/category/create-category" }],
       },
 
       {
-        text: "Attributes",
+        text: "Attributs",
         collapsed: false,
         items: [
-          { text: "Attribute Input Types", link: "/attribute/attribute-input" },
+          { text: "Types d'entree d'attribut", link: "/attribute/attribute-input" },
           {
-            text: "Create Product Attributes",
+            text: "Creer des attributs produit",
             link: "/attribute/product-attribute",
           },
-          { text: "Attribute Family", link: "/attribute/attribute-family" },
+          { text: "Famille d'attributs", link: "/attribute/attribute-family" },
         ],
       },
 
       {
-        text: "Orders",
+        text: "Commandes",
         collapsed: false,
         items: [
-          { text: "Create Order", link: "/orders/create-order" },
-          { text: "Create Invoice", link: "/orders/create-invoice" },
-          { text: "Create Shipment", link: "/orders/create-shipment" },
-          { text: "Create Refunds", link: "/orders/create-refunds" },
+          { text: "Creer une commande", link: "/orders/create-order" },
+          { text: "Creer une facture", link: "/orders/create-invoice" },
+          { text: "Creer une expedition", link: "/orders/create-shipment" },
+          { text: "Creer des remboursements", link: "/orders/create-refunds" },
           { text: "Transactions", link: "/orders/transactions" },
         ],
       },
       {
-        text: "Customers",
+        text: "Clients",
         collapsed: false,
         items: [
-          { text: "Create Customer", link: "/customer/create-customer" },
-          { text: "Customer Group", link: "/customer/customer-group" },
+          { text: "Creer un client", link: "/customer/create-customer" },
+          { text: "Groupe de clients", link: "/customer/customer-group" },
           {
-            text: "Customer Group Pricing",
+            text: "Tarification de groupe client",
             link: "/customer/customer-group-price",
           },
-          { text: "Customer Review", link: "/customer/customer-review" },
+          { text: "Avis client", link: "/customer/customer-review" },
         ],
       },
 
       {
         text: "CMS",
         collapsed: false,
-        items: [{ text: "Create CMS", link: "/cms/create-cms" }],
+        items: [{ text: "Creer une page CMS", link: "/cms/create-cms" }],
       },
 
       {
         text: "Marketing",
         collapsed: false,
         items: [
-          { text: "Cart Rules", link: "/marketing/cart-rules" },
-          { text: "Catalog Rules", link: "/marketing/catalog-rules" },
-          { text: "Email Templates", link: "/marketing/email-templates" },
-          { text: "Events", link: "/marketing/events" },
-          { text: "Campaigns", link: "/marketing/campaigns" },
+          { text: "Regles panier", link: "/marketing/cart-rules" },
+          { text: "Regles catalogue", link: "/marketing/catalog-rules" },
+          { text: "Modeles d'email", link: "/marketing/email-templates" },
+          { text: "Evenements", link: "/marketing/events" },
+          { text: "Campagnes", link: "/marketing/campaigns" },
           {
-            text: "Newsletter Subscriptions",
+            text: "Abonnements newsletter",
             link: "/marketing/newsletter-subscription",
           },
           { text: "Sitemaps", link: "/marketing/sitemaps" },
-          { text: "URL Rewrite", link: "/marketing/url-rewrite" },
-          { text: "Search Terms", link: "/marketing/search-terms" },
-          { text: "Search Synonyms", link: "/marketing/search-synonyms" },
+          { text: "Reecriture d'URL", link: "/marketing/url-rewrite" },
+          { text: "Termes de recherche", link: "/marketing/search-terms" },
+          { text: "Synonymes de recherche", link: "/marketing/search-synonyms" },
         ],
       },
 
       {
-        text: "Reporting",
+        text: "Rapports",
         collapsed: false,
         items: [
-          { text: "Sales", link: "/reporting/sales-report" },
-          { text: "Customers", link: "/reporting/customers-report" },
-          { text: "Products", link: "/reporting/product-report" },
+          { text: "Ventes", link: "/reporting/sales-report" },
+          { text: "Clients", link: "/reporting/customers-report" },
+          { text: "Produits", link: "/reporting/product-report" },
         ],
       },
 
       {
-        text: "Settings",
+        text: "Parametres",
         collapsed: false,
         items: [
           { text: "Locales", link: "/settings/locales" },
-          { text: "Currencies", link: "/settings/currencies" },
-          { text: "Exchange Rates", link: "/settings/exchange-rates" },
-          { text: "Inventory Source", link: "/settings/inventory-source" },
-          { text: "Channels", link: "/settings/channels" },
-          { text: "Users", link: "/settings/users" },
+          { text: "Devises", link: "/settings/currencies" },
+          { text: "Taux de change", link: "/settings/exchange-rates" },
+          { text: "Source d'inventaire", link: "/settings/inventory-source" },
+          { text: "Canaux", link: "/settings/channels" },
+          { text: "Utilisateurs", link: "/settings/users" },
           { text: "Roles", link: "/settings/roles" },
           { text: "Themes", link: "/settings/themes" },
           { text: "Taxes", link: "/settings/taxes" },
-          { text: "Data Transfer", link: "/settings/data-transfer" },
+          { text: "Transfert de donnees", link: "/settings/data-transfer" },
         ],
       },
 
       {
-        text: "Configure",
+        text: "Configuration",
         collapsed: false,
         items: [
-          { text: "Address", link: "/configure/address" },
-          { text: "Attribute", link: "/configure/attribute" },
-          { text: "Back Orders", link: "/configure/back-orders" },
+          { text: "Adresse", link: "/configure/address" },
+          { text: "Attribut", link: "/configure/attribute" },
+          { text: "Commandes en attente", link: "/configure/back-orders" },
           { text: "Google Captcha", link: "/configure/google-captcha" },
           { text: "Captcha", link: "/configure/captcha" },
-          { text: "Cart View Page", link: "/configure/cart-view-page" },
-          { text: "Checkout", link: "/configure/checkout" },
+          { text: "Page panier", link: "/configure/cart-view-page" },
+          { text: "Paiement", link: "/configure/checkout" },
           {
-            text: "Configurable Choices",
+            text: "Choix configurables",
             link: "/configure/configurable-choices",
           },
-          { text: "Content", link: "/configure/content" },
+          { text: "Contenu", link: "/configure/content" },
           {
-            text: "Exchange Rates Configurations",
+            text: "Configuration des taux de change",
             link: "/configure/exchange-rates-configurations",
           },
-          { text: "Coyright Content", link: "/configure/coyright-content" },
-          { text: "Custom Scripts", link: "/configure/custom-scripts" },
+          { text: "Contenu copyright", link: "/configure/coyright-content" },
+          { text: "Scripts personnalises", link: "/configure/custom-scripts" },
           { text: "Design", link: "/configure/design" },
-          { text: "Email Settings", link: "/configure/email-settings" },
+          { text: "Parametres email", link: "/configure/email-settings" },
           { text: "Frontend", link: "/configure/frontend" },
           { text: "GDPR", link: "/configure/gdpr" },
-          { text: "Guest Checkout", link: "/configure/guest-checkout" },
-          { text: "Image Size", link: "/configure/image-size" },
-          { text: "Invoice Settings", link: "/configure/invoice-settings" },
+          { text: "Paiement invite", link: "/configure/guest-checkout" },
+          { text: "Taille d'image", link: "/configure/image-size" },
+          { text: "Parametres facture", link: "/configure/invoice-settings" },
           { text: "Magic AI", link: "/configure/magic-ai" },
           { text: "Notifications", link: "/configure/notifications" },
-          { text: "Order Settings", link: "/configure/orders-settings" },
-          { text: "Payment Methods", link: "/configure/payment-methods" },
-          { text: "Pricing", link: "/configure/pricing" },
-          { text: "Product View Page", link: "/configure/product-view-page " },
-          { text: "Review", link: "/configure/review" },
-          { text: "Rich Snippets", link: "/configure/rich-snippets" },
-          { text: "Settings", link: "/configure/settings" },
-          { text: "Shipping Methods", link: "/configure/shipping-methods" },
-          { text: "Shipping", link: "/configure/shipping" },
-          { text: "Social Share", link: "/configure/social-share" },
+          { text: "Parametres commande", link: "/configure/orders-settings" },
+          { text: "Methodes de paiement", link: "/configure/payment-methods" },
+          { text: "Tarification", link: "/configure/pricing" },
+          { text: "Page produit", link: "/configure/product-view-page " },
+          { text: "Avis", link: "/configure/review" },
+          { text: "Extraits enrichis", link: "/configure/rich-snippets" },
+          { text: "Parametres", link: "/configure/settings" },
+          { text: "Methodes de livraison", link: "/configure/shipping-methods" },
+          { text: "Livraison", link: "/configure/shipping" },
+          { text: "Partage social", link: "/configure/social-share" },
           { text: "Taxes", link: "/configure/taxes" },
-          { text: "Weight Unit", link: "/configure/weight-unit" },
+          { text: "Unite de poids", link: "/configure/weight-unit" },
         ],
       },
 
       {
-        text: "2 Factor Authentication",
+        text: "Authentification a 2 facteurs",
         link: "/authentication/2fa-authentication",
       },
 
       {
-        text: "Shipping Methods",
+        text: "Methodes de livraison",
         link: "/shipping-method/shipping-methods",
       },
 
       {
-        text: "Payment Methods",
+        text: "Methodes de paiement",
         link: "/payment-method/payment-methods",
       },
 
@@ -496,7 +496,7 @@ export default defineConfig({
 
     footer: {
       message:
-        'Released under the <a href="https://www.exaland.app" target="_blank" class="mit-license">License</a>.',
+        'Publie sous <a href="https://www.exaland.app" target="_blank" class="mit-license">licence</a>.',
       copyright: `Copyright © ${new Date().getFullYear()} Exaland`,
     },
 

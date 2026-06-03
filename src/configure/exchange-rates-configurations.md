@@ -1,101 +1,101 @@
-# Exchange Rates Configuration
+# Configuration des taux de change 
 
-ExalandStore Exchange Rates lets you automatically refresh currency exchange rates by using outside API services.
+ExalandStore Exchange Rates vous permet d'actualiser automatiquement les taux de change en utilisant des services API externes. 
 
-In the admin panel, you can quickly input API credentials, choose your favorite service provider, and arrange a timetable for automatic updates.
+Dans le panneau d'administration, vous pouvez saisir rapidement les informations d'identification de l'API, choisir votre fournisseur de services préféré et organiser un calendrier pour les mises à jour automatiques. 
 
-This makes sure your store’s currency rates are correct without needing to do it by hand.
+Cela garantit que les taux de change de votre magasin sont corrects sans avoir besoin de le faire manuellement. 
 
-To set up exchange rates, navigate to: Configuration > General > Exchange Rates, as illustrated in the image below.
+Pour configurer les taux de change, accédez à : Configuration > Général > Taux de change, comme illustré dans l'image ci-dessous. 
 
-  <ImagePopup src="/images/configure/exchange_rates_configurations.png" alt="Address" />
+  <ImagePopup src="/images/configure/exchange_rates_configurations.png" alt="Address" /> 
 
-### Exchange Rates Configurations
+### Configurations des taux de change 
 
-Below are the detailed steps of the exchange rates configurations.
+Vous trouverez ci-dessous les étapes détaillées des configurations des taux de change. 
 
-**1) General Settings**
+**1) Paramètres généraux** 
 
-In this part, you can pick the default exchange rate service that ExalandStore will use.
+Dans cette partie, vous pouvez choisir le service de taux de change par défaut qu'ExalandStore utilisera. 
 
-You can choose between Exchange Rates API and Fixer API, based on what you like and what you need.
+Vous pouvez choisir entre l’API Exchange Rates et l’API Fixer, en fonction de ce que vous aimez et de ce dont vous avez besoin. 
 
-**2) Fixer API**
+**2) API du correcteur** 
 
-Here, you have to put in the API key you got from fixer.io.
+Ici, vous devez saisir la clé API que vous avez obtenue de fixer.io. 
 
-Fixer gives you both real-time and past exchange rate information. It also has a free plan, but you can only make a limited number of API requests.
+Fixer vous donne des informations sur les taux de change en temps réel et passés. Il propose également un forfait gratuit, mais vous ne pouvez effectuer qu'un nombre limité de requêtes API. 
 
-**3) Exchange Rates API**
+**3) API des taux de change** 
 
-In this section, you need to enter your API key from exchangerate-api.com. This service offers real-time exchange rates for over 160 currencies.
+Dans cette section, vous devez saisir votre clé API depuis Exchangerate-api.com. Ce service propose des taux de change en temps réel pour plus de 160 devises. 
 
-The free plan lets you make up to 1,500 requests each month, which is good for most small to medium-sized stores.
+Le forfait gratuit vous permet de faire jusqu'à 1 500 demandes chaque mois, ce qui convient à la plupart des petites et moyennes magasins. 
 
-**4) Scheduled Import**
+**4) Importation programmée** 
 
-You can turn on scheduled updates to automatically refresh exchange rates at set times.
+Vous pouvez activer les mises à jour programmées pour actualiser automatiquement les taux de change à des heures définies. 
 
-Once you turn it on, you can pick how often to update — daily, weekly (every Monday), or monthly (on the 1st day of the month).
+Une fois que vous l'avez activé, vous pouvez choisir la fréquence de mise à jour : quotidienne, hebdomadaire (tous les lundis) ou mensuelle (le 1er jour du mois). 
 
-You can easily add this from the settings as shown below.
+Vous pouvez facilement l'ajouter à partir des paramètres comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/configure/schedule.png" alt="Address" />
+<ImagePopup src="/images/configure/schedule.png" alt="Address" /> 
 
-You have to set the start time using the **24-hour format**, like this: 03:00.
+Vous devez définir l'heure de début en utilisant le **format 24 heures**, comme ceci : 03h00. 
 
-To ensure that scheduled updates function correctly, you need to have the Laravel task scheduler running.
+Pour garantir que les mises à jour planifiées fonctionnent correctement, vous devez exécuter le planificateur de tâches Laravel. 
 
-You can start it by using this command: 
+Vous pouvez le démarrer en utilisant cette commande : 
 
-**php artisan schedule:work**
+**horaire des artisans php : travail** 
 
-<ImagePopup src="/images/configure/terminial_cron.png" alt="Address" />
+<ImagePopup src="/images/configure/terminial_cron.png" alt="Address" /> 
 
-### Environment Variable Backup
+### Sauvegarde des variables d'environnement 
 
-If you forget to put API keys in the admin panel, ExalandStore will automatically grab the API keys from your .env file.
+Si vous oubliez de mettre les clés API dans le panneau d'administration, ExalandStore récupérera automatiquement les clés API de votre fichier .env. 
 
-For the Fixer API, you can use **FIXER_API_KEY**.
+Pour l'API Fixer, vous pouvez utiliser **FIXER_API_KEY**. 
 
-For the Exchange Rates API, you can use **EXCHANGE_RATES_API_KEY**.
+Pour l'API Exchange Rates, vous pouvez utiliser **EXCHANGE_RATES_API_KEY**. 
 
-**Example .env configuration:**
+**Exemple de configuration .env :** 
 
-FIXER_API_KEY=your_fixer_api_key_here
+FIXER_API_KEY=votre_fixer_api_key_here 
 
-EXCHANGE_RATES_API_KEY=your_exchange_rates_api_key_here
+EXCHANGE_RATES_API_KEY=votre_exchange_rates_api_key_here 
 
-### Manual Update
+### Mise à jour manuelle 
 
-Besides automatic updates, you can also change exchange rates by hand.
+Outre les mises à jour automatiques, vous pouvez également modifier les taux de change manuellement. 
 
-To do this, go to the admin panel, then click on **Settings > Exchange Rates** and hit the **Update Rates** button.
+Pour ce faire, accédez au panneau d'administration, puis cliquez sur **Paramètres > Taux de change** et appuyez sur le bouton **Mettre à jour les taux**. 
 
-Alternatively, you can use the command in the CLI: **php artisan exchange-rate:update**
+Alternativement, vous pouvez utiliser la commande dans la CLI : **php artisan Exchange-rate:update** 
 
-### Exchange Rates API (exchangerate-api.com):
+### API des taux de change (exchangerate-api.com) : 
 
-- Endpoint Example: **v6.exchangerate-api.com/v6/{API_KEY}/latest/{BASE}**
+- Exemple de point de terminaison : **v6.exchangerate-api.com/v6/{API_KEY}/latest/{BASE}** 
 
-- Fetches all currency rates in a single API call
+- Récupère tous les taux de change en un seul appel API 
 
-- Free tier: 1,500 requests/month
+- Niveau gratuit : 1 500 requêtes/mois 
 
-- Sign up: [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
+- Inscrivez-vous : [https://www.exchangerate-api.com](https://www.exchangerate-api.com) 
 
-### Supported Services
+### Services pris en charge 
 
-ExalandStore Exchange Rates API (exchangerate-api.com)
+API de taux de change ExalandStore (exchangerate-api.com) 
 
-This tool gets all the currency exchange rates with just one API call. You can make 1,500 free requests every month.
+Cet outil obtient tous les taux de change avec un seul appel API. Vous pouvez effectuer 1 500 demandes gratuites chaque mois. 
 
-### Fixer API (fixer.io)
+### API du correcteur (fixer.io) 
 
-- Endpoint: http://data.fixer.io/api/{date}
+- Point de terminaison : http://data.fixer.io/api/{date} 
 
-- Fetches rates per currency pair
+- Récupère les taux par paire de devises 
 
-- Free tier: 100 requests/month
+- Niveau gratuit : 100 requêtes/mois 
 
-- Sign up: [https://fixer.io](https://fixer.io)
+- Inscrivez-vous : [https://fixer.io](https://fixer.io)

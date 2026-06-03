@@ -1,86 +1,86 @@
-# Simple Product
+# Produit simple 
 
-A **simple product** is a product type in e-commerce that does not require customers to choose additional attributes (such as size or color) to add to the cart. It should be a physical item and can be shipped to customers.
+Un **produit simple** est un type de produit dans le commerce électronique qui n'exige pas que les clients choisissent des attributs supplémentaires (tels que la taille ou la couleur) à ajouter au panier. Il doit s'agir d'un article physique et peut être expédié aux clients. 
 
-Therefore, any service, such as downloadable items, does not count as a simple product. This is the step-by-step tutorial on how to add a simple product in [ExalandStore](https://www.exaland.app/ecommerce).
+Par conséquent, tout service, tel que les éléments téléchargeables, ne compte pas comme un simple produit. Il s'agit d'un didacticiel étape par étape expliquant comment ajouter un produit simple dans [ExalandStore](https://www.exaland.app/ecommerce). 
 
-### Create Simple Product in ExalandStore 2.0
-1. Click on **Catalog >> Products >>** select **Simple** under Product Type.
+### Créer un produit simple dans ExalandStore 2.0 
+1. Cliquez sur **Catalogue >> Produits >>** sélectionnez **Simple** sous Type de produit. 
 
-   <ImagePopup src="/images/simple-product/simple.png" alt="Simple" />
+   <ImagePopup src="/images/simple-product/simple.png" alt="Simple" /> 
 
-Now **Save the Product**, and you will get redirected to the Edit product page as shown below.
+Maintenant, **Enregistrez le produit** et vous serez redirigé vers la page Modifier le produit comme indiqué ci-dessous. 
 
-### General Attributes
-Below is the list of fields you need to fill under General Attributes.
+### Attributs généraux 
+Vous trouverez ci-dessous la liste des champs que vous devez remplir sous Attributs généraux. 
 
-   <ImagePopup src="/images/simple-product/editProduct.png" alt="Edit Product" />
+   <ImagePopup src="/images/simple-product/editProduct.png" alt="Edit Product" /> 
 
-### Description
-Below is the list of the fields you need to fill in regarding the product under description.
+### Descriptif 
+Vous trouverez ci-dessous la liste des champs que vous devez remplir concernant le produit sous description. 
 
-#### Short Description
-Enter a short description of the feature of the product.
+#### Brève description 
+Saisissez une brève description de la fonctionnalité du produit. 
 
-#### Description
-Mention your product in detail.
+#### Descriptif 
+Mentionnez votre produit en détail. 
 
-   <ImagePopup src="/images/simple-product/description.png" alt="Description" />
+   <ImagePopup src="/images/simple-product/description.png" alt="Description" /> 
 
-### Meta Description
-Below is the list of fields that you need to provide under the meta description to make your product easily searchable on search engines.
+### Méta-description 
+Vous trouverez ci-dessous la liste des champs que vous devez fournir sous la méta description pour rendre votre produit facilement consultable sur les moteurs de recherche. 
 
-#### Meta Title
-Provide the main title of the product by which your product will be known.
+#### Méta-titre 
+Fournissez le titre principal du produit sous lequel votre produit sera connu. 
 
-#### Meta Keyword
-The meta keyword for the product needs to be provided to improve its searchability on the search engine for specific keywords.
+#### Méta-mot-clé 
+Le méta-mot-clé du produit doit être fourni pour améliorer sa capacité de recherche sur le moteur de recherche pour des mots-clés spécifiques. 
 
-#### Meta Description
-Enter the description so that products can easily appear in search engine listings.
+#### Méta-description 
+Saisissez la description afin que les produits puissent apparaître facilement dans les listes des moteurs de recherche. 
 
-<ImagePopup src="/images/simple-product/metaDescription.png" alt="Meta Description" />
+<ImagePopup src="/images/simple-product/metaDescription.png" alt="Meta Description" /> 
 
-### Images
-To add the product images, click on **Add Images**. You can add multiple images for your product.
+### Images 
+Pour ajouter les images du produit, cliquez sur **Ajouter des images**. Vous pouvez ajouter plusieurs images pour votre produit. 
 
-<ImagePopup src="/images/simple-product/image.png" alt="Image" />
+<ImagePopup src="/images/simple-product/image.png" alt="Image" /> 
 
-### New
-Enable the toggle button if you want to feature the product as a new product. The resulting product will be shown under the New Products section.
+### Nouveau 
+Activez le bouton bascule si vous souhaitez présenter le produit en tant que nouveau produit. Le produit résultant sera affiché dans la section Nouveaux produits. 
 
-### Featured
-Enable the toggle button if you want to show the product under the Featured Products section.
+### En vedette 
+Activez le bouton bascule si vous souhaitez afficher le produit dans la section Produits en vedette. 
 
-### Visible Individually
-Enable the toggle button so that the product will be visible on the front end.
+### Visible individuellement 
+Activez le bouton bascule pour que le produit soit visible sur le front-end. 
 
-### Status
-Enable the toggle button to enable the product on your eCommerce store.
+### Statut 
+Activez le bouton bascule pour activer le produit sur votre boutique de commerce électronique. 
 
-### Guest Checkout
-Enable the toggle button to allow the product to be ordered by guest customers.
+### Paiement des invités 
+Activez le bouton bascule pour permettre au produit d'être commandé par les clients invités. 
 
-<ImagePopup src="/images/simple-product/toggleButtons.png" alt="Toggle Buttons" />
+<ImagePopup src="/images/simple-product/toggleButtons.png" alt="Toggle Buttons" /> 
 
-### Price
-Insert the price, cost, and special price, and set the special price date for which the special price will be shown on the website.
+### Prix 
+Insérez le prix, le coût et le prix spécial, et définissez la date du prix spécial pour laquelle le prix spécial sera affiché sur le site Web. 
 
-<ImagePopup src="/images/simple-product/price.png" alt="Price" />
+<ImagePopup src="/images/simple-product/price.png" alt="Price" /> 
 
-### Shipping
-Set the Width, Height, Depth, and Weight of the product.
+### Expédition 
+Définissez la largeur, la hauteur, la profondeur et le poids du produit. 
 
-<ImagePopup src="/images/simple-product/shipping.png" alt="Shipping" />
+<ImagePopup src="/images/simple-product/shipping.png" alt="Shipping" /> 
 
-### Inventories
-Insert the quantity of the product that is there in your inventory. By default, it is set to 0 so it shows on the front end as out of stock.
+### Inventaires 
+Insérez la quantité du produit qui se trouve dans votre inventaire. Par défaut, il est défini sur 0, il apparaît donc sur le front-end comme étant en rupture de stock. 
 
-<ImagePopup src="/images/simple-product/inventories.png" alt="Inventories" />
+<ImagePopup src="/images/simple-product/inventories.png" alt="Inventories" /> 
 
-At last, **Save the Product**.
+Enfin, **Enregistrez le produit**. 
 
-### Front End
-The product will be visible as given below on the front end.
+### Front-End 
+Le produit sera visible comme indiqué ci-dessous sur le devant. 
 
 <ImagePopup src="/images/simple-product/product.png" alt="Product" />

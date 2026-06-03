@@ -1,31 +1,31 @@
-# 2 Factor Authentication (2FA) 
+Authentification à 2 facteurs (2FA)
 
-To make admin accounts safer, we have added Two-Factor Authentication (2FA) in ExalandStore.
+Pour rendre les comptes d'administrateur plus sûrs, nous avons ajouté l'authentification à deux facteurs (2FA) dans ExalandStore.
 
-This feature gives an extra level of security by asking admins to confirm their identity with a second step when they log in.
+Cette fonctionnalité offre un niveau de sécurité supplémentaire en demandant aux administrateurs de confirmer leur identité lors d'une deuxième étape lorsqu'ils se connectent.
 
-### Steps for 2 Factor Authentication (2FA)
+### Étapes pour l'authentification à 2 facteurs (2FA)
 
-**Step-1** First, you need to log in to the ExalandStore admin panel using your credentials (username and password). After logging in, you will be redirected to the dashboard.
+**Étape 1** Tout d'abord, vous devez vous connecter au panneau d'administration d'ExalandStore en utilisant vos informations d'identification (nom d'utilisateur et mot de passe). Après vous être connecté, vous serez redirigé vers le tableau de bord.
 
-On the dashboard, you will find your account section in the top-right corner. From there, you can access your account details or log out of the admin panel. Click on it and select **My Account** to proceed.
+Sur le tableau de bord, vous trouverez la section de votre compte dans le coin supérieur droit. De là, vous pouvez accéder aux détails de votre compte ou vous déconnecter du panneau d'administration. Cliquez dessus et sélectionnez **Mon compte** pour continuer.
 
-For your reference, an image is provided below.
+Pour votre référence, une image est fournie ci-dessous.
 
 <ImagePopup src="/images/configure/account-login.png" alt="Account Login" />
 
-**Step-2** Here, your account details will be displayed, and you will find a toggle option to enable Two-Factor Authentication.
+**Étape 2** Ici, les détails de votre compte seront affichés et vous trouverez une option bascule pour activer l'authentification à deux facteurs.
 
 <ImagePopup src="/images/configure/enable-2fa.png" alt="Account Login" />
 
-**Step-3** As soon as you enable it, a QR code will appear on your screen to set up Two-Factor Authentication.
+**Étape 3** Dès que vous l'activez, un code QR apparaîtra sur votre écran pour configurer l'authentification à deux facteurs.
 
  <ImagePopup src="/images/configure/qr-code.png" alt="Account Login" />
 
-**Step-4** Now, you need to install the **Google Authenticator** app on your mobile phone. If you are an Android user, download it from the Play Store, and if you are an iPhone user, download it from the App Store.
+**Étape 4** Vous devez maintenant installer l'application **Google Authenticator** sur votre téléphone mobile. Si vous êtes un utilisateur Android, téléchargez-le depuis le Play Store et si vous êtes un utilisateur iPhone, téléchargez-le depuis l'App Store.
 
-Once the app is installed, open it and complete the registration. You will find a **“+”** icon at the bottom right side of the app—tap on it and select the option to scan a QR code.
+Une fois l'application installée, ouvrez-la et terminez l'enregistrement. Vous trouverez une icône ** « + » ** en bas à droite de l'application : appuyez dessus et sélectionnez l'option permettant de scanner un code QR.
 
-After scanning the QR code, a verification code will be generated in the app. Enter this code in the **Verification Code** field on your screen, and then click on **Verify and Enable** button
+Après avoir scanné le code QR, un code de vérification sera généré dans l'application. Entrez ce code dans le champ **Code de vérification** sur votre écran, puis cliquez sur le bouton **Vérifier et activer**.
 
-Once done, your Two-Factor Authentication will be successfully enabled.
+Une fois cela fait, votre authentification à deux facteurs sera activée avec succès.

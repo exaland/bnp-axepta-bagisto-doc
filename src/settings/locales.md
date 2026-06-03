@@ -1,35 +1,35 @@
-# Locales
+# Paramètres régionaux 
 
-To display your website in a different language, you need to set the Locale in ExalandStore. Having more than one language for your website can improve the shopping experience for your customers.
+Pour afficher votre site Web dans une langue différente, vous devez définir les paramètres régionaux dans ExalandStore. Avoir plusieurs langues pour votre site Web peut améliorer l’expérience d’achat de vos clients. 
 
-### Set Locales in ExalandStore
+### Définir les paramètres régionaux dans ExalandStore 
 
-Here are the steps to set Locales in ExalandStore:
+Voici les étapes pour définir les paramètres régionaux dans ExalandStore : 
 
-**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Locales >> Create Locale** as shown below.
+**Étape 1 :** Dans le panneau d'administration d'ExalandStore, accédez à **Paramètres >> Paramètres régionaux >> Créer un paramètre régional** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/locales.png" alt="Locales" />
+<ImagePopup src="/images/settings/locales.png" alt="Locales" /> 
 
-**Step 2:** Now add the following fields:
+**Étape 2 :** Ajoutez maintenant les champs suivants : 
 
-**1. Code** – Every language has its unique code.  
+**1. Code** – Chaque langue a son code unique. 
 
-**2. Name** – Name of the language.  
+**2. Nom** – Nom de la langue. 
 
-**3. Directions** – Add the direction in which your language works **LTR (Left To Right), RTL (Right To Left)**.  
+**3. Directions** – Ajoutez la direction dans laquelle votre langue fonctionne **LTR (de gauche à droite), RTL (de droite à gauche)**. 
 
-**4. Logo** – Add the logo of your language.  
+**4. Logo** – Ajoutez le logo de votre langue. 
 
-Now click **Save Locale** as shown in the below image.
+Cliquez maintenant sur **Enregistrer les paramètres régionaux** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/settings/newLocale.png" alt="New Locale" />
+<ImagePopup src="/images/settings/newLocale.png" alt="New Locale" /> 
 
-**Step 3:** You will now be able to see the new **Locale** as shown below.
+**Étape 3 :** Vous pourrez désormais voir les nouveaux **Locales** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/localeGrid.png" alt="Locale Grid" />
+<ImagePopup src="/images/settings/localeGrid.png" alt="Locale Grid" /> 
 
-**Step 4:** On the Admin panel, open **Settings >> Channels**. You will see your new language in the Currencies and Locales section. To enable this, select it and click **Save Channel** as shown in the image below.
+**Étape 4 :** Dans le panneau d'administration, ouvrez **Paramètres >> Chaînes**. Vous verrez votre nouvelle langue dans la section Devises et paramètres régionaux. Pour l'activer, sélectionnez-le et cliquez sur **Enregistrer la chaîne** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/settings/localeChannel.png" alt="Locale Channel" />
+<ImagePopup src="/images/settings/localeChannel.png" alt="Locale Channel" /> 
 
-So, by following these steps, you can easily create **Locales** in ExalandStore and make your website available in your desired language.
+Ainsi, en suivant ces étapes, vous pouvez facilement créer des **Locales** dans ExalandStore et rendre votre site Web disponible dans la langue de votre choix.

@@ -1,49 +1,49 @@
-# CName Mapping
+# Mappage de noms C 
 
-**CName Mapping** lets tenants connect their own domain to the subdomain created by the SaaS, which helps with professional branding.
+**CName Mapping** permet aux locataires de connecter leur propre domaine au sous-domaine créé par le SaaS, ce qui contribue à l'image de marque professionnelle. 
 
-When a tenant signs up, a default subdomain like **username.rootdomain.com** is created. With CNAME, their actual domain can be directed to this subdomain. This makes it easy for customers to find the store and keeps a reliable, consistent online image.
+Lorsqu'un locataire s'inscrit, un sous-domaine par défaut tel que **username.rootdomain.com** est créé. Avec CNAME, leur domaine réel peut être dirigé vers ce sous-domaine. Cela permet aux clients de trouver facilement le magasin et de conserver une image en ligne fiable et cohérente. 
 
-The mapping is set up through the tenant's DNS provider and the SaaS by the **Super Admin**, and it doesn't need any extra plugins.
+Le mappage est configuré via le fournisseur DNS du locataire et le SaaS par le **Super Administrateur**, et il ne nécessite aucun plugin supplémentaire. 
 
----
+--- 
 
-## Flow to Map Tenant Domain with CNAME
+## Flux pour mapper le domaine du locataire avec CNAME 
 
-### Step 1: Login to DNS Console
+### Étape 1 : Connectez-vous à la console DNS 
 
-Log in to your DNS provider (like GoDaddy) and go to the settings for the domain you want to map.
+Connectez-vous à votre fournisseur DNS (comme GoDaddy) et accédez aux paramètres du domaine que vous souhaitez mapper. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/1-godaddy.png" alt="GoDaddy DNS Console" />
+<ImagePopup src="/images/multi-tenant-ecommerce/1-godaddy.png" alt="GoDaddy DNS Console" /> 
 
----
+--- 
 
-### Step 2: Add DNS Record
+### Étape 2 : Ajouter un enregistrement DNS 
 
-Once you log in, set up an **A record** for your domain that directs to the IP of the SaaS server.
+Une fois connecté, configurez un **enregistrement A** pour votre domaine qui dirige vers l'adresse IP du serveur SaaS. 
 
-For example, to map the domain **myshopdemo.com** with the SaaS server **IP: 206.189.131.29**, add an **A record** in your DNS settings as shown in the image below.
+Par exemple, pour mapper le domaine **myshopdemo.com** avec le serveur SaaS **IP : 206.189.131.29**, ajoutez un **enregistrement A** dans vos paramètres DNS, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/2-dns-record.png" alt="DNS Record Configuration" />
+<ImagePopup src="/images/multi-tenant-ecommerce/2-dns-record.png" alt="DNS Record Configuration" /> 
 
----
+--- 
 
-### Step 3: Configure CNAME in SaaS
+### Étape 3 : Configurer CNAME en SaaS 
 
-After mapping the domain with the server IP, log in as **Super Admin** in the SaaS. You will see the tenant’s subdomain already created (e.g., **site1.ExalandStore.com**).
+Après avoir mappé le domaine avec l'adresse IP du serveur, connectez-vous en tant que **Super Admin** dans le SaaS. Vous verrez le sous-domaine du locataire déjà créé (par exemple, **site1.ExalandStore.com**). 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/3-super-tenants.png" alt="Super Admin Tenants List" />
+<ImagePopup src="/images/multi-tenant-ecommerce/3-super-tenants.png" alt="Super Admin Tenants List" /> 
 
-To map the tenant’s real domain (e.g., **myshopdemo.com**), click the **edit (pencil) icon**, enter the domain in the **CNAME** field, and then click **Save Tenant** to save.
+Pour mapper le domaine réel du locataire (par exemple, **myshopdemo.com**), cliquez sur l'**icône de modification (crayon)**, saisissez le domaine dans le champ **CNAME**, puis cliquez sur **Enregistrer le locataire** pour enregistrer. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/4-edit-tenant.png" alt="Edit Tenant CNAME" />
+<ImagePopup src="/images/multi-tenant-ecommerce/4-edit-tenant.png" alt="Edit Tenant CNAME" /> 
 
----
+--- 
 
-### Step 4: Test the Domain
+### Étape 4 : Testez le domaine 
 
-Open the tenant's website in a browser and see if it loads properly.
+Ouvrez le site Web du locataire dans un navigateur et voyez s'il se charge correctement. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/5-tenant-store.png" alt="Tenant Store Frontend" />
+<ImagePopup src="/images/multi-tenant-ecommerce/5-tenant-store.png" alt="Tenant Store Frontend" /> 
 
-If the website loads on the tenant's original domain (like **myshopdemo.com**), it means the connection with the SaaS subdomain worked successfully.
+Si le site Web se charge sur le domaine d'origine du locataire (comme **myshopdemo.com**), cela signifie que la connexion avec le sous-domaine SaaS a fonctionné avec succès.

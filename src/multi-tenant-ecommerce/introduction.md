@@ -1,37 +1,37 @@
-# Multi Tenant Ecommerce 
+# Commerce électronique multi-locataires 
 
-[Multi-Tenant eCommerce](https://www.exaland.app/ecommercelaravel-multi-tenant-saas/) in ExalandStore allows businesses to build a SaaS-based marketplace platform where multiple vendors or merchants can create and manage their own individual stores under a single system.
+[Commerce électronique multi-tenant](https://www.exaland.app/ecommercelaravel-multi-tenant-saas/) dans ExalandStore permet aux entreprises de créer une plate-forme de marché basée sur SaaS où plusieurs fournisseurs ou commerçants peuvent créer et gérer leurs propres magasins individuels sous un seul système. 
 
-Each tenant (merchant) gets a dedicated storefront with complete control over products, categories, orders, and customers, while the platform owner manages the overall infrastructure, subscriptions, and revenue models. This setup reduces operational costs for merchants, as they don’t need to invest in separate eCommerce development or hosting.
+Chaque locataire (commerçant) dispose d'une vitrine dédiée avec un contrôle total sur les produits, les catégories, les commandes et les clients, tandis que le propriétaire de la plateforme gère l'infrastructure globale, les abonnements et les modèles de revenus. Cette configuration réduit les coûts opérationnels pour les commerçants, car ils n'ont pas besoin d'investir dans un développement ou un hébergement de commerce électronique distinct. 
 
-### Super Admin Management 
+### Gestion des super-administrateurs 
 
-The Super Admin position is the top authority in the SaaS mall, in charge of overseeing tenants, staff, and the entire platform's operations.
+Le poste de super administrateur est la principale autorité du centre commercial SaaS, chargé de superviser les locataires, le personnel et l'ensemble des opérations de la plateforme. 
 
-This role includes managing merchants (tenants), giving roles to staff (agents), and making sure everything works well together in the system.
+Ce rôle consiste à gérer les commerçants (locataires), à attribuer des rôles au personnel (agents) et à s'assurer que tout fonctionne bien dans le système. 
 
-Super Admins set up what products are visible, manage channels, and design themes to keep a consistent look and branding for all tenant stores.
+Les super administrateurs définissent les produits visibles, gèrent les canaux et conçoivent des thèmes pour conserver une apparence et une image de marque cohérentes pour tous les magasins locataires. 
 
-They also take care of CMS pages, send out email broadcasts, and manage global settings to ensure clear communication and proper governance of the platform.
+Ils s'occupent également des pages CMS, envoient des diffusions par e-mail et gèrent les paramètres globaux pour garantir une communication claire et une bonne gouvernance de la plateforme. 
 
-### Tenant Management
+### Gestion des locataires 
 
-Tenant Management in the SaaS makes it easy for tenants to sign up and quickly create their online store by filling in their login, personal, and organization information.
+La gestion des locataires dans le SaaS permet aux locataires de s'inscrire facilement et de créer rapidement leur boutique en ligne en remplissant leurs informations de connexion, personnelles et organisationnelles. 
 
-After they register, the tenant’s storefront is set up automatically, so they can begin selling immediately without any technical difficulties.
+Après son inscription, la vitrine du locataire est automatiquement configurée, ce qui lui permet de commencer à vendre immédiatement sans aucune difficulté technique. 
 
-Using the Tenant Admin Panel, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to ExalandStore.
+À l'aide du panneau d'administration des locataires, les locataires peuvent gérer les produits, les catégories, les attributs, les clients et bien plus encore via une interface conviviale similaire à ExalandStore. 
 
-Tenants can also manage orders by making invoices, setting up shipments, and using other menu options to run their store efficiently.
+Les locataires peuvent également gérer les commandes en établissant des factures, en organisant les expéditions et en utilisant d'autres options de menu pour gérer efficacement leur magasin. 
 
-### CName Mapping
+### Mappage de noms C 
 
-CName Mapping lets tenants connect their own domain to the subdomain made by the SaaS, which helps with professional branding.
+CName Mapping permet aux locataires de connecter leur propre domaine au sous-domaine créé par le SaaS, ce qui contribue à l'image de marque professionnelle. 
 
-When a tenant signs up, a default subdomain like **username.rootdomain.com** is created. With CNAME, their actual domain can be directed to this subdomain.
+Lorsqu'un locataire s'inscrit, un sous-domaine par défaut tel que **username.rootdomain.com** est créé. Avec CNAME, leur domaine réel peut être dirigé vers ce sous-domaine. 
 
-This makes it easy for customers to find the store and keeps a reliable, consistent online image.
+Cela permet aux clients de trouver facilement le magasin et de conserver une image en ligne fiable et cohérente. 
 
-The mapping is set up through the tenant's DNS provider and the SaaS by the Super Admin, and it doesn't need any extra plugins.
+Le mappage est configuré via le fournisseur DNS du locataire et le SaaS par le super administrateur, et il ne nécessite aucun plugin supplémentaire. 
 
 <ImagePopup src="/images/multi-tenant-ecommerce/multi-tenant.webp" alt="Super Admin Login" />

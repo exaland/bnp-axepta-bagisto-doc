@@ -1,42 +1,42 @@
-# CMS Pages
+# pages CMS 
 
-With the help of CMS (content management system), you can create and edit pages for your ExalandStore store. CMS is also helpful for customers while purchasing products to check the refund and return policy and more.
+À l'aide du CMS (système de gestion de contenu), vous pouvez créer et modifier des pages pour votre boutique ExalandStore. Le CMS est également utile aux clients lors de l'achat de produits pour vérifier la politique de remboursement et de retour et plus encore. 
 
-### To create a CMS page from the Admin Panel, follow the below steps:
+### Pour créer une page CMS à partir du panneau d'administration, suivez les étapes ci-dessous : 
 
-**Add a New Page**
+**Ajouter une nouvelle page** 
 
-**Step 1:** On the Admin Sidebar, click on **CMS >> Page**.  
-By default, there are already CMS pages located here. To create a new CMS page, click on the **Create Page** button as shown below.
+**Étape 1 :** Dans la barre latérale d'administration, cliquez sur **CMS >> Page**. 
+Par défaut, des pages CMS se trouvent déjà ici. Pour créer une nouvelle page CMS, cliquez sur le bouton **Créer une page** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/cms/createPage.png" alt="Create Page" />
+<ImagePopup src="/images/cms/createPage.png" alt="Create Page" /> 
 
-**Step 2:** Add the page **Title** and add channels under general as shown in the image below.
+**Étape 2 :** Ajoutez la page **Titre** et ajoutez les chaînes sous Général, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/cms/general.png" alt="General Settings" />
+<ImagePopup src="/images/cms/general.png" alt="General Settings" /> 
 
-**Step 3:** Add the **Content** of the CMS page under **Description**.
+**Étape 3 :** Ajoutez le **Contenu** de la page CMS sous **Description**. 
 
-<ImagePopup src="/images/cms/description.png" alt="CMS Description" />
+<ImagePopup src="/images/cms/description.png" alt="CMS Description" /> 
 
-**Step 4:** Add the following fields under **SEO**:
+**Étape 4 :** Ajoutez les champs suivants sous **SEO** : 
 
-1. **Meta Description**  
-   Enter the description so that the **CMS Page** can easily appear in search engine listings.
+1. **Méta-description** 
+Saisissez la description afin que la **page CMS** puisse apparaître facilement dans les listes des moteurs de recherche. 
 
-2. **Meta Title**  
-   Provide the main title of the **CMS Page**, by which your page will be known.
+2. **Méta-titre** 
+Fournissez le titre principal de la **page CMS**, sous lequel votre page sera connue. 
 
-3. **Meta Keyword**  
-   Provide meta keywords for the page to improve its searchability in search engines.
+3. **Méta-mot-clé** 
+Fournissez des méta-mots-clés pour la page afin d’améliorer sa capacité de recherche dans les moteurs de recherche. 
 
-4. **URL Key**  
-   The URL key is the part of a static URL that describes the Page, Product, or Category. 
+4. **Clé URL** 
+La clé URL est la partie d'une URL statique qui décrit la page, le produit ou la catégorie. 
 
-<ImagePopup src="/images/cms/seo.png" alt="SEO Settings" />
+<ImagePopup src="/images/cms/seo.png" alt="SEO Settings" /> 
 
-A new CMS page has been created successfully by the name of **New Page**, as shown in the image below.
+Une nouvelle page CMS a été créée avec succès sous le nom de **Nouvelle page**, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/cms/output.png" alt="CMS Page Output" />
+<ImagePopup src="/images/cms/output.png" alt="CMS Page Output" /> 
 
-By this, you can easily create CMS pages in ExalandStore.
+Grâce à cela, vous pouvez facilement créer des pages CMS dans ExalandStore.

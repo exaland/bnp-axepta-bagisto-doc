@@ -1,52 +1,52 @@
-# Taxes
+# Impôts 
 
-In e-commerce, various taxes are applied when purchasing products, and these rates can differ by country. ExalandStore allows you to create and manage taxes efficiently.  
+Dans le commerce électronique, diverses taxes sont appliquées lors de l’achat de produits, et ces taux peuvent différer selon les pays. ExalandStore vous permet de créer et de gérer efficacement vos taxes. 
 
-## Tax Rate
+## Taux d'imposition 
 
-**Step 1:** In the admin panel, go to **Settings >> Taxes >> Tax Rates >> Create Tax Rate**.
+**Étape 1 :** Dans le panneau d'administration, accédez à **Paramètres >> Taxes >> Taux de taxe >> Créer un taux de taxe**. 
 
-<ImagePopup src="/images/settings/taxRate.png" alt="Tax Rate" />
+<ImagePopup src="/images/settings/taxRate.png" alt="Tax Rate" /> 
 
-**Step 2:** Enter the following fields:  
+**Étape 2 :** Saisissez les champs suivants : 
 
-- **Identifier**  
-- **Country**  
-- **State**  
-- **Zip Code**  
-- **Tax Rate**  
+- **Identifiant** 
+- **Pays** 
+- **État** 
+- **Code postal** 
+- **Taux d'imposition** 
 
-**Note:** You can also set a zip code range so that the tax applies only within that range. Then click **Save Tax Rate**.
+**Remarque :** Vous pouvez également définir une plage de codes postaux afin que la taxe s'applique uniquement dans cette plage. Cliquez ensuite sur **Enregistrer le taux d'imposition**. 
 
-<ImagePopup src="/images/settings/savetaxRate.png" alt="Save Tax Rate" />
+<ImagePopup src="/images/settings/savetaxRate.png" alt="Save Tax Rate" /> 
 
-## Tax Categories
+## Catégories fiscales 
 
-**Step 1:** To create a Tax Category, go to **Tax Categories**.  
+**Étape 1 :** Pour créer une catégorie de taxe, accédez à **Catégories de taxe**. 
 
-### Add the Fields
+### Ajouter les champs 
 
-1. **Code:** Enter a unique code for the tax category.  
-2. **Name:** Enter the name of the tax category.  
-3. **Description:** Enter a description.  
-4. **Tax Rate:** Assign the tax rate.  
+1. **Code :** Saisissez un code unique pour la catégorie de taxe. 
+2. **Nom :** Saisissez le nom de la catégorie de taxe. 
+3. **Description :** Saisissez une description. 
+4. **Taux de taxe :** attribuez le taux de taxe. 
 
-Click **Save Tax Category**.
+Cliquez sur **Enregistrer la catégorie de taxe**. 
 
-<ImagePopup src="/images/settings/saveCategory.png" alt="Save Tax Category" />
+<ImagePopup src="/images/settings/saveCategory.png" alt="Save Tax Category" /> 
 
-**Step 2:** Assign the Tax Category when creating a product.
+**Étape 2 :** Attribuez la catégorie de taxe lors de la création d'un produit. 
 
-<ImagePopup src="/images/settings/productCategory.png" alt="Product Tax Category" />
+<ImagePopup src="/images/settings/productCategory.png" alt="Product Tax Category" /> 
 
-### Frontend
+### Front-end 
 
-Enter the billing address or sign in to your account and click **Continue**.  
+Saisissez l'adresse de facturation ou connectez-vous à votre compte et cliquez sur **Continuer**. 
 
-Select the **Shipping** and **Payment** methods and click **Continue**.
+Sélectionnez les méthodes **Expédition** et **Paiement** et cliquez sur **Continuer**. 
 
-<ImagePopup src="/images/settings/taxFront.png" alt="Tax Frontend" />
+<ImagePopup src="/images/settings/taxFront.png" alt="Tax Frontend" /> 
 
-The tax will appear on the product price in the frontend. For example, if a 20% tax is set, it will be applied to the product price at checkout.  
+La taxe apparaîtra sur le prix du produit dans le frontend. Par exemple, si une taxe de 20 % est fixée, elle sera appliquée sur le prix du produit au moment du paiement. 
 
-This is how you can easily create **Taxes** in ExalandStore.
+C'est ainsi que vous pouvez facilement créer des **Taxes** dans ExalandStore.

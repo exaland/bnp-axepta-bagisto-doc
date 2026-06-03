@@ -1,11 +1,11 @@
-# Review
+# Révision 
 
-This section allows you to manage product reviews for Guest Users.
+Cette section vous permet de gérer les avis sur les produits pour les utilisateurs invités. 
 
-To configure, go to the Admin Panel and navigate to **Configure >> Products >> Review**.
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Produits >> Révision**. 
 
-By enabling this option, **Guest Users** can also write reviews for products.
+En activant cette option, les **utilisateurs invités** peuvent également rédiger des avis sur les produits. 
 
-<ImagePopup src="/images/configure/image.png" alt="Review Configuration" />
+<ImagePopup src="/images/configure/image.png" alt="Review Configuration" /> 
 
-After configuring, click the **Save Configuration** button.
+Après la configuration, cliquez sur le bouton **Enregistrer la configuration**.

@@ -1,21 +1,21 @@
-# Create Customer 
+# Créer un client 
 
-Visitors to your website can open an account to manage their purchases and activities.
+Les visiteurs de votre site Web peuvent ouvrir un compte pour gérer leurs achats et leurs activités. 
 
-Customers generally create their own accounts in their shop. However, you can also create customer accounts directly from the administrator, which is useful for helping customers on the phone.
+Les clients créent généralement leur propre compte dans leur boutique. Cependant, vous pouvez également créer des comptes clients directement depuis l'administrateur, ce qui est utile pour aider les clients au téléphone. 
 
-### To create a Customer from the Admin Panel follow the below steps:
+### Pour créer un client à partir du panneau d'administration, suivez les étapes ci-dessous : 
 
-**Step 1**: Login to admin panel of ExalandStore and go to **Customers >> Customers** then click on the **Create Customer** button.  
+**Étape 1** : Connectez-vous au panneau d'administration d'ExalandStore et accédez à **Clients >> Clients** puis cliquez sur le bouton **Créer un client**. 
 
-<ImagePopup src="/images/customer/customer.png" alt="Customer" />
+<ImagePopup src="/images/customer/customer.png" alt="Customer" /> 
 
-**Step 2**: Next you will get a form to create a customer. Fill in the necessary fields to create a customer as shown in the below image.  
+**Étape 2** : Vous obtiendrez ensuite un formulaire pour créer un client. Remplissez les champs nécessaires pour créer un client comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/customer/createCustomer.png" alt="Create Customer" />
+<ImagePopup src="/images/customer/createCustomer.png" alt="Create Customer" /> 
 
-**Step 3**: Now you will be able to see the new customer is registered successfully.  
+**Étape 3** : Vous pourrez maintenant voir que le nouveau client est enregistré avec succès. 
 
-<ImagePopup src="/images/customer/customerGrid.png" alt="Customer Grid" />
+<ImagePopup src="/images/customer/customerGrid.png" alt="Customer Grid" /> 
 
-So by the above steps, you can easily create a customer from the admin panel in ExalandStore.
+Ainsi, en suivant les étapes ci-dessus, vous pouvez facilement créer un client à partir du panneau d'administration d'ExalandStore.

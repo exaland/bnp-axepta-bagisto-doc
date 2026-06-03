@@ -1,51 +1,51 @@
-# Checkout
+# Commander 
 
-Checkout configurations are listed below.
+Les configurations de paiement sont répertoriées ci-dessous. 
 
-### Shopping Cart
+### Panier 
 
-Enable guest checkout, cart page, cross-sell products, and estimated shipping to enhance user convenience and streamline the shopping process for increased sales.
+Activez le paiement des invités, la page du panier, les produits de vente croisée et l'expédition estimée pour améliorer le confort de l'utilisateur et rationaliser le processus d'achat pour augmenter les ventes. 
 
-<ImagePopup src="/images/configure/checkout.png" alt="Checkout" />
+<ImagePopup src="/images/configure/checkout.png" alt="Checkout" /> 
 
-### My Cart
+### Mon panier 
 
-Enable settings for My Cart to show a summary of item quantities and display the total number of items in the cart for easy tracking.
+Activez les paramètres de Mon panier pour afficher un résumé des quantités d'articles et afficher le nombre total d'articles dans le panier pour un suivi facile. 
 
-In this, we provide two options:
+Pour cela, nous proposons deux options : 
 
-**A) Display numbers of items in cart** - Select **Display number of items in cart** option and then click on **Save Configuration** button.
+**A) Afficher le nombre d'articles dans le panier** - Sélectionnez l'option **Afficher le nombre d'articles dans le panier**, puis cliquez sur le bouton **Enregistrer la configuration**. 
 
-<ImagePopup src="/images/configure/items.png" alt="Number Items" />
+<ImagePopup src="/images/configure/items.png" alt="Number Items" /> 
 
-After clicking the Add to Cart button, this option shows you the total number of quantities. For example, we add 5 products inside the cart. 5 products will be visible on the front end as shown below.
+Après avoir cliqué sur le bouton Ajouter au panier, cette option vous montre le nombre total de quantités. Par exemple, nous ajoutons 5 produits dans le panier. 5 produits seront visibles sur le front-end comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/configure/numberItems.png" alt="Number Items" />
+<ImagePopup src="/images/configure/numberItems.png" alt="Number Items" /> 
 
-**B) Display Items Quantities** - Select Display items quantities option and then click on **Save Configuration** button.
+**B) Afficher les quantités d'articles** - Sélectionnez l'option Afficher les quantités d'articles, puis cliquez sur le bouton **Enregistrer la configuration**. 
 
-<ImagePopup src="/images/configure/itemQuantity.png" alt="Display Items Quantities" />
+<ImagePopup src="/images/configure/itemQuantity.png" alt="Display Items Quantities" /> 
 
-After clicking the Add to Cart button, for example, 7 products you have added inside the cart, only 1 quantity will be visible on the frontend.
+Après avoir cliqué sur le bouton Ajouter au panier, par exemple, 7 produits que vous avez ajoutés dans le panier, une seule quantité sera visible sur le frontend. 
 
-<ImagePopup src="/images/configure/1mycart.png" alt="Display Items Quantities" />
+<ImagePopup src="/images/configure/1mycart.png" alt="Display Items Quantities" /> 
 
-To check the total number of items, you have to go inside the mini-cart.
+Pour vérifier le nombre total d'articles, vous devez entrer dans le mini-panier. 
 
-<ImagePopup src="/images/configure/7mycart.png" alt="Display Items Quantities" />
+<ImagePopup src="/images/configure/7mycart.png" alt="Display Items Quantities" /> 
 
-### Mini Cart
+### Mini-chariot 
 
-Mini Cart is the option where you can see the information after adding the product to the cart.
+Le mini panier est l'option où vous pouvez voir les informations après avoir ajouté le produit au panier. 
 
-To enable mini cart settings, go to **Configure >> Checkout >> Mini Cart**. You can also add a mini cart offer information message as shown in the image below.
+Pour activer les paramètres du mini-panier, accédez à **Configurer >> Paiement >> Mini panier**. Vous pouvez également ajouter un message d'information sur l'offre de mini-panier, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/configure/mini-cart.png" alt="Mini Cart" />
+<ImagePopup src="/images/configure/mini-cart.png" alt="Mini Cart" /> 
 
-The mini cart is able to open with an offer message as shown in the image below.
+Le mini panier peut s'ouvrir avec un message d'offre comme le montre l'image ci-dessous. 
 
-<ImagePopup src="/images/configure/mini-cart1.png" alt="Mini Cart" />
+<ImagePopup src="/images/configure/mini-cart1.png" alt="Mini Cart" /> 
 
-Now, if we disable this Mini-Cart, the user is not able to open the mini-cart and is directly redirected to the checkout page.
+Désormais, si nous désactivons ce mini-panier, l'utilisateur ne peut pas ouvrir le mini-panier et est directement redirigé vers la page de paiement. 
 
 <ImagePopup src="/images/configure/disableminiCart.png" alt="Disable Mini Cart" />

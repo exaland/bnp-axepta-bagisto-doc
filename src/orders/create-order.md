@@ -1,49 +1,49 @@
-# Create Orders
+# Créer des commandes 
 
-The order is created when a customer goes to your website, selects some product, and then places a request for it. Here we are going to discuss how to manage orders in ExalandStore.
+La commande est créée lorsqu'un client accède à votre site Web, sélectionne un produit, puis en fait une demande. Ici, nous allons discuter de la façon de gérer les commandes dans ExalandStore. 
 
-When a customer places an order from the front end, the admin panel generates the order status, from where the admin can further process the order.
+Lorsqu'un client passe une commande depuis le front-end, le panneau d'administration génère le statut de la commande, à partir duquel l'administrateur peut poursuivre le traitement de la commande. 
 
-## How to Manage Orders in ExalandStore
+## Comment gérer les commandes dans ExalandStore 
 
-### Adding Products in Cart
+### Ajout de produits dans le panier 
 
-**Step 1:** Open the Product Detail page and **Add the product** to the cart.
+**Étape 1 :** Ouvrez la page Détails du produit et **Ajoutez le produit** au panier. 
 
-<ImagePopup src="/images/orders/cart.png" alt="Cart" />
+<ImagePopup src="/images/orders/cart.png" alt="Cart" /> 
 
-**Step 2:** Continue to checkout inside the **Shopping Cart**.
+**Étape 2 :** Continuez à payer dans le **Panier**. 
 
-<ImagePopup src="/images/orders/shoppingCart.png" alt="Shopping Cart" />
+<ImagePopup src="/images/orders/shoppingCart.png" alt="Shopping Cart" /> 
 
-**Step 3:** You will be redirected to the checkout page. Fill in the necessary information regarding the **Billing Address**.
+**Étape 3 :** Vous serez redirigé vers la page de paiement. Remplissez les informations nécessaires concernant l'**Adresse de facturation**. 
 
-<ImagePopup src="/images/orders/billingAddress.png" alt="Billing Address" />
+<ImagePopup src="/images/orders/billingAddress.png" alt="Billing Address" /> 
 
-**Step 4:** After confirming, add the **Shipping Method** and **Payment Method**, then click on **Place Order**.
+**Étape 4 :** Après confirmation, ajoutez le **Mode d'expédition** et le **Mode de paiement**, puis cliquez sur **Passer la commande**. 
 
-<ImagePopup src="/images/orders/cartSummary.png" alt="Cart Summary" />
+<ImagePopup src="/images/orders/cartSummary.png" alt="Cart Summary" /> 
 
-**Step 5:** After clicking on **Place Order**, the next page will display an **Order ID**.
+**Étape 5 :** Après avoir cliqué sur **Passer la commande**, la page suivante affichera un **ID de commande**. 
 
-<ImagePopup src="/images/orders/orderID.png" alt="Order ID" />
+<ImagePopup src="/images/orders/orderID.png" alt="Order ID" /> 
 
----
+--- 
 
-## Customer Panel
+## Panneau client 
 
-On the customer dashboard, customers can see all order history with order status. Customers can also cancel the order.
+Sur le tableau de bord client, les clients peuvent voir tout l'historique des commandes avec le statut de la commande. Les clients peuvent également annuler la commande. 
 
----
+--- 
 
-## Information
+## Informations 
 
-On the Information Page, the admin can check customer details like name, address, quantity, etc. The admin can also cancel the order.
+Sur la page d'informations, l'administrateur peut vérifier les détails du client tels que le nom, l'adresse, la quantité, etc. L'administrateur peut également annuler la commande. 
 
-<ImagePopup src="/images/orders/orderInfo.png" alt="Order Info" />
+<ImagePopup src="/images/orders/orderInfo.png" alt="Order Info" /> 
 
-⚠️ **Note:** The cancel button will be visible only when the order status is **Pending**.
+⚠️ **Remarque :** Le bouton d'annulation ne sera visible que lorsque le statut de la commande est **En attente**. 
 
----
+--- 
 
-✅ By following these steps, you can easily create an **Order** in ExalandStore.
+✅ En suivant ces étapes, vous pouvez facilement créer une **Commande** dans ExalandStore.

@@ -1,91 +1,91 @@
-# Content Configuration
+# Configuration du contenu 
 
-The **Content** section allows you to customize frontend behavior, promotional banners, and control advanced features like speculation rules and custom scripts. These settings help optimize user experience and tailor the storefront according to specific business needs.
+La section **Contenu** vous permet de personnaliser le comportement du frontend, les bannières promotionnelles et de contrôler les fonctionnalités avancées telles que les règles de spéculation et les scripts personnalisés. Ces paramètres permettent d'optimiser l'expérience utilisateur et d'adapter la vitrine en fonction des besoins spécifiques de l'entreprise. 
 
-**Steps to Configure Content Settings**
+**Étapes pour configurer les paramètres de contenu** 
 
-To update the **Content** configuration in ExalandStore:
+Pour mettre à jour la configuration du **Contenu** dans ExalandStore : 
 
-1. Log in to the **Admin Panel**.
-2. Navigate to **Configure → Content**.
-3. You will find the following options to configure:
+1. Connectez-vous au **Panneau d'administration**. 
+2. Accédez à **Configurer → Contenu**. 
+3. Vous trouverez les options suivantes à configurer : 
 
-### Header Offer Title
+### Titre de l'offre d'en-tête 
 
-Display a promotional banner on the storefront header.
+Affichez une bannière promotionnelle sur l’en-tête de la vitrine. 
 
-- **Offer Title**  
-  Example: `Get UPTO 40% OFF on your 1st order`
+- **Titre de l'offre** 
+Exemple : « Obtenez JUSQU'À 40 % DE RÉDUCTION sur votre 1ère commande » 
 
-- **Redirection Title**  
-  Example: `SHOP NOW`
+- **Titre de redirection** 
+Exemple : « ACHETER MAINTENANT » 
 
-- **Redirection Link**  
-  Enter a valid URL (e.g., `/products/sale`)
+- **Lien de redirection** 
+Saisissez une URL valide (par exemple, « /products/sale ») 
 
-<ImagePopup src="/images/configure/header.png" alt="Header Offer Title" />
+<ImagePopup src="/images/configure/header.png" alt="Header Offer Title" /> 
 
-### Speculation Rules
+### Règles de spéculation 
 
-These rules improve perceived performance by prefetching or prerendering pages intelligently.
+Ces règles améliorent les performances perçues en prélevant ou en prérendu intelligemment les pages. 
 
-- **Enable Speculation Rules**  
-  Toggle to enable the overall speculation logic.
+- **Activer les règles de spéculation** 
+Basculez pour activer la logique globale de spéculation. 
 
-- **Enable Prerender Speculation Rules**  
-  Enables prerendering based on user behavior predictions.
+- **Activer les règles de spéculation avant le rendu** 
+Permet le prérendu basé sur les prédictions du comportement des utilisateurs. 
 
-- **Ignore Prerender URLs**  
-  Exclude specific routes from prerendering using pipe `|` as a separator.  
-  Example: `account|checkout|onepage|cart`
+- **Ignorer les URL de pré-rendu** 
+Excluez des routes spécifiques du prérendu en utilisant le tube `|` comme séparateur. 
+Exemple : `compte|checkout|onepage|cart` 
 
-- **Ignore Prerender URL Parameters**  
-  Exclude certain URL parameters from prerender logic.  
-  Example: `ref|token`
+- **Ignorer les paramètres d'URL de pré-rendu** 
+Excluez certains paramètres d'URL de la logique de pré-rendu. 
+Exemple : `ref|token` 
 
-- **Prerender Eagerness Level**  
-  Choose the intensity of prerendering:
-  - `eager`: Max prerendering (more resources)
-  - `moderate`: Default balance
-  - `conservative`: Minimal prerendering
+- **Niveau d'impatience avant le rendu** 
+Choisissez l'intensité du prérendu : 
+- `eager` : prérendu maximum (plus de ressources) 
+- `modéré` : solde par défaut 
+- `conservatif` : prérendu minimal 
 
-- **Enable Prefetch Speculation Rules**  
-  Enables link prefetching to accelerate navigation.
+- **Activer les règles de spéculation de prélecture** 
+Active la prélecture des liens pour accélérer la navigation. 
 
-<ImagePopup src="/images/configure/contentspec.png" alt="Speculation Rules" />
+<ImagePopup src="/images/configure/contentspec.png" alt="Speculation Rules" /> 
 
-### Coyright Content
+### Contenu protégé par les droits d'auteur 
 
-Setting up the copyright information in your website's footer is a key step in safeguarding your intellectual property and showing clear ownership of your online content. 
+La configuration des informations de droits d'auteur dans le pied de page de votre site Web est une étape clé pour protéger votre propriété intellectuelle et montrer clairement la propriété de votre contenu en ligne. 
 
-By having a well-formatted copyright notice, you let visitors know that the content, design, images, and other materials on your site are legally protected. 
+En ayant un avis de droit d'auteur bien formaté, vous informez les visiteurs que le contenu, la conception, les images et autres éléments de votre site sont légalement protégés. 
 
-This not only helps prevent unauthorized use or copying but also shows professionalism and builds trust with your audience.
+Cela permet non seulement d’empêcher toute utilisation ou copie non autorisée, mais démontre également votre professionnalisme et renforce la confiance avec votre public. 
 
-By including your brand name, the current year, and a brief rights statement in the footer, you ensure that your brand is visible on every page of your website. 
+En incluant le nom de votre marque, l'année en cours et une brève déclaration de droits dans le pied de page, vous vous assurez que votre marque est visible sur chaque page de votre site Web. 
 
-### Steps to Add Coyright Content
+### Étapes pour ajouter du contenu Coyright 
 
-To add **Coyright Content**, go to the Admin panel: **Configure >> Content**. 
+Pour ajouter du **Contenu Coyright**, accédez au panneau d'administration : **Configurer >> Contenu**. 
 
-You will see the textbox to add the Copyright Content as shown in the image below.
+Vous verrez la zone de texte pour ajouter le contenu protégé par le droit d'auteur, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/configure/copyright-content.png" alt="Coyright Content" />
+<ImagePopup src="/images/configure/copyright-content.png" alt="Coyright Content" /> 
 
-At last click on **Save Configuration** button.
+Cliquez enfin sur le bouton **Enregistrer la configuration**. 
 
-After this, you can go to the storefront footer of your ExalandStore website and check that your copyright content has been successfully added.
+Après cela, vous pouvez accéder au pied de page de la vitrine de votre site Web ExalandStore et vérifier que votre contenu protégé par le droit d'auteur a été ajouté avec succès. 
 
- <ImagePopup src="/images/configure/copyright-footer.png" alt="Coyright Content" />
+ <ImagePopup src="/images/configure/copyright-footer.png" alt="Coyright Content" /> 
 
-### Custom Scripts
+### Scripts personnalisés 
 
-Add your own scripts to enhance or integrate custom features.
+Ajoutez vos propres scripts pour améliorer ou intégrer des fonctionnalités personnalisées. 
 
-- **Custom CSS**  
-  Add global CSS to style your storefront.
+- **CSS personnalisé** 
+Ajoutez du CSS global pour styliser votre vitrine. 
 
-- **Custom JavaScript**  
-  Insert scripts for chat widgets, analytics, or any custom interaction.
+- **JavaScript personnalisé** 
+Insérez des scripts pour les widgets de chat, les analyses ou toute interaction personnalisée. 
 
 <ImagePopup src="/images/configure/custom.png" alt="Custom Scripts" />

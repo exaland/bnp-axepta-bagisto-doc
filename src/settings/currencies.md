@@ -1,41 +1,41 @@
-# Currencies
+# Devises 
 
-Before launching your eCommerce website, you need to set up the currency in which you will be doing your business. The currency symbol will be visible in product prices, orders, invoices, transactions, etc. Here are the steps to add currency in ExalandStore.
+Avant de lancer votre site Web de commerce électronique, vous devez définir la devise dans laquelle vous exercerez vos activités. Le symbole monétaire sera visible dans les prix des produits, les commandes, les factures, les transactions, etc. Voici les étapes pour ajouter de la devise dans ExalandStore. 
 
-### Add Currency in ExalandStore
+### Ajouter une devise dans ExalandStore 
 
-**Step 1:** On the Admin panel of ExalandStore, go to **Settings >> Currencies >> Create Currency** as shown in the image below.
+**Étape 1 :** Dans le panneau d'administration d'ExalandStore, accédez à **Paramètres >> Devises >> Créer une devise** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/settings/createCurrency.png" alt="Currency" />
+<ImagePopup src="/images/settings/createCurrency.png" alt="Currency" /> 
 
-**Step 2:** Now enter the following details:  
+**Étape 2 :** Saisissez maintenant les informations suivantes : 
 
-**1) Code** – Code of the currency.  
+**1) Code** – Code de la devise. 
 
-**2) Name** – Name of the currency.  
+**2) Nom** – Nom de la devise. 
 
-**3) Symbol** – Symbol of the currency.  
+**3) Symbole** – Symbole de la devise. 
 
-**4) Decimal** – Decimal value of the currency.  
+**4) Décimal** – Valeur décimale de la devise. 
 
-**5) Group Separator** – It helps to separate the currency by ",". For example: 2,50,000.  
+**5) Séparateur de groupe** – Il permet de séparer la devise par ",". Par exemple : 2,50 000. 
 
-**6) Decimal Separator** – It helps to separate decimal values. For example, if you enter 3 decimal values, then the currency will be 200.000.  
+**6) Séparateur décimal** – Il permet de séparer les valeurs décimales. Par exemple, si vous saisissez 3 valeurs décimales, la devise sera 200 000. 
 
-**7) Position** – It helps to position the currency (left, right, etc.).  
+**7) Position** – Cela aide à positionner la devise (gauche, droite, etc.). 
 
-<ImagePopup src="/images/settings/saveCurrency.png" alt="Save Currency" />
+<ImagePopup src="/images/settings/saveCurrency.png" alt="Save Currency" /> 
 
-**Step 3:** Now you will be able to see the new **Currency** by the name of **Dirham** as shown below.
+**Étape 3 :** Vous pourrez désormais voir la nouvelle **Devise** sous le nom de **Dirham**, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/settings/newCurrency.png" alt="New Currency" />
+<ImagePopup src="/images/settings/newCurrency.png" alt="New Currency" /> 
 
-### Channel Setting for Currency
+### Paramètre de canal pour la devise 
 
-On the Admin panel, open **Settings >> Channels**. You will see the Currency section and your new currency right there.  
+Dans le panneau d'administration, ouvrez **Paramètres >> Chaînes**. Vous verrez la section Devise et votre nouvelle devise ici. 
 
-Once the channel setting has been done, click on **Save Channel** as shown in the image below.
+Une fois le réglage de la chaîne effectué, cliquez sur **Enregistrer la chaîne** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/settings/currencyChannel.png" alt="Currency Channel" />
+<ImagePopup src="/images/settings/currencyChannel.png" alt="Currency Channel" /> 
 
-So, by following these steps, you can easily create a **Currency** in ExalandStore.
+Ainsi, en suivant ces étapes, vous pouvez facilement créer une **Devise** dans ExalandStore.

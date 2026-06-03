@@ -1,42 +1,42 @@
-# How to Create Categories in ExalandStore
+# Comment créer des catégories dans ExalandStore 
 
-The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in ExalandStore.
+La catégorie est une structure de votre catalogue. En créant une catégorie, les clients peuvent facilement trouver le produit spécifique parmi le lot présent sur votre site e-commerce. Il est utilisé pour hiérarchiser votre site Web. Ici, nous avons répertorié les étapes pour créer une nouvelle catégorie et une nouvelle catégorie racine dans ExalandStore. 
 
-### Root Category
+### Catégorie racine 
 
-ExalandStore comes with a default root category, i.e., Root, but you can also create your own root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
+ExalandStore est livré avec une catégorie racine par défaut, c'est-à-dire Root, mais vous pouvez également créer votre propre catégorie racine. La catégorie racine n'est pas visible sur le front-end car elle agit comme un conteneur pour contenir les catégories à afficher sur le site Web. 
 
-### Steps to Create a New Root Category in ExalandStore
+### Étapes pour créer une nouvelle catégorie racine dans ExalandStore 
 
-1. Click on **Catalog >> Categories >> Create Category** as shown in the image below.
+1. Cliquez sur **Catalogue >> Catégories >> Créer une catégorie** comme indiqué dans l'image ci-dessous. 
 
-   <ImagePopup src="/images/category/create.png" alt="Create Category in ExalandStore" />
+   <ImagePopup src="/images/category/create.png" alt="Create Category in ExalandStore" /> 
 
-2. Enter the general values like name, position, and description, and add images.
+2. Entrez les valeurs générales telles que le nom, la position et la description, et ajoutez des images. 
 
-3. **Display Mode** - Display mode is about which content detail is visible on the category page. There are three options:  
-   - Product and Description  
-   - Product  
-   - Description  
+3. **Mode d'affichage** - Le mode d'affichage concerne les détails du contenu qui sont visibles sur la page de catégorie. Il existe trois options : 
+- Produit et description 
+- Produit 
+- Descriptif 
 
-   - **Product and Description:** When you set the display mode to "Product and Description," then the product and description about the category both will be visible on the front end.  
+- **Produit et description :** Lorsque vous définissez le mode d'affichage sur "Produit et description", le produit et la description de la catégorie seront tous deux visibles sur le front-end. 
 
-   - **Description:** When you set the display mode to "Description," then only the category description will be visible on the front end.  
+- **Description :** Lorsque vous définissez le mode d'affichage sur "Description", seule la description de la catégorie sera visible sur le front-end. 
 
-   - **Product:** When you set the display mode to "Product," the product will be visible on the front end.  
+- **Produit :** Lorsque vous définissez le mode d'affichage sur "Produit", le produit sera visible sur le devant. 
 
-   <ImagePopup src="/images/category/editCategory.png" alt="Edit Category Settings" />
+   <ImagePopup src="/images/category/editCategory.png" alt="Edit Category Settings" /> 
 
-4. Save the category, and a new category will be created by the name of **Electronic Items** as shown in the image below.
+4. Enregistrez la catégorie et une nouvelle catégorie sera créée sous le nom de **Articles électroniques**, comme indiqué dans l'image ci-dessous. 
 
-   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in ExalandStore" />
+   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in ExalandStore" /> 
 
-5. Now check the product edit page while creating a product, and you will be able to see the newly created category there.
+5. Vérifiez maintenant la page de modification du produit lors de la création d'un produit et vous pourrez y voir la catégorie nouvellement créée. 
 
-   <ImagePopup src="/images/category/productPage.png" alt="Product Page Category Selection" />
+   <ImagePopup src="/images/category/productPage.png" alt="Product Page Category Selection" /> 
 
-### Category on Front-End
+### Catégorie sur le front-end 
 
-By following the above steps, you can easily create a new category.
+En suivant les étapes ci-dessus, vous pouvez facilement créer une nouvelle catégorie. 
 
 <ImagePopup src="/images/category/output.png" alt="Category Display on Frontend" />

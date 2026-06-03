@@ -1,20 +1,20 @@
-# Settings
+# Paramètres 
 
-Configure newsletter subscriptions, email verifications, and social login options.  
-To configure, go to the Admin Panel and navigate to **Configure >> Settings**.
+Configurez les abonnements à la newsletter, les vérifications par e-mail et les options de connexion sociale. 
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Paramètres**. 
 
-### Newsletter Subscription
+### Abonnement à la newsletter 
 
-Newsletter subscription allows users to receive updates, offers, or content regularly via email, keeping them informed and engaged.
+L'abonnement à la newsletter permet aux utilisateurs de recevoir régulièrement des mises à jour, des offres ou du contenu par e-mail, les tenant informés et engagés. 
 
-### Email Verification
+### Vérification de l'e-mail 
 
-Email verification confirms the authenticity of an email address by sending a confirmation link, improving account security and communication reliability.
+La vérification des e-mails confirme l'authenticité d'une adresse e-mail en envoyant un lien de confirmation, améliorant ainsi la sécurité du compte et la fiabilité des communications. 
 
-### Social Login
+### Connexion sociale 
 
-Social login lets users access the website using their social media accounts, simplifying registration and login for convenience.
+La connexion sociale permet aux utilisateurs d'accéder au site Web à l'aide de leurs comptes de réseaux sociaux, simplifiant ainsi l'inscription et la connexion pour plus de commodité. 
 
-After making changes, click on the **Save Configuration** button.
+Après avoir apporté les modifications, cliquez sur le bouton **Enregistrer la configuration**. 
 
 <ImagePopup src="/images/configure/settings.png" alt="Settings Configuration" />

@@ -1,70 +1,70 @@
-# Customer Group Price | Tier Pricing
+# Prix du groupe de clients | Tarification par niveau 
 
-Customer Group Pricing in ExalandStore allows store owners to offer different product prices to different customer groups — such as **General, Wholesale, or Guest**.
+La tarification par groupe de clients dans ExalandStore permet aux propriétaires de magasins de proposer différents prix de produits à différents groupes de clients, tels que **Général, Grossiste ou Invité**. 
 
-This feature helps businesses create personalized pricing strategies, reward loyal buyers, and encourage bulk purchases. 
+Cette fonctionnalité aide les entreprises à créer des stratégies de tarification personnalisées, à récompenser les acheteurs fidèles et à encourager les achats groupés. 
 
-By assigning customers to specific groups, you can control how much each group pays for the same product, making your pricing model more flexible and customer-focused.
+En affectant les clients à des groupes spécifiques, vous pouvez contrôler combien chaque groupe paie pour le même produit, rendant ainsi votre modèle de tarification plus flexible et axé sur le client. 
 
-### Steps to Create a Customer Group Price in ExalandStore
+### Étapes pour créer un prix de groupe de clients dans ExalandStore 
 
-**Step 1**: First, create the customer group and assign the group to the customer, or by default use groups like **General, Wholesale, or Guest**.
+**Étape 1** : Tout d'abord, créez le groupe de clients et attribuez-le au client, ou utilisez par défaut des groupes tels que **Général, Vente en gros ou Invité**. 
 
-**Step 2**: Login to the admin panel of ExalandStore and go to **Catalog >> Products**. 
+**Étape 2** : Connectez-vous au panneau d'administration d'ExalandStore et accédez à **Catalogue >> Produits**. 
 
-Create a new product and go to the product edit page. You will be able to see the **Customer Group Price** section as shown in the below image.  
+Créez un nouveau produit et accédez à la page de modification du produit. Vous pourrez voir la section **Prix du groupe de clients** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/customer/customerPrice.png" alt="Customer Group Price" />
+<ImagePopup src="/images/customer/customerPrice.png" alt="Customer Group Price" /> 
 
-**Step 3**: Now click on **Add New** and add the below fields:  
+**Étape 3** : Cliquez maintenant sur **Ajouter un nouveau** et ajoutez les champs ci-dessous : 
 
-- **A) Discounted Price** – Set a percentage discount on the product price.  
+- **A) Prix réduit** – Définissez un pourcentage de remise sur le prix du produit. 
 
-- **B) Fixed Price** – Set a fixed price on the product after the offer.  
+- **B) Prix fixe** – Fixez un prix fixe sur le produit après l'offre. 
 
-- **C) Quantity** – Minimum quantity required to avail of the offer.  
+- **C) Quantité** – Quantité minimale requise pour profiter de l'offre. 
 
-- **D) Customer Group** – Select the customer group (Prime, Guest, Wholesale, General, etc.).  
+- **D) Groupe de clients** – Sélectionnez le groupe de clients (Prime, Invité, Vente en gros, Général, etc.). 
 
-*(Note: You can create groups as per your requirement.)*  
+*(Remarque : vous pouvez créer des groupes selon vos besoins.)* 
 
----
+--- 
 
-**Fixed Price Example**  
+**Exemple de prix fixe** 
 
-Here I have set the fixed price of the product in the **Guest Customer group** with a minimum quantity of 1.  
+Ici, j'ai fixé le prix fixe du produit dans le **groupe Client Invité** avec une quantité minimale de 1. 
 
-It means if you purchase one piece of this product at $2500, and a Customer Group Price is added at $220, then the cost will be $220 for a quantity of one.
+Cela signifie que si vous achetez une pièce de ce produit à 2 500 $ et qu'un prix de groupe client est ajouté à 220 $, le coût sera de 220 $ pour une quantité d'un. 
 
-So now click on the **Save** button as shown below.  
+Alors maintenant, cliquez sur le bouton **Enregistrer** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/customer/groupPrice.png" alt="Save Customer Group Price" />
+<ImagePopup src="/images/customer/groupPrice.png" alt="Save Customer Group Price" /> 
 
-Now save the product. You can see the price change according to the group.  
+Enregistrez maintenant le produit. Vous pouvez voir le prix changer selon le groupe. 
 
-As set for the Guest group with the fixed price, it is showing the pricing according to the guest group as shown below.  
+Tel que défini pour le groupe d'invités avec le prix fixe, il affiche le prix en fonction du groupe d'invités, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/customer/priceOutput.png" alt="Group Price Output" />
+<ImagePopup src="/images/customer/priceOutput.png" alt="Group Price Output" /> 
 
-### Adding Multiple Customer Group Pricing
+### Ajout de tarifs pour plusieurs groupes de clients 
 
-You can also add multiple Customer Group Pricing options for different quantities or groups to encourage bulk purchases and offer better deals.
+Vous pouvez également ajouter plusieurs options de tarification de groupe de clients pour différentes quantités ou groupes afin d'encourager les achats groupés et de proposer de meilleures offres. 
 
-For example, you can configure the following tier pricing structure:
+Par exemple, vous pouvez configurer la structure de tarification par niveau suivante : 
 
-**Buy 2 for $400.00 each and save 55.56%**
+**Achetez-en 2 pour 400,00 $ chacun et économisez 55,56 %** 
 
-**Buy 3 for $350.00 each and save 61.11%**
+**Achetez-en 3 pour 350,00 $ chacun et économisez 61,11 %** 
 
-**Buy 4 for $200.00 each and save 77.78%**
+**Achetez-en 4 pour 200,00 $ chacun et économisez 77,78 %** 
 
-**Buy 5 for $150.00 each and save 83.33%**
+**Achetez-en 5 pour 150,00 $ chacun et économisez 83,33 %** 
 
-These pricing tiers can be added directly in the Customer Group Price section of the Admin Panel, as shown below:
+Ces niveaux de tarification peuvent être ajoutés directement dans la section Prix du groupe de clients du panneau d'administration, comme indiqué ci-dessous : 
 
-<ImagePopup src="/images/customer/all-group-price.png" alt="Multiple Customer Group Pricing" />
+<ImagePopup src="/images/customer/all-group-price.png" alt="Multiple Customer Group Pricing" /> 
 
-You can check the Storefront view to see how all the tiered customer pricing options appear together for the same product.
+Vous pouvez consulter la vue Storefront pour voir comment toutes les options de tarification client à plusieurs niveaux apparaissent ensemble pour le même produit. 
 
 <ImagePopup src="/images/customer/priceOutput1.png" alt="Storefront Multiple Customer Group Pricing" />
 

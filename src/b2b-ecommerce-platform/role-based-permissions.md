@@ -1,88 +1,88 @@
-# Role Based Permissions
+# Autorisations basées sur les rôles 
 
-The Role-Based Permissions feature allows companies to create custom roles and define what each user can access within the organization. 
+La fonctionnalité Autorisations basées sur les rôles permet aux entreprises de créer des rôles personnalisés et de définir ce à quoi chaque utilisateur peut accéder au sein de l'organisation. 
 
-This helps ensure that each user only has access to the features relevant to their responsibilities.
+Cela permet de garantir que chaque utilisateur a uniquement accès aux fonctionnalités pertinentes pour ses responsabilités. 
 
-### Steps to Create a Role
+### Étapes pour créer un rôle 
 
-**Step: 1** Go to My **Account → Profile → Roles** from the company storefront.
+**Étape : 1** Accédez à Mon **Compte → Profil → Rôles** depuis la vitrine de l'entreprise. 
 
-The **Company Roles** page will appear, showing all existing roles with options to search, filter, or manage them.
+La page **Rôles dans l'entreprise** apparaîtra, affichant tous les rôles existants avec des options pour les rechercher, les filtrer ou les gérer. 
 
-As shown in the image below, you can view the list of existing roles, such as “Administrator”.
+Comme le montre l'image ci-dessous, vous pouvez afficher la liste des rôles existants, tels que « Administrateur ». 
 
-<ImagePopup src="/images/b2b-ecommerce-platform/1-company-roles.png" alt="Super Admin Login" />
+<ImagePopup src="/images/b2b-ecommerce-platform/1-company-roles.png" alt="Super Admin Login" /> 
 
-**Step: 2** Click on Add Role to open the Add Company Role form.
+**Étape : 2** Cliquez sur Ajouter un rôle pour ouvrir le formulaire Ajouter un rôle dans l'entreprise. 
 
-**Step: 3** Fill in the following details:
+**Étape : 3** Remplissez les informations suivantes : 
 
-**A) Name –** Enter the name of the role (e.g., Administrator, Manager, Purchaser).
+**A) Nom –** Saisissez le nom du rôle (par exemple, Administrateur, Gestionnaire, Acheteur). 
 
-**B) Description –** Add a short description to specify the purpose of the role.
+**B) Description –** Ajoutez une brève description pour préciser l'objectif du rôle. 
 
-**Step: 4** Under Access Control, choose the level of access you want to assign:
+**Étape : 4** Sous Contrôle d'accès, choisissez le niveau d'accès que vous souhaitez attribuer : 
 
-**A) All Permissions –** Grants complete access to all available company features.
+**A) Toutes les autorisations –** Accorde un accès complet à toutes les fonctionnalités disponibles de l'entreprise. 
 
-**B) Custom Permissions –** Allows you to manually select specific permissions for the role based on your company’s needs.
+**B) Autorisations personnalisées –** Vous permet de sélectionner manuellement des autorisations spécifiques pour le rôle en fonction des besoins de votre entreprise. 
 
-**Step: 5** Once you have configured the access control settings, click Save Role to create the new role. As shown in the image below,
+**Étape : 5** Une fois que vous avez configuré les paramètres de contrôle d'accès, cliquez sur Enregistrer le rôle pour créer le nouveau rôle. Comme le montre l'image ci-dessous, 
 
-<ImagePopup src="/images/b2b-ecommerce-platform/2-add-company-role.png" alt="Super Admin Login" />
+<ImagePopup src="/images/b2b-ecommerce-platform/2-add-company-role.png" alt="Super Admin Login" /> 
 
-**Note:**
-- You can edit or delete existing roles anytime from the same page.
+**Remarque :** 
+- Vous pouvez modifier ou supprimer des rôles existants à tout moment à partir de la même page. 
 
-- Once a role is created, it can be assigned to users while adding or editing a company user.
+- Une fois un rôle créé, il peut être attribué aux utilisateurs lors de l'ajout ou de la modification d'un utilisateur de l'entreprise. 
 
-### Company User Management
+### Gestion des utilisateurs de l'entreprise 
 
-The Company User Management feature allows companies to add and manage multiple users under their account. 
+La fonctionnalité de gestion des utilisateurs de l'entreprise permet aux entreprises d'ajouter et de gérer plusieurs utilisateurs sous leur compte. 
 
-Each user can have a defined role and access level, helping businesses maintain proper control within their organization.
+Chaque utilisateur peut avoir un rôle et un niveau d'accès définis, aidant ainsi les entreprises à maintenir un contrôle approprié au sein de leur organisation. 
 
-#### Steps to Add a New Company User
+#### Étapes pour ajouter un nouvel utilisateur d'entreprise 
 
-**Step: 1** Go to My Account →Profile → Users from the company storefront.
+**Étape : 1** Accédez à Mon compte → Profil → Utilisateurs depuis la vitrine de l'entreprise. 
 
-**Step: 2** The Company Users page will appear, showing all existing users with options to search, filter, or manage them.
+**Étape : 2** La page Utilisateurs de l'entreprise apparaîtra, affichant tous les utilisateurs existants avec des options pour les rechercher, les filtrer ou les gérer. 
 
-As shown in the image below, the list will appear empty initially if no users are created.
+Comme le montre l'image ci-dessous, la liste apparaîtra initialement vide si aucun utilisateur n'est créé. 
 
-<ImagePopup src="/images/b2b-ecommerce-platform/3-company-users.png" alt="Super Admin Login" />
+<ImagePopup src="/images/b2b-ecommerce-platform/3-company-users.png" alt="Super Admin Login" /> 
 
-**Step: 3** Click on Add User to open the Add Company User form.
+**Étape : 3** Cliquez sur Ajouter un utilisateur pour ouvrir le formulaire Ajouter un utilisateur d'entreprise. 
 
-**Step: 4** Fill in the following details:
+**Étape : 4** Remplissez les informations suivantes : 
 
-*A) First Name –* Enter the user’s first name.
+*A) Prénom –* Entrez le prénom de l'utilisateur. 
 
-*B) Last Name –* Enter the user’s last name.
+*B) Nom de famille –* Entrez le nom de famille de l'utilisateur. 
 
-*C) Email –* Enter a valid email address.
+*C) E-mail –* Entrez une adresse e-mail valide. 
 
-*D) Phone –* Provide the user’s contact number.
+*D) Téléphone –* Fournissez le numéro de contact de l’utilisateur. 
 
-*E) Gender –* Select the user’s gender.
+*E) Sexe –* Sélectionnez le sexe de l'utilisateur. 
 
-*F) Date of Birth –* Enter the user’s date of birth.
+*F) Date de naissance –* Entrez la date de naissance de l'utilisateur. 
 
-*G) Role –* Choose the appropriate role from the list of created roles.
+*G) Rôle –* Choisissez le rôle approprié dans la liste des rôles créés. 
 
-*H) Status –* Set the user’s account as Active or Inactive.
+*H) Statut –* Définissez le compte de l'utilisateur comme Actif ou Inactif. 
 
-*I) Is Suspended –* If enabled, the user can log in but cannot proceed to checkout. A message will display: “Your account has been suspended.”
+*I) Est suspendu –* Si cette option est activée, l'utilisateur peut se connecter mais ne peut pas procéder au paiement. Un message s'affichera : « Votre compte a été suspendu. » 
 
-**Step: 5** Optionally, upload a **Profile Image or Video** for the user.
+**Étape : 5** Vous pouvez éventuellement télécharger une **image ou une vidéo de profil** pour l'utilisateur. 
 
-**Step: 6** After filling in all required information, click **Save User** to add the new company user. As shown in the image below.
+**Étape : 6** Après avoir rempli toutes les informations requises, cliquez sur **Enregistrer l'utilisateur** pour ajouter le nouvel utilisateur de l'entreprise. Comme le montre l'image ci-dessous. 
 
-<ImagePopup src="/images/b2b-ecommerce-platform/4-add-company-user.png" alt="Super Admin Login" />
+<ImagePopup src="/images/b2b-ecommerce-platform/4-add-company-user.png" alt="Super Admin Login" /> 
 
-**Note:**
+**Remarque :** 
 
-Company administrators can edit, suspend, or delete users at any time.
+Les administrateurs de l'entreprise peuvent modifier, suspendre ou supprimer des utilisateurs à tout moment. 
 
-Access to features depends on the role permissions assigned to each user.
+L'accès aux fonctionnalités dépend des autorisations de rôle attribuées à chaque utilisateur.

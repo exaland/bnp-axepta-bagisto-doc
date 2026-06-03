@@ -1,23 +1,23 @@
-# Coyright Content
+# Contenu de droit d'auteur 
 
-Setting up the copyright information in your website's footer is a key step in safeguarding your intellectual property and showing clear ownership of your online content. 
+La configuration des informations de droits d'auteur dans le pied de page de votre site Web est une étape clé pour protéger votre propriété intellectuelle et montrer clairement la propriété de votre contenu en ligne. 
 
-By having a well-formatted copyright notice, you let visitors know that the content, design, images, and other materials on your site are legally protected. 
+En ayant un avis de droit d'auteur bien formaté, vous informez les visiteurs que le contenu, la conception, les images et autres éléments de votre site sont légalement protégés. 
 
-This not only helps prevent unauthorized use or copying but also shows professionalism and builds trust with your audience.
+Cela permet non seulement d’empêcher toute utilisation ou copie non autorisée, mais démontre également votre professionnalisme et renforce la confiance avec votre public. 
 
-By including your brand name, the current year, and a brief rights statement in the footer, you ensure that your brand is visible on every page of your website. 
+En incluant le nom de votre marque, l'année en cours et une brève déclaration de droits dans le pied de page, vous vous assurez que votre marque est visible sur chaque page de votre site Web. 
 
-### Steps to Add Coyright Content
+### Étapes pour ajouter du contenu Coyright 
 
-To add **Coyright Content**, go to the Admin panel: **Configure >> Content**. 
+Pour ajouter du **Contenu Coyright**, accédez au panneau d'administration : **Configurer >> Contenu**. 
 
-You will see the textbox to add the Copyright Content as shown in the image below.
+Vous verrez la zone de texte pour ajouter le contenu protégé par le droit d'auteur, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/configure/copyright-content.png" alt="Coyright Content" />
+<ImagePopup src="/images/configure/copyright-content.png" alt="Coyright Content" /> 
 
-At last click on **Save Configuration** button.
+Cliquez enfin sur le bouton **Enregistrer la configuration**. 
 
-After this, you can go to the storefront footer of your ExalandStore website and check that your copyright content has been successfully added.
+Après cela, vous pouvez accéder au pied de page de la vitrine de votre site Web ExalandStore et vérifier que votre contenu protégé par le droit d'auteur a été ajouté avec succès. 
 
  <ImagePopup src="/images/configure/copyright-footer.png" alt="Coyright Content" />

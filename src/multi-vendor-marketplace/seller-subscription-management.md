@@ -1,43 +1,43 @@
-# Seller Subscription Management
+# Gestion des abonnements des vendeurs 
 
-Admins have the ability to create flexible and customizable subscription plans for sellers, allowing them to define different access levels based on specific business needs. 
+Les administrateurs ont la possibilité de créer des plans d'abonnement flexibles et personnalisables pour les vendeurs, leur permettant de définir différents niveaux d'accès en fonction des besoins spécifiques de l'entreprise. 
 
-Through these plans, administrators can control what features, tools, and resources each seller can access on the platform. This helps ensure that sellers receive the appropriate level of functionality according to the plan they subscribe to.
+Grâce à ces plans, les administrateurs peuvent contrôler les fonctionnalités, les outils et les ressources auxquels chaque vendeur peut accéder sur la plateforme. Cela permet de garantir que les vendeurs reçoivent le niveau de fonctionnalité approprié en fonction du forfait auquel ils souscrivent. 
 
-Additionally, admins can configure permissions and limitations within each subscription plan, such as product listing limits, marketplace features, or advanced management tools. 
+De plus, les administrateurs peuvent configurer les autorisations et les limitations au sein de chaque plan d'abonnement, telles que les limites de liste de produits, les fonctionnalités du marché ou les outils de gestion avancés. 
 
-By structuring these plans strategically, businesses can offer tiered services, encourage sellers to upgrade for additional benefits, and maintain better control over marketplace operations while supporting scalable growth.
+En structurant ces plans de manière stratégique, les entreprises peuvent proposer des services à plusieurs niveaux, encourager les vendeurs à effectuer une mise à niveau pour bénéficier d'avantages supplémentaires et maintenir un meilleur contrôle sur les opérations du marché tout en soutenant une croissance évolutive. 
 
-### Steps to Use Seller Subscription Management
+### Étapes pour utiliser la gestion des abonnements des vendeurs 
 
-**Step-1** Admins can easily see and handle all subscription plans from a special list page, where they can keep an eye on plan details, prices, status, and the sellers assigned to each plan, all in one central dashboard.
+**Étape 1** Les administrateurs peuvent facilement voir et gérer tous les plans d'abonnement à partir d'une page de liste spéciale, où ils peuvent garder un œil sur les détails du plan, les prix, le statut et les vendeurs attribués à chaque plan, le tout dans un seul tableau de bord central. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/1-available-subscription-plan-list.webp" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/1-available-subscription-plan-list.webp" alt="Global Commission Configuration" /> 
 
-**Step-2** Admins have the ability to create and change subscription plans by giving certain roles and permissions, making sure that sellers can only use the features that come with their chosen plan.
+**Étape 2** Les administrateurs ont la possibilité de créer et de modifier des plans d'abonnement en attribuant certains rôles et autorisations, en s'assurant que les vendeurs ne peuvent utiliser que les fonctionnalités fournies avec le plan choisi. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/2-subscripion-create-edit.webp" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/2-subscripion-create-edit.webp" alt="Global Commission Configuration" /> 
 
-**Step-3** Sellers have the option to buy a subscription plan that gives them complete permissions and lets them use all the features they need to run and expand their store successfully.
+**Étape 3** Les vendeurs ont la possibilité d'acheter un plan d'abonnement qui leur donne des autorisations complètes et leur permet d'utiliser toutes les fonctionnalités dont ils ont besoin pour gérer et développer leur boutique avec succès. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/3-subscription-plans.webp" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/3-subscription-plans.webp" alt="Global Commission Configuration" /> 
 
-**Step-4** Once the seller has selected a suitable option, they simply need to click on the subscription plan they are interested in and proceed with the payment. 
+**Étape 4** Une fois que le vendeur a sélectionné une option appropriée, il lui suffit de cliquer sur le plan d'abonnement qui l'intéresse et de procéder au paiement. 
 
-The payment can then be completed using the available payment methods to successfully activate the chosen plan.
+Le paiement peut ensuite être effectué en utilisant les modes de paiement disponibles pour activer avec succès le forfait choisi. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/payment-method-subscription.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/payment-method-subscription.png" alt="Global Commission Configuration" /> 
 
-**Step-5** Sellers have a special section in their panel called Subscription Plan History. This section helps them keep track of all the plans they have bought, showing details about each plan, its status, when it was activated, and when it will expire.
+**Étape 5** Les vendeurs ont une section spéciale dans leur panneau appelée Historique du plan d'abonnement. Cette section les aide à garder une trace de tous les forfaits qu'ils ont achetés, en affichant les détails de chaque forfait, son statut, la date à laquelle il a été activé et sa date d'expiration. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/5-subscription-purchases-by-admin-1.webp" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/5-subscription-purchases-by-admin-1.webp" alt="Global Commission Configuration" /> 
 
-**Step-6** Admins are able to see a full list of all the subscription plans that sellers have bought. 
+**Étape 6** Les administrateurs peuvent voir une liste complète de tous les plans d'abonnement que les vendeurs ont achetés. 
 
-This includes details about the plans, the payment status, and how long they are valid for.
+Cela inclut des détails sur les forfaits, l'état du paiement et leur durée de validité. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/5-seller-list-as-per-purchased-subscription.webp" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/5-seller-list-as-per-purchased-subscription.webp" alt="Global Commission Configuration" /> 
 
-**Step-7** Admins can change or stop a seller's subscription plan whenever they need to, which helps keep subscription management flexible and under control.
+**Étape 7** Les administrateurs peuvent modifier ou arrêter le plan d'abonnement d'un vendeur à tout moment, ce qui permet de garder la gestion des abonnements flexible et sous contrôle. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/6-seller-subscriptions-plan-details-acrion.webp" alt="Global Commission Configuration" />

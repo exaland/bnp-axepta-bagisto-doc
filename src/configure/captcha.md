@@ -1,9 +1,9 @@
-# Captcha
+#Captcha 
 
-"Sitemap: Website layout map for search engines. Secret key: Secure code for data encryption, authentication, or API access protection."
+"Plan du site : plan de mise en page du site Web pour les moteurs de recherche. Clé secrète : code sécurisé pour le cryptage des données, l'authentification ou la protection de l'accès aux API." 
 
-On the Admin Panel go to **Configure >> Captcha**, add the **Site Key & Secret Key**, and enable/disable the **Status** according to your requirement.
+Dans le panneau d'administration, accédez à **Configurer >> Captcha**, ajoutez la **Clé de site et la clé secrète** et activez/désactivez le **Statut** selon vos besoins. 
 
-<ImagePopup src="/images/configure/captcha.png" alt="Captcha" />
+<ImagePopup src="/images/configure/captcha.png" alt="Captcha" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**.

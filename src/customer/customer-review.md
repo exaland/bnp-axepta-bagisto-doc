@@ -1,37 +1,37 @@
-# Customer Reviews
+# Avis clients 
 
-Customer reviews are an important aspect of an eCommerce business. And as an eCommerce business owner, it should be an integral part of your online marketing strategy.
+Les avis clients sont un aspect important d’une entreprise de commerce électronique. Et en tant que propriétaire d’une entreprise de commerce électronique, cela devrait faire partie intégrante de votre stratégie de marketing en ligne. 
 
-Reviews create credibility for your products, and increased credibility means increased sales.
+Les avis créent de la crédibilité pour vos produits, et une crédibilité accrue signifie une augmentation des ventes. 
 
-It helps other customers with the selection of the product. A customer review is an evaluation of a product or service made by someone who has purchased and used or had experience with a product or service.
+Il aide les autres clients dans la sélection du produit. Un avis client est une évaluation d'un produit ou d'un service effectuée par une personne qui a acheté et utilisé ou a eu une expérience avec un produit ou un service. 
 
-Customer reviews are a form of customer feedback on electronic commerce and online shopping sites. 
+Les avis clients sont une forme de retour d’information des clients sur les sites de commerce électronique et d’achats en ligne. 
 
----
+--- 
 
-### To add Reviews in ExalandStore follow the below steps:
+### Pour ajouter des avis dans ExalandStore, suivez les étapes ci-dessous : 
 
-**Step 1**: After logging in as a customer, go to the product detail page of the storefront. You will see the **Review** section as shown in the image below.  
+**Étape 1** : Après vous être connecté en tant que client, accédez à la page de détail du produit de la vitrine. Vous verrez la section **Révision** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/customer/review.png" alt="Review Section" />
+<ImagePopup src="/images/customer/review.png" alt="Review Section" /> 
 
-**Step 2**: Click on the **Write Review** button, fill in the **Star Rating**, add the **Title**, write the comment, attach a file (if required), and then click **Submit Review** as shown below.  
+**Étape 2** : cliquez sur le bouton **Écrire un avis**, remplissez le **Note par étoiles**, ajoutez le **Titre**, rédigez le commentaire, joignez un fichier (si nécessaire), puis cliquez sur **Soumettre l'avis** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/customer/rating.png" alt="Write Review" />
+<ImagePopup src="/images/customer/rating.png" alt="Write Review" /> 
 
-**Step 3**: After adding the review, open the **Admin Panel** of ExalandStore and navigate to **Customers >> Reviews**. The review submitted by the customer will be visible as shown below.  
+**Étape 3** : Après avoir ajouté l'avis, ouvrez le **Panneau d'administration** d'ExalandStore et accédez à **Clients >> Avis**. L'avis soumis par le client sera visible comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/customer/adminReview.png" alt="Admin Review" />
+<ImagePopup src="/images/customer/adminReview.png" alt="Admin Review" /> 
 
-**Step 4**: You can also change the **Status** of the review to **Pending, Approved, or Disapproved** and then click the **Save** button.  
+**Étape 4** : Vous pouvez également modifier le **Statut** de l'avis sur **En attente, Approuvé ou Désapprouvé**, puis cliquer sur le bouton **Enregistrer**. 
 
-<ImagePopup src="/images/customer/reviewStatus.png" alt="Review Status Update" />
+<ImagePopup src="/images/customer/reviewStatus.png" alt="Review Status Update" /> 
 
-**Step 5**: After saving, you will be redirected to the Review Grid where you will see the new review record successfully registered.  
+**Étape 5** : Après avoir enregistré, vous serez redirigé vers la grille de révision où vous verrez le nouvel enregistrement de révision enregistré avec succès. 
 
-<ImagePopup src="/images/customer/output.png" alt="Review Grid Output" />
+<ImagePopup src="/images/customer/output.png" alt="Review Grid Output" /> 
 
----
+--- 
 
-By following the above steps, you can easily manage **Customer Reviews** in ExalandStore.
+En suivant les étapes ci-dessus, vous pouvez facilement gérer les **Avis clients** dans ExalandStore.

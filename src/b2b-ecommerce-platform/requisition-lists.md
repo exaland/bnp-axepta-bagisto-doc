@@ -1,68 +1,68 @@
-# Requisition Lists
+# Listes de demandes 
 
-The Requisition Lists feature allows companies to save multiple products for future or bulk purchases, making repeat ordering faster and more organized.
+La fonctionnalité Listes de demandes permet aux entreprises d'enregistrer plusieurs produits pour des achats futurs ou groupés, ce qui rend les commandes répétées plus rapides et plus organisées. 
 
-Go to **My Account → Profile → Requisitions** from the company storefront.
+Accédez à **Mon compte → Profil → Demandes** depuis la vitrine de l'entreprise. 
 
-### My Requisition Lists Page
+### Page Mes listes de demandes 
 
-This page displays all the existing requisition lists created under the company account. 
+Cette page affiche toutes les listes de demandes de poste existantes créées sous le compte de l'entreprise. 
 
-It provides a quick view of each list’s details and available actions. As shown in the image below.
+Il fournit un aperçu rapide des détails de chaque liste et des actions disponibles. Comme le montre l'image ci-dessous. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/1-requisition-lists.png" alt="Super Admin Login" />
 
-If no requisition lists exist, the message **“No Records Available”** will appear.
+Si aucune liste de demandes n'existe, le message **« Aucun enregistrement disponible »** apparaîtra. 
 
-To create a new list, click on **Create**.
+Pour créer une nouvelle liste, cliquez sur **Créer**. 
 
-### Create Requisition List
+### Créer une liste de demandes 
 
-This will allow you to create a new requisition list and define its key details.
+Cela vous permettra de créer une nouvelle liste de demandes de poste et de définir ses détails clés. 
 
-**Fields Include:**
+**Les champs incluent :** 
 
-**1) Name –** Enter a name for the requisition list.
+**1) Nom –** Entrez un nom pour la liste de demandes. 
 
-**2) Description –** Add a brief description to identify its purpose.
+**2) Description –** Ajoutez une brève description pour identifier son objectif. 
 
-**3) Is Default –** Enable this option to make it your default list.
+**3) Est par défaut –** Activez cette option pour en faire votre liste par défaut. 
 
-After filling in the required fields, click **Save** to create your requisition list. As shown in the image below.
+Après avoir rempli les champs obligatoires, cliquez sur **Enregistrer** pour créer votre liste de demandes. Comme le montre l'image ci-dessous. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/2-create-requisition-lists.png" alt="Super Admin Login" />
 
-### After Creating a Requisition List
+### Après avoir créé une liste de demandes d'achat 
 
-Once a list is created, it will appear on the **My Requisition Lists** page with full details. As shown in the image below.
+Une fois qu'une liste est créée, elle apparaîtra sur la page **Mes listes de demandes** avec tous les détails. Comme le montre l'image ci-dessous. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/3-my-requisition-lists.png" alt="Super Admin Login" />
 
-Each list can be managed, edited, or removed as needed.
+Chaque liste peut être gérée, modifiée ou supprimée selon les besoins. 
 
-### Add Products to Requisition List
+### Ajouter des produits à la liste de demandes 
 
-This option allows users to add products directly to an existing requisition list from the product page.
+Cette option permet aux utilisateurs d'ajouter des produits directement à une liste de demandes d'achat existante à partir de la page produit. 
 
-From the product page, click **Add To Requisition List**, then select a list (e.g., Wish) from the dropdown menu to save the product.
+Sur la page du produit, cliquez sur **Ajouter à la liste de demandes**, puis sélectionnez une liste (par exemple, Souhait) dans le menu déroulant pour enregistrer le produit. 
 
-<ImagePopup src="/images/b2b-ecommerce-platform/4-product-page.png" alt="Super Admin Login" />
+<ImagePopup src="/images/b2b-ecommerce-platform/4-product-page.png" alt="Super Admin Login" /> 
 
-### Manage Requisition List
+### Gérer la liste des demandes 
 
-After adding products, users can easily manage their saved items within the requisition list.
+Après avoir ajouté des produits, les utilisateurs peuvent facilement gérer leurs articles enregistrés dans la liste de demandes d'achat. 
 
-This page appears when you click the **Edit** icon under the **Actions** column on the My Requisition Lists page.
+Cette page s'affiche lorsque vous cliquez sur l'icône **Modifier** sous la colonne **Actions** de la page Mes listes de demandes. 
 
-**Available Actions Include:**
+**Les actions disponibles incluent :** 
 
-**1) Rename –** Update the list name to better reflect its purpose.
+**1) Renommer –** Mettez à jour le nom de la liste pour mieux refléter son objectif. 
 
-**2) Remove Selected –** Delete specific items that are no longer needed.
+**2) Supprimer la sélection –** Supprimez les éléments spécifiques qui ne sont plus nécessaires. 
 
-**3) Move Selected To Cart –** Instantly move selected products to the shopping cart for checkout.
+**3) Déplacer la sélection vers le panier –** Déplacez instantanément les produits sélectionnés vers le panier pour le paiement. 
 
-**4) Update Items –** Update product quantities within the list.
+**4) Mettre à jour les articles –** Mettre à jour les quantités de produits dans la liste. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/5-list.png" alt="Super Admin Login" />
 

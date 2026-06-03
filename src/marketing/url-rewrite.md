@@ -1,39 +1,39 @@
-# URL Rewrite
+# Réécriture d'URL 
 
-This feature allows the admin to manage errors related to product, category, and CMS URLs.
+Cette fonctionnalité permet à l'administrateur de gérer les erreurs liées aux URL du produit, de la catégorie et du CMS. 
 
-If an admin modifies their URL for any reason, this functionality ensures seamless redirection to the new path URL.
+Si un administrateur modifie son URL pour une raison quelconque, cette fonctionnalité garantit une redirection transparente vers la nouvelle URL du chemin. 
 
-## Step 1: Navigate to URL Rewrite
+## Étape 1 : Accédez à la réécriture d'URL 
 
-On the Admin panel, go to **Marketing > Search & SEO > URL Rewrites** and click on **Create URL Rewrite** as shown below.
+Dans le panneau d'administration, accédez à **Marketing > Recherche et référencement > Réécritures d'URL** et cliquez sur **Créer une réécriture d'URL** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/urlRewrite.png" alt="Search Field" />
+<ImagePopup src="/images/marketing/urlRewrite.png" alt="Search Field" /> 
 
-## Step 2: Add URL Rewrite Details
+## Étape 2 : Ajouter les détails de la réécriture d'URL 
 
-Fill in the following fields:
+Remplissez les champs suivants : 
 
-1. **For** – Select the entity for which you are applying the URL Rewrite (Product, Category, CMS Page).  
+1. **Pour** – Sélectionnez l'entité pour laquelle vous appliquez la réécriture d'URL (produit, catégorie, page CMS). 
 
-2. **Request Path** – Enter the URL key and suffix (if applicable) of the original product request. This is the redirect from the product/category/page identified earlier.  
+2. **Chemin de la demande** – Saisissez la clé URL et le suffixe (le cas échéant) de la demande de produit d'origine. Il s'agit de la redirection depuis le produit/catégorie/page identifié précédemment. 
 
-3. **Target Path** – Displays the system version of the path (cannot be changed). 
+3. **Chemin cible** – Affiche la version système du chemin (ne peut pas être modifié). 
 
-4. **Redirect Type** – Choose one of the following:  
+4. **Type de redirection** – Choisissez l'une des options suivantes : 
 
-   - **Temporary (302):** Use for temporary changes while retaining SEO value on the old URL.  
-   
-   - **Permanent (301):** Use for permanent changes with SEO value transferred to the new URL.  
+- **Temporaire (302) :** À utiliser pour des modifications temporaires tout en conservant la valeur SEO sur l'ancienne URL. 
 
-5. **Locale** – Select the language in which you want the URL to be rewritten.  
+- **Permanent (301) :** À utiliser pour les modifications permanentes avec la valeur SEO transférée vers la nouvelle URL. 
 
-Finally, click the **Save URL Rewrite** button.
+5. **Locale** – Sélectionnez la langue dans laquelle vous souhaitez que l'URL soit réécrite. 
 
-<ImagePopup src="/images/marketing/urlFields.png" alt="Search Field" />
+Enfin, cliquez sur le bouton **Enregistrer la réécriture d'URL**. 
 
-## Step 3: URL Redirection
+<ImagePopup src="/images/marketing/urlFields.png" alt="Search Field" /> 
 
-The new URL will now redirect as per the **Target Path** permanently.  
+## Étape 3 : Redirection d'URL 
+
+La nouvelle URL sera désormais redirigée de manière permanente selon le **Chemin cible**. 
 
 <ImagePopup src="/images/marketing/urlOutput.png" alt="Search Field" />

@@ -5,9 +5,11 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "docs:translate:fr": "node scripts/translate-site-fr.mjs"
   },
   "dependencies": {
+    "google-translate-api-x": "^10.7.2",
     "serve": "^14.2.5"
   }
 }

@@ -1,149 +1,149 @@
-# Company Registration
+# Enregistrement de l'entreprise
 
-Company Registration allows businesses to join the storefront and manage their organization profile easily. 
+L'enregistrement des entreprises permet aux entreprises de rejoindre la vitrine et de gérer facilement le profil de leur organisation. 
 
-It ensures that companies can quickly become part of your B2B platform.
+Il garantit que les entreprises peuvent rapidement faire partie de votre plateforme B2B.
 
-Once registered, companies can manage their profile, access dashboards, and use features like requisition lists, quick orders, and purchase orders.
+Une fois inscrites, les entreprises peuvent gérer leur profil, accéder aux tableaux de bord et utiliser des fonctionnalités telles que les listes de demandes, les commandes rapides et les bons de commande.
 
-**Steps to Register a Company**
+**Étapes pour enregistrer une entreprise**
 
-**Step: 1** On the storefront, click on **Sign Up** from the header menu, as shown in the image below.
+**Étape : 1** Sur la vitrine, cliquez sur **S'inscrire** dans le menu d'en-tête, comme indiqué dans l'image ci-dessous.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/1.png" alt="Super Admin Login" />
 
-**Step: 2** After clicking, the registration form will open, as shown in the image below.
+**Étape : 2** Après avoir cliqué, le formulaire d'inscription s'ouvrira, comme le montre l'image ci-dessous.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/2.png" alt="Super Admin Login" />
 
-**Step: 3** Fill in the company details:
+**Étape : 3** Remplissez les détails de l'entreprise :
 
-**1) First Name –** Enter your first name.
+**1) Prénom –** Entrez votre prénom.
 
-**2) Last Name –** Enter your last name.
+**2) Nom de famille –** Entrez votre nom de famille.
 
-**3) Email –** Enter a valid email address
+**3) E-mail –** Entrez une adresse e-mail valide
 
-**4) Phone –** Enter your contact number.
+**4) Téléphone –** Entrez votre numéro de contact.
 
-**5) Slug –** Unique identifier for your company.
+**5) Slug –** Identifiant unique de votre entreprise.
 
-**6) Business Name –** Enter your company name.
+**6) Nom de l'entreprise –** Entrez le nom de votre entreprise.
 
-**7) Password –** Set a secure password.
+**7) Mot de passe –** Définissez un mot de passe sécurisé.
 
-**8) Confirm Password –** Re-enter the password.
+**8) Confirmer le mot de passe –** Entrez à nouveau le mot de passe.
 
-**9) Subscribe to Newsletter –** Check this box if you want to receive updates via email.
+**9) Abonnez-vous à la newsletter –** Cochez cette case si vous souhaitez recevoir des mises à jour par e-mail.
 
-**Step: 4** Click **Register** to create the account.
+**Étape : 4** Cliquez sur **S'inscrire** pour créer le compte.
 
-### Company Sign In
+### Connexion de l'entreprise
 
-If you already have a company account, you can log in from the storefront using the Sign In option. This allows access to the company dashboard and all B2B features.
+Si vous disposez déjà d'un compte d'entreprise, vous pouvez vous connecter depuis la vitrine en utilisant l'option de connexion. Cela permet d'accéder au tableau de bord de l'entreprise et à toutes les fonctionnalités B2B.
 
-**Steps to Sign In**
+**Étapes pour vous connecter**
 
-**Step: 1** Click Sign In from the header menu on the storefront. The login form will open, as shown in the image below.
+**Étape : 1** Cliquez sur Se connecter dans le menu d'en-tête de la vitrine. Le formulaire de connexion s'ouvrira, comme indiqué dans l'image ci-dessous.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/3.png" alt="Super Admin Login" />
 
-**Step: 2** Enter your credentials in the form:
+**Étape : 2** Saisissez vos identifiants dans le formulaire :
 
-**1) Email –** Enter the email address used during company registration.
+**1) E-mail –** Saisissez l'adresse e-mail utilisée lors de l'enregistrement de l'entreprise.
 
-**2) Password –** Enter your account password.
+**2) Mot de passe –** Entrez le mot de passe de votre compte.
 
-**Step: 3** Click Sign In to access your company dashboard.
+**Étape : 3** Cliquez sur Se connecter pour accéder au tableau de bord de votre entreprise.
 
-Once signed in, you can manage your company profile, users, orders, requisition lists, quotations, and other B2B operations, as shown in the profile section image below.
+Une fois connecté, vous pouvez gérer le profil de votre entreprise, les utilisateurs, les commandes, les listes de demandes, les devis et d'autres opérations B2B, comme indiqué dans l'image de la section de profil ci-dessous.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/4.png" alt="Super Admin Login" />
 
-## Companies Management (Admin End)
+## Gestion des entreprises (fin administrateur)
 
-The admin can create and manage companies directly from the admin end. This feature allows admins to oversee all registered companies, their details, and manage B2B operations efficiently.
+L'administrateur peut créer et gérer des entreprises directement depuis le côté administrateur. Cette fonctionnalité permet aux administrateurs de superviser toutes les sociétés enregistrées, leurs coordonnées et de gérer efficacement les opérations B2B.
 
-Using the Companies menu in the admin panel, you can view a list of all registered companies with relevant details like name, email, and contact number.
+En utilisant le menu Entreprises du panneau d'administration, vous pouvez afficher une liste de toutes les sociétés enregistrées avec des détails pertinents tels que le nom, l'adresse e-mail et le numéro de contact.
 
-**Steps to Manage Companies**
+**Étapes pour gérer les entreprises**
 
-Log in to the Admin Panel and navigate to **Customers → Companies**. The companies list will be displayed, as shown in the image below.
+Connectez-vous au panneau d'administration et accédez à **Clients → Entreprises**. La liste des entreprises s'affichera, comme le montre l'image ci-dessous.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/5.png" alt="Super Admin Login" />
 
-### Create Company
+### Créer une entreprise
 
-Admins can create a new company from the backend by filling in all the required details. This allows the company to access the B2B features on the storefront.
+Les administrateurs peuvent créer une nouvelle entreprise à partir du backend en remplissant tous les détails requis. Cela permet à l'entreprise d'accéder aux fonctionnalités B2B de la vitrine.
 
-### Steps to Create a Company
+### Étapes pour créer une entreprise
 
-**Step: 1** In the Admin Panel, navigate to **Customers → Companies** and click **Create Company**. The company creation form will open.
+**Étape : 1** Dans le panneau d'administration, accédez à **Clients → Entreprises** et cliquez sur **Créer une entreprise**. Le formulaire de création d'entreprise s'ouvrira.
 
-**Step: 2** Fill in the company details under the General section.
+**Étape : 2** Remplissez les détails de l'entreprise dans la section Général.
 
-**1) First Name –** Enter the company contact person’s first name.
+**1) Prénom –** Saisissez le prénom de la personne de contact de l'entreprise.
 
-**2) Last Name –** Enter the last name.
+**2) Nom de famille –** Entrez le nom de famille.
 
-**3) Email –** Enter the company’s email address.
+**3) E-mail –** Entrez l'adresse e-mail de l'entreprise.
 
-**4) Phone –** Enter the contact number.
+**4) Téléphone –** Entrez le numéro de contact.
 
-**5) Slug –** Enter a unique identifier for the company.
+**5) Slug –** Entrez un identifiant unique pour l'entreprise.
 
-**6) Business Name –** Enter the company or organization name.
+**6) Nom de l'entreprise –** Entrez le nom de l'entreprise ou de l'organisation.
 
-**7) Website URL –** Enter the company’s website (if available).
+**7) URL du site Web –** Entrez le site Web de l'entreprise (si disponible).
 
-**8) VAT Tax ID –** Enter the company’s tax identification num.
+**8) Numéro d'identification fiscale TVA –** Entrez le numéro d'identification fiscale de l'entreprise.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/6.png" alt="Super Admin Login" />
 
-### Fill in the Address details:
+### Remplissez les détails de l'adresse :
 
-Address – Company street address.
+Adresse – Adresse postale de l’entreprise.
 
-City – Enter the city name.
+Ville – Entrez le nom de la ville.
 
-Country – Enter the country.
+Pays – Entrez le pays.
 
-State – Enter the state.
+État – Entrez l'état.
 
-Postcode – Enter the postal code.
+Code postal – Entrez le code postal.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/7.png" alt="Super Admin Login" />
 
-### Set company Policies
+### Définir les politiques de l'entreprise
 
-**1) Return Policy –** Enter the company’s return policy.
+**1) Politique de retour –** Saisissez la politique de retour de l'entreprise.
 
-**2) Shipping Policy –** Enter shipping terms.
+**2) Politique d'expédition –** Entrez les conditions d'expédition.
 
-**3) Privacy Policy –** Enter privacy policy details.
+**3) Politique de confidentialité –** Saisissez les détails de la politique de confidentialité.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/8.png" alt="Super Admin Login" />
 
-### Add Meta Description
+### Ajouter une méta description
 
-**1) Meta Title –** Enter the meta title for SEO.
+**1) Meta Title –** Entrez le méta titre pour le référencement.
 
-**2) Meta Keywords –** Enter meta keywords.
+**2) Mots-clés méta –** Saisissez des mots-clés méta.
 
-**3) Meta Description –** Enter meta description.
+**3) Méta description –** Entrez la méta description.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/9.png" alt="Super Admin Login" />
 
-### Add Social Links
+### Ajouter des liens sociaux
 
-**1) Facebook –** Enter the company’s Facebook page URL.
+**1) Facebook –** Saisissez l'URL de la page Facebook de l'entreprise.
 
-**2) Instagram –** Enter the company’s Instagram profile URL.
+**2) Instagram –** Saisissez l'URL du profil Instagram de l'entreprise.
 
-**3) YouTube –** Enter the company’s YouTube channel URL.
+**3) YouTube –** Saisissez l'URL de la chaîne YouTube de l'entreprise.
 
-After completing all details, click Save Company to create the company. Use Back to return to the previous screen without saving.
+Après avoir complété tous les détails, cliquez sur Enregistrer l'entreprise pour créer l'entreprise. Utilisez Retour pour revenir à l’écran précédent sans enregistrer.
 
-**Note: Admin can edit or delete any company later from the companies list using the Actions column.**
+**Remarque : L'administrateur peut modifier ou supprimer ultérieurement n'importe quelle entreprise de la liste des entreprises à l'aide de la colonne Actions.**
 
 <ImagePopup src="/images/b2b-ecommerce-platform/10.png" alt="Super Admin Login" />

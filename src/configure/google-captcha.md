@@ -1,71 +1,71 @@
-# Google Captcha
+#GoogleCaptcha 
 
-Google reCAPTCHA is a security feature provided by Google that helps protect websites from spam, bots, and automated abuse. 
+Google reCAPTCHA est une fonctionnalité de sécurité fournie par Google qui aide à protéger les sites Web contre le spam, les robots et les abus automatisés. 
 
-It works by verifying whether an interaction is performed by a real human user or an automated script. By adding reCAPTCHA to forms such as login, registration, contact, and checkout, store owners can prevent fake submissions, brute-force attacks, and malicious activities.
+Il fonctionne en vérifiant si une interaction est effectuée par un véritable utilisateur humain ou par un script automatisé. En ajoutant reCAPTCHA aux formulaires tels que la connexion, l'inscription, le contact et le paiement, les propriétaires de magasins peuvent empêcher les fausses soumissions, les attaques par force brute et les activités malveillantes. 
 
-To add, go to the Admin Panel and click on **Configure >> Google Captcha** as shown below.
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> Google Captcha** comme indiqué ci-dessous. 
 
- <ImagePopup src="/images/configure/configure-captcha.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/configure-captcha.png" alt="Account Login" /> 
 
-As soon as you click on it, a Status toggle button will appear. Once you enable it, you will see options to add **Project ID, API Key, Site Key** and **Score Threshold**.
+Dès que vous cliquez dessus, un bouton bascule Statut apparaîtra. Une fois que vous l'avez activé, vous verrez des options pour ajouter **ID de projet, clé API, clé de site** et **Seuil de score**. 
 
-### To Obtain Google Cloud Project ID:
+### Pour obtenir l'ID du projet Google Cloud : 
 
-- Visit [Google Cloud Console](https://console.cloud.google.com/) 
-- Create a new project or select an existing one from the project dropdown.
-- Note your Project ID from the project dashboard (not the project name).
+- Visitez [Google Cloud Console](https://console.cloud.google.com/) 
+- Créez un nouveau projet ou sélectionnez-en un existant dans la liste déroulante des projets. 
+- Notez votre ID de projet dans le tableau de bord du projet (pas le nom du projet). 
 
- <ImagePopup src="/images/configure/project-id.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/project-id.png" alt="Account Login" /> 
 
-### Generate API Key:
+### Générer une clé API : 
 
-- In Google Cloud Console, navigate to APIs & Services → Credentials.
+- Dans Google Cloud Console, accédez à API et services → Identifiants. 
 
-- Click Create Credentials → API Key.
+- Cliquez sur Créer des informations d'identification → Clé API. 
 
-- Now copy the generated API key.
+- Copiez maintenant la clé API générée. 
 
-<ImagePopup src="/images/configure/api-1.png" alt="Account Login" />
+<ImagePopup src="/images/configure/api-1.png" alt="Account Login" /> 
 
-### Create reCAPTCHA Site Key:
+### Créez une clé de site reCAPTCHA : 
 
-- Navigate to Security → reCAPTCHA in Google Cloud Console.
-- Click Create Key.
-- Enter a display name for your key.
-- Select Website as the platform type.
-- Choose Score-based (reCAPTCHA v3) as the reCAPTCHA type.
-- Add your domain(s) in the Domains section (e.g., example.com).
-- Click Create and copy the generated site key.
+- Accédez à Sécurité → reCAPTCHA dans Google Cloud Console. 
+- Cliquez sur Créer une clé. 
+- Entrez un nom d'affichage pour votre clé. 
+- Sélectionnez Site Web comme type de plateforme. 
+- Choisissez Basé sur le score (reCAPTCHA v3) comme type de reCAPTCHA. 
+- Ajoutez votre (vos) domaine(s) dans la section Domaines (par exemple, exemple.com). 
+- Cliquez sur Créer et copiez la clé de site générée. 
 
-Now you need to add all the IDs in the configuration, set the **Stock Threshold** to 0.5, and finally click on the **Save Configuration** button.
+Vous devez maintenant ajouter tous les identifiants dans la configuration, définir le **Seuil de stock** sur 0,5 et enfin cliquer sur le bouton **Enregistrer la configuration**. 
 
- <ImagePopup src="/images/configure/site-key.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/site-key.png" alt="Account Login" /> 
 
-As soon as the configuration is saved, Google reCAPTCHA will be displayed in five places on the website:
+Dès que la configuration est enregistrée, Google reCAPTCHA s'affichera à cinq endroits sur le site : 
 
-- Customer Sign In
-- Customer Sign Up
-- Contact Us Page
-- Forgot Password
-- Checkout Sign In
+- Connexion client 
+- Inscription client 
+- Page Contactez-nous 
+- Mot de passe oublié 
+- Commander Se connecter 
 
-### Customer Sign In
+### Connexion client 
 
-  <ImagePopup src="/images/configure/customer-signin.png" alt="Account Login" />
+  <ImagePopup src="/images/configure/customer-signin.png" alt="Account Login" /> 
 
-### Customer Sign Up
+### Inscription client 
 
- <ImagePopup src="/images/configure/customer-signup.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/customer-signup.png" alt="Account Login" /> 
 
-### Contact Us Page
+### Contactez-nous 
 
- <ImagePopup src="/images/configure/contact-us.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/contact-us.png" alt="Account Login" /> 
 
-### Recover Password 
+### Récupérer le mot de passe 
 
- <ImagePopup src="/images/configure/forget-password.png" alt="Account Login" />
+ <ImagePopup src="/images/configure/forget-password.png" alt="Account Login" /> 
 
-### Checkout Sign In 
+### Commander Se connecter 
 
  <ImagePopup src="/images/configure/checkout-signin.png" alt="Account Login" />

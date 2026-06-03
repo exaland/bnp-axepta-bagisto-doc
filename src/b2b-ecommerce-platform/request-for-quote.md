@@ -1,42 +1,42 @@
-# Request for Quote (RFQ)
+# Demande de devis (RFQ) 
 
-The Request for Quote (RFQ) feature allows companies to submit quotation requests directly from the storefront for price negotiation or bulk purchase discussions.
+La fonctionnalité de demande de devis (RFQ) permet aux entreprises de soumettre des demandes de devis directement depuis la vitrine pour des négociations de prix ou des discussions d'achat en gros. 
 
-**Note:** The RFQ feature can only be used by signed-in customers.
+**Remarque :** La fonctionnalité RFQ ne peut être utilisée que par les clients connectés. 
 
-### Cart Page Overview
+### Présentation de la page du panier 
 
-Go to the Cart page from the storefront. Here, you will find the Request For Quote button below the Cart Summary section.
+Accédez à la page Panier depuis la vitrine. Ici, vous trouverez le bouton Demande de devis sous la section Récapitulatif du panier. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/1-cart-page.png" alt="Super Admin Login" />
 
-Click the **Request For Quote** button to proceed with creating a quotation.
+Cliquez sur le bouton **Demande de devis** pour procéder à la création d'un devis. 
 
-### Create Quotation Request
+### Créer une demande de devis 
 
-After clicking the **Request For Quote** button, the **Quotation Form** will appear.
+Après avoir cliqué sur le bouton **Demande de devis**, le **Formulaire de devis** apparaîtra. 
 
-### Fill in the following details:
+### Remplissez les informations suivantes : 
 
-**1) Quotation Name –** Enter a name for your quotation.
+**1) Nom du devis –** Saisissez un nom pour votre devis. 
 
-**2) Quotation Description –** Add a short note describing your request or purpose.
+**2) Description du devis –** Ajoutez une courte note décrivant votre demande ou votre objectif. 
 
-**3) Attach File –** Upload supporting files if required.
+**3) Joindre un fichier –** Téléchargez des fichiers de support si nécessaire. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/2-request-for-quote.png" alt="Super Admin Login" />
 
-At the bottom of the form, two buttons are available:
+En bas du formulaire, deux boutons sont disponibles : 
 
-**1) Save as Draft –** Save your quotation for later submission.
+**1) Enregistrer en tant que brouillon –** Enregistrez votre devis pour une soumission ultérieure. 
 
-**2) Request A Quotation –** Submit the quotation request directly to the admin.
+**2) Demander un devis –** Soumettez la demande de devis directement à l'administrateur. 
 
-### Quotation Submission and Tracking
+### Soumission et suivi des devis 
 
-Once you submit your quotation request, it will be listed under the **Quotations** section in your **My Account** dashboard.
+Une fois que vous aurez soumis votre demande de devis, elle sera répertoriée dans la section **Devis** de votre tableau de bord **Mon compte**. 
 
-Each quotation displays key details, including ID, Quotation Name, Company, Base Total, Status (Open/Accepted/Rejected/Draft), and Created At, for easy tracking and management.
+Chaque devis affiche des détails clés, notamment l'ID, le nom du devis, la société, le total de base, le statut (ouvert/accepté/rejeté/brouillon) et créé à, pour un suivi et une gestion faciles. 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/3-quotation.png" alt="Super Admin Login" />
 

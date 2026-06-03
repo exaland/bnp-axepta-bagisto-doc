@@ -1,19 +1,19 @@
-# Attribute Input Type
+# Type d'entrée d'attribut
 
-Attributes can have different input types that determine not only how you enter the values for the attribute, but also how shoppers can select attributes in the case of options, or enter values.
+Les attributs peuvent avoir différents types d'entrée qui déterminent non seulement la manière dont vous saisissez les valeurs de l'attribut, mais également la manière dont les acheteurs peuvent sélectionner les attributs dans le cas des options ou saisir des valeurs.
 
-Product Attributes are a set of characteristics that define a particular product or a group of goods. This means size, color, flavor, package type, etc. constitute attributes. Product attributes are not just about the general description of a product, but they speak about the value of products that makes it unique.
+Les attributs du produit sont un ensemble de caractéristiques qui définissent un produit particulier ou un groupe de biens. Cela signifie que la taille, la couleur, la saveur, le type d'emballage, etc. constituent des attributs. Les attributs du produit ne concernent pas seulement la description générale d'un produit, mais ils parlent de la valeur du produit qui le rend unique.
 
-| Property  | Description                                                                                           |
+| Propriété | Descriptif |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Text      | A single-line input field for text.                                                                            |
-| Text Area   | A multiple-line input field for entering paragraphs of text, such as a product description.                                                                    |
-| Price         | This input type is used to create price fields that are in addition to the predefined attributes: Price, Special Price, Tier Price, and Cost.                                                               |
-| Boolean    | Displays a drop-down list with pre-defined options of Yes and No.                                                                 |
-| Select        | Displays an option to select a value.                       |
-| Multi Select        | Displays a drop-down list of values that accepts multiple selections.                                                                            |
-| Date       | Displays a date value in the preferred format.
-| Date Time       | Displays a date and time value in the preferred format and time zone.
-| Image     | This is used to show the image.The image attribute can be excluded from the storefront media browser.
-| File       | File attributes are a type of meta-data that describe and may modify how files and/or directories in a filesystem behave.
-| Checkbox       | It represents a state or option that can be toggled.
+| Texte | Un champ de saisie sur une seule ligne pour le texte. |
+| Zone de texte | Un champ de saisie sur plusieurs lignes pour saisir des paragraphes de texte, comme une description de produit. |
+| Prix ​​| Ce type d'entrée est utilisé pour créer des champs de prix qui s'ajoutent aux attributs prédéfinis : Prix, Prix spécial, Prix de niveau et Coût. |
+| Booléen | Affiche une liste déroulante avec les options prédéfinies Oui et Non. |
+| Sélectionnez | Affiche une option pour sélectionner une valeur. |
+| Sélection multiple | Affiche une liste déroulante de valeurs acceptant plusieurs sélections. |
+| Dates | Affiche une valeur de date dans le format préféré.
+| Date Heure | Affiche une valeur de date et d'heure dans le format et le fuseau horaire préférés.
+| Images | Ceci est utilisé pour afficher l'image. L'attribut image peut être exclu du navigateur multimédia de la vitrine.
+| Fichier | Les attributs de fichier sont un type de métadonnées qui décrivent et peuvent modifier le comportement des fichiers et/ou des répertoires d'un système de fichiers.
+| Case à cocher | Il représente un état ou une option qui peut être basculé.

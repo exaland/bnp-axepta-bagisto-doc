@@ -1,187 +1,187 @@
-# Supplier Microsite
+# Microsite du fournisseur 
 
-The **Supplier Microsite** in ExalandStore B2B Marketplace is like a mini online store for each supplier. It lets suppliers showcase their brand, products, company details, and policies in one place. Buyers can visit the microsite to explore products, request quotes, or place orders directly.
+Le **microsite fournisseur** d'ExalandStore B2B Marketplace est comme une mini boutique en ligne pour chaque fournisseur. Il permet aux fournisseurs de présenter leur marque, leurs produits, les détails de leur entreprise et leurs politiques en un seul endroit. Les acheteurs peuvent visiter le microsite pour explorer les produits, demander des devis ou passer des commandes directement. 
 
-This helps suppliers build trust, promote their business, and reach more customers easily.
+Cela aide les fournisseurs à renforcer la confiance, à promouvoir leur entreprise et à atteindre facilement davantage de clients. 
 
 <ImagePopup src="/images/b2b-marketplace/1-supplier-login-button.png" alt="Supplier Login Button" />
 
-## Create a New Supplier Account
+## Créer un nouveau compte fournisseur 
 
-**Step 1:** Go to **Supplier Login** and click on **Sign In**.
+**Étape 1 :** Accédez à **Connexion fournisseur** et cliquez sur **Connexion**. 
 
-**Step 2:** Fill in the required details:
+**Étape 2 :** Remplissez les informations requises : 
 
-- **First Name** – Enter the first name.
+- **Prénom** – Saisissez le prénom. 
 
-- **Last Name** – Enter the last name.
+- **Nom de famille** – Saisissez le nom de famille. 
 
-- **Email Address** – Enter the email address.
+- **Adresse e-mail** – Saisissez l'adresse e-mail. 
 
-- **Password** – Enter your password.
+- **Mot de passe** – Saisissez votre mot de passe. 
 
-- **Confirm Password** – Confirm the password.
+- **Confirmer le mot de passe** – Confirmez le mot de passe. 
 
-- **Company URL** – Add your company URL.
+- **URL de l'entreprise** – Ajoutez l'URL de votre entreprise. 
 
-**Step 3:** Click the **Register** button to create a supplier account.
+**Étape 3 :** Cliquez sur le bouton **S'inscrire** pour créer un compte fournisseur. 
 
 <ImagePopup src="/images/b2b-marketplace/2-create-supplier.png" alt="Create Supplier Account" />
 
-## Admin: Approve or Disapprove New Supplier
+## Admin : approuver ou refuser un nouveau fournisseur 
 
-In the admin panel, the administrator has full control to approve or disapprove newly registered suppliers.
+Dans le panneau d'administration, l'administrateur a le contrôle total pour approuver ou désapprouver les fournisseurs nouvellement enregistrés. 
 
-**Step 1:** Log in to the **Admin Panel**.
+**Étape 1 :** Connectez-vous au **Panneau d'administration**. 
 
-**Step 2:** Go to **B2B Marketplace >> Suppliers**.
+**Étape 2 :** Accédez à **Place de marché B2B >> Fournisseurs**. 
 
-**Step 3:** Select a supplier you want to review.
+**Étape 3 :** Sélectionnez un fournisseur que vous souhaitez évaluer. 
 
-**Step 5:** Check the supplier details such as company name, email, and URL.
+**Étape 5 :** Vérifiez les détails du fournisseur tels que le nom de l'entreprise, l'adresse e-mail et l'URL. 
 
-**Step 6:** Choose from the **“Select Action”** menu to either:
+**Étape 6 :** Choisissez dans le menu **« Sélectionner une action »** : 
 
-- **Approve:** Supplier account becomes active in the marketplace.
+- **Approuver :** Le compte fournisseur devient actif sur le marché. 
 
-- **Disapprove:** Supplier request is rejected and access is denied.
+- **Refuser :** La demande du fournisseur est rejetée et l'accès est refusé. 
 
-<ImagePopup src="/images/b2b-marketplace/3-admin-suppliers-disapproved-state.png" alt="Admin Suppliers Disapproved State" />
+<ImagePopup src="/images/b2b-marketplace/3-admin-suppliers-disapproved-state.png" alt="Admin Suppliers Disapproved State" /> 
 
-Once the supplier is approved, their account becomes active in the marketplace.
+Une fois le fournisseur approuvé, son compte devient actif sur le marché. 
 
 <ImagePopup src="/images/b2b-marketplace/4-supplier-approved-by-admin.png" alt="Supplier Approved by Admin" />
 
-## Accessing the Supplier Dashboard
+## Accéder au tableau de bord des fournisseurs 
 
-The supplier can log in using their registered email ID and password to access their dashboard.
+Le fournisseur peut se connecter en utilisant son identifiant de messagerie et son mot de passe enregistrés pour accéder à son tableau de bord. 
 
-<ImagePopup src="/images/b2b-marketplace/5-supplier-sign-in.png" alt="Supplier Sign In" />
+<ImagePopup src="/images/b2b-marketplace/5-supplier-sign-in.png" alt="Supplier Sign In" /> 
 
-The supplier dashboard opens, giving suppliers access to manage their products, quotes, orders, and account details.
+Le tableau de bord des fournisseurs s'ouvre, permettant aux fournisseurs d'accéder à la gestion de leurs produits, devis, commandes et détails de compte. 
 
-<ImagePopup src="/images/b2b-marketplace/6-supplier-dashboard.png" alt="Supplier Dashboard" />
+<ImagePopup src="/images/b2b-marketplace/6-supplier-dashboard.png" alt="Supplier Dashboard" /> 
 
-The supplier needs to set up their profile to build trust and visibility in the marketplace.
+Le fournisseur doit définir son profil pour renforcer la confiance et la visibilité sur le marché. 
 
-Go to **Settings >> Profile**
+Accédez à **Paramètres >> Profil** 
 
-To set up a new supplier profile, fill in the basic details such as:
-- **Banner Image:** Click to add a professional banner that highlights your brand.
-- **Logo:** Click to upload your company logo and represent your brand identity.
+Pour créer un nouveau profil de fournisseur, remplissez les informations de base telles que : 
+- **Image de la bannière :** Cliquez pour ajouter une bannière professionnelle qui met en valeur votre marque. 
+- **Logo :** Cliquez pour télécharger le logo de votre entreprise et représenter l'identité de votre marque. 
 
 <ImagePopup src="/images/b2b-marketplace/7-profile-banner-and-logo.png" alt="Profile Banner and Logo" />
 
-## General
+## Général 
 
-This section covers the main details of the business:
+Cette section couvre les principaux détails de l'entreprise : 
 
-- **Company Name:** Official business name.
+- **Nom de l'entreprise :** Nom officiel de l'entreprise. 
 
-- **Company URL:** Website or online presence link.
+- **URL de l'entreprise :** Site Web ou lien de présence en ligne. 
 
-- **Company Tag Line:** Short business tagline.
+- **Slogan de l'entreprise :** Slogan commercial court. 
 
-- **Registered In:** Country of business registration.
+- **Enregistré dans :** Pays d'enregistrement de l'entreprise. 
 
-- **Designation:** Role of the contact person.
+- **Désignation :** Rôle de la personne de contact. 
 
-- **Team Size:** Total number of employees.
+- **Taille de l'équipe :** Nombre total d'employés. 
 
-- **Certification:** Any official certifications (ISO, etc.).
+- **Certification :** Toute certification officielle (ISO, etc.). 
 
-- **Response Time in Hours:** Average response time to queries.
+- **Temps de réponse en heures :** Temps de réponse moyen aux requêtes.
 
-## Operational Address
+## Adresse opérationnelle 
 
-Enter the complete business address where the company operates:
+Saisissez l'adresse professionnelle complète où l'entreprise opère : 
 
-- **Contact Number:** Primary business phone number.
+- **Numéro de contact :** Numéro de téléphone professionnel principal. 
 
-- **Address 1:** Main business address line (e.g., building/office).
+- **Adresse 1 :** Ligne d'adresse principale de l'entreprise (par exemple, immeuble/bureau). 
 
-- **Address 2:** Additional address details (e.g., landmark, suite).
+- **Adresse 2 :** Détails d'adresse supplémentaires (par exemple, point de repère, suite). 
 
-- **City:** City where the business is located.
+- **Ville :** Ville où est située l'entreprise. 
 
-- **State:** State or region of business operation.
+- **État :** État ou région d'activité de l'entreprise. 
 
-- **Country:** Country of business registration.
+- **Pays :** Pays d'enregistrement de l'entreprise. 
 
-- **Post Code:** Postal/ZIP code of the business address.
+- **Code postal :** Code postal de l'adresse professionnelle. 
 
 <ImagePopup src="/images/b2b-marketplace/8-general-and-operational-address.png" alt="General and Operational Address" />
 
-## Corporate Address
+## Adresse de l'entreprise 
 
-Buyers can use this information to reach out, verify the business, and ensure smooth communication for orders and inquiries:
+Les acheteurs peuvent utiliser ces informations pour contacter, vérifier l'entreprise et assurer une communication fluide pour les commandes et les demandes de renseignements : 
 
-- **Contact Number:** Primary phone number for business communication.
+- **Numéro de contact :** Numéro de téléphone principal pour les communications professionnelles. 
 
-- **Address 1:** Main business address or office location.
+- **Adresse 1 :** Adresse professionnelle principale ou emplacement du bureau. 
 
-- **Address 2:** Additional details, such as a landmark.
+- **Adresse 2 :** Détails supplémentaires, tels qu'un point de repère. 
 
-- **City:** City where the business operates.
+- **Ville :** Ville où l'entreprise est implantée. 
 
-- **State:** State or region of the business.
+- **État :** État ou région de l'entreprise. 
 
-- **Country:** Country of business registration.
+- **Pays :** Pays d'enregistrement de l'entreprise. 
 
-- **Post Code:** Postal or ZIP code of the business address.
+- **Code postal :** Code postal ou ZIP de l'adresse professionnelle.
 
-## About Shop
+## À propos de la boutique 
 
-This section provides a brief overview of the supplier’s shop. It highlights the company’s brand, products, and services, helping buyers understand what the shop offers.
+Cette section donne un bref aperçu de la boutique du fournisseur. Il met en valeur la marque, les produits et les services de l’entreprise, aidant ainsi les acheteurs à comprendre ce que propose le magasin. 
 
 <ImagePopup src="/images/b2b-marketplace/9-corporate-address-and-about-shop.png" alt="Corporate Address and About Shop" />
 
-## Policies
+## Politiques 
 
-To ensure a clear and trustworthy shopping experience, suppliers can add important policies such as:
+Pour garantir une expérience d'achat claire et fiable, les fournisseurs peuvent ajouter des politiques importantes telles que : 
 
-- **Privacy Policy:** Tell users how their personal information is collected, stored, and protected.
+- **Politique de confidentialité :** Indiquez aux utilisateurs comment leurs informations personnelles sont collectées, stockées et protégées. 
 
-- **Shipping Policy:** Explain delivery times, shipping charges, and how orders are handled.
+- **Politique d'expédition :** Expliquez les délais de livraison, les frais d'expédition et la façon dont les commandes sont traitées. 
 
-- **Return Policy:** Let customers know how they can return or exchange products, including conditions and timeframes.
+- **Politique de retour :** Informez les clients de la manière dont ils peuvent retourner ou échanger des produits, y compris les conditions et les délais. 
 
 <ImagePopup src="/images/b2b-marketplace/10-policies.png" alt="Supplier Policies" />
 
-## Social Links
+## Liens sociaux 
 
-In this section, the seller can add links to the shop’s social media pages to enhance visibility and customer engagement:
+Dans cette section, le vendeur peut ajouter des liens vers les pages de réseaux sociaux de la boutique pour améliorer la visibilité et l'engagement client : 
 
-- **Twitter Id:** Link to the shop’s Twitter profile.
+- **Identifiant Twitter :** Lien vers le profil Twitter de la boutique. 
 
-- **Facebook Id:** Link to the shop’s Facebook page.
+- **Identifiant Facebook :** Lien vers la page Facebook de la boutique. 
 
-- **YouTube Id:** Link to the shop’s YouTube channel.
+- **Identifiant YouTube :** Lien vers la chaîne YouTube de la boutique. 
 
-- **Instagram Id:** Link to the shop’s Instagram profile.
+- **Id Instagram :** Lien vers le profil Instagram de la boutique. 
 
-- **Skype Id:** Skype contact for direct communication.
+- **Identifiant Skype :** Contact Skype pour une communication directe. 
 
-- **LinkedIn:** Link to the shop’s LinkedIn profile.
+- **LinkedIn :** Lien vers le profil LinkedIn de la boutique. 
 
-- **Pinterest Id:** Link to the shop’s Pinterest page.
+- **Pinterest Id :** Lien vers la page Pinterest de la boutique. 
 
 <ImagePopup src="/images/b2b-marketplace/11-social-links.png" alt="Social Links" />
 
-## Search Engine Optimization
+## Optimisation des moteurs de recherche 
 
-To boost your shop’s visibility on search engines, you can fill out SEO fields like:
+Pour booster la visibilité de votre boutique sur les moteurs de recherche, vous pouvez remplir des champs SEO comme : 
 
-- **Meta Title:** The title that appears in search engine results.
+- **Meta Title :** Le titre qui apparaît dans les résultats des moteurs de recherche. 
 
-- **Meta Keywords:** Relevant keywords that describe your shop.
+- **Méta-mots-clés :** Mots-clés pertinents qui décrivent votre boutique. 
 
-- **Meta Description:** A short summary that tells what your shop offers.
+- **Méta description :** Un bref résumé qui indique ce que propose votre boutique. 
 
-<ImagePopup src="/images/b2b-marketplace/12-seo.png" alt="SEO Settings" />
+<ImagePopup src="/images/b2b-marketplace/12-seo.png" alt="SEO Settings" /> 
 
-After filling in all the required details, click on the **Save** button.
+Après avoir rempli tous les détails requis, cliquez sur le bouton **Enregistrer**.
 
-## Store Frontend View
+## Vue frontale du magasin 
 
 <ImagePopup src="/images/b2b-marketplace/13-store-frontend.png" alt="Store Frontend View" />

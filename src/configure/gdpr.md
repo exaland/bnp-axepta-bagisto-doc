@@ -1,67 +1,67 @@
-# GDPR
+# RGPD 
 
-ExalandStore provides essential GDPR (General Data Protection Regulation) compliance features to help businesses ensure data privacy and transparency for their customers. Below are the key sections where GDPR-related settings and options are available:
+ExalandStore fournit des fonctionnalités essentielles de conformité au RGPD (Règlement Général sur la Protection des Données) pour aider les entreprises à garantir la confidentialité et la transparence des données de leurs clients. Vous trouverez ci-dessous les principales sections dans lesquelles les paramètres et options liés au RGPD sont disponibles : 
 
-## Enable GDPR Compliance Settings
+## Activer les paramètres de conformité RGPD 
 
-To add, go to Admin Panel and click on **Configure >> GDPR >> Enable GDPR**.  
-This section empowers store owners to configure GDPR-related policies and efficiently manage customer data requests. Key features include:
+Pour ajouter, allez dans le panneau d'administration et cliquez sur **Configurer >> RGPD >> Activer le RGPD**. 
+Cette section permet aux propriétaires de magasins de configurer les politiques liées au RGPD et de gérer efficacement les demandes de données des clients. Les principales fonctionnalités incluent : 
 
-- **GDPR Request** button appears on the customer's profile page in the store frontend.
-- Handling customer requests for data deletion or updation.
+- Le bouton **Demande RGPD** apparaît sur la page de profil du client dans l'interface du magasin. 
+- Traiter les demandes des clients pour la suppression ou la mise à jour des données. 
 
-<ImagePopup src="/images/configure/gdpr-agreement.png" alt="Enable GDPR Compliance Settings" />
+<ImagePopup src="/images/configure/gdpr-agreement.png" alt="Enable GDPR Compliance Settings" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**. 
 
-## GDPR Agreement
+## Accord RGPD 
 
-To add, go to Admin Panel and click on **Configure >> GDPR >> Enable Customer Agreement**.  
-The GDPR Agreement button is used to obtain explicit consent from customers before they proceed with account registration, checkout, or other data-related actions. It ensures:
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> RGPD >> Activer le contrat client**. 
+Le bouton Accord RGPD est utilisé pour obtenir le consentement explicite des clients avant de procéder à l'enregistrement du compte, au paiement ou à d'autres actions liées aux données. Il assure : 
 
-- Users acknowledge and accept the store's privacy policy.
-- Consent is recorded for legal compliance.
+- Les utilisateurs reconnaissent et acceptent la politique de confidentialité de la boutique. 
+- Le consentement est enregistré pour la conformité légale. 
 
-Fields to provide under the GDPR Agreement section:
+Champs à renseigner dans la section Accord RGPD : 
 
-- **Agreement Checkbox Label** – I agree to the terms and conditions and the privacy policy.  
-- **Agreement Content** – By checking this box, you consent to the processing of your personal data in accordance with our GDPR-compliant privacy policy.
+- **Étiquette de case à cocher d'accord** – J'accepte les termes et conditions et la politique de confidentialité. 
+- **Contenu de l'accord** – En cochant cette case, vous consentez au traitement de vos données personnelles conformément à notre politique de confidentialité conforme au RGPD. 
 
-<ImagePopup src="/images/configure/gdpr-agreement2.png" alt="GDPR Agreement Settings" />
+<ImagePopup src="/images/configure/gdpr-agreement2.png" alt="GDPR Agreement Settings" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**. 
 
-## Cookie Notice Settings
+## Paramètres d'avis de cookies 
 
-To add, go to Admin Panel and click on **Configure >> GDPR >> Enable Cookie Notice**.  
-This section allows store owners to configure how the cookie notice appears to users. Key settings include:
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> RGPD >> Activer l'avis sur les cookies**. 
+Cette section permet aux propriétaires de magasins de configurer la manière dont l'avis de cookie apparaît aux utilisateurs. Les paramètres clés incluent : 
 
-- **Cookie Block Display Position** – Determines where the cookie notice will appear on the page. Available options:  
-  - Bottom Left  
-  - Bottom Right  
-  - Top Left  
-  - Top Right  
-  - Center
+- **Position d'affichage du bloc de cookies** – Détermine où l'avis de cookie apparaîtra sur la page. Options disponibles : 
+- En bas à gauche 
+- En bas à droite 
+- En haut à gauche 
+- En haut à droite 
+- Centre 
 
-- **Static Block Identifier** – Specifies a custom static block to display within the cookie notice.  
-- **Description** – A customizable text field to describe the purpose of cookies, privacy details, and how users can manage their preferences.
+- **Static Block Identifier** – Spécifie un bloc statique personnalisé à afficher dans l'avis de cookie. 
+- **Description** – Un champ de texte personnalisable pour décrire l'objectif des cookies, les détails de confidentialité et la manière dont les utilisateurs peuvent gérer leurs préférences. 
 
-<ImagePopup src="/images/configure/cookies-position.png" alt="Cookie Notice Settings" />
+<ImagePopup src="/images/configure/cookies-position.png" alt="Cookie Notice Settings" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**. 
 
-## Manage Your Cookie Preferences
+## Gérez vos préférences en matière de cookies 
 
-This section enables users to personalize their cookie settings based on their preferences. The available categories include:
+Cette section permet aux utilisateurs de personnaliser leurs paramètres de cookies en fonction de leurs préférences. Les catégories disponibles incluent : 
 
-- **Strictly Necessary** – Essential cookies required for the website to function properly, such as session management and security features. Cannot be disabled.  
+- **Strictement nécessaire** – Cookies essentiels nécessaires au bon fonctionnement du site Web, tels que la gestion de session et les fonctionnalités de sécurité. Ne peut pas être désactivé. 
 
-- **Basic Interactions & Functionalities** – Support user interactions, such as chat features, form submissions, and navigation improvements.  
+- **Interactions et fonctionnalités de base** – Prend en charge les interactions des utilisateurs, telles que les fonctionnalités de chat, les soumissions de formulaires et les améliorations de la navigation. 
 
-- **Experience Enhancements** – Improve user experience by remembering preferences, such as language selection or customized layouts.  
+- **Améliorations de l'expérience** – Améliorez l'expérience utilisateur en mémorisant les préférences, telles que la sélection de la langue ou les mises en page personnalisées. 
 
-- **Measurements** – Analytics cookies to track website performance, user behavior, and traffic insights for optimization.  
+- **Mesures** – Cookies d'analyse pour suivre les performances du site Web, le comportement des utilisateurs et les informations sur le trafic à des fins d'optimisation. 
 
-- **Targeting & Advertising** – Cookies used for personalized marketing, ad targeting, and retargeting based on user behavior and preferences.
+- **Ciblage et publicité** – Cookies utilisés pour le marketing personnalisé, le ciblage publicitaire et le reciblage en fonction du comportement et des préférences de l'utilisateur. 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**.

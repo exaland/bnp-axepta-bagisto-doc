@@ -1,104 +1,104 @@
-# Tenant Management
+# Gestion des locataires 
 
-**Tenant Management** in the SaaS makes it easy for tenants to sign up and quickly create their online store by filling in their login, personal, and organization information.
+**La gestion des locataires** dans le SaaS permet aux locataires de s'inscrire facilement et de créer rapidement leur boutique en ligne en remplissant leurs informations de connexion, personnelles et organisationnelles. 
 
-After registration, the tenant’s storefront is set up automatically, allowing them to begin selling immediately without any technical difficulties.
+Après inscription, la vitrine du locataire s’installe automatiquement, lui permettant de commencer à vendre immédiatement sans aucune difficulté technique. 
 
-Using the **Tenant Admin Panel**, tenants can manage products, categories, attributes, customers, and more through a user-friendly interface similar to ExalandStore. Tenants can also manage orders by creating invoices, setting up shipments, and using other menu options to run their store efficiently.
+À l'aide du **Panneau d'administration des locataires**, les locataires peuvent gérer les produits, les catégories, les attributs, les clients et bien plus encore via une interface conviviale similaire à ExalandStore. Les locataires peuvent également gérer les commandes en créant des factures, en configurant les expéditions et en utilisant d'autres options de menu pour gérer efficacement leur magasin. 
 
-## Tenant Registration
+## Inscription des locataires 
 
-There are three steps to register on the SaaS:
+Il y a trois étapes pour s'inscrire sur le SaaS : 
 
-### Step 1
-The tenant must enter the **Authentication Credentials**, such as:
-- **Email**
-- **Password**
-- **Confirm Password**
+### Étape 1 
+Le locataire doit saisir les **identifiants d'authentification**, tels que : 
+- **E-mail** 
+- **Mot de passe** 
+- **Confirmer le mot de passe** 
 
-Then, click on the **Continue** button.
+Ensuite, cliquez sur le bouton **Continuer**. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/1-registration-tenant.png" alt="Tenant Registration Step 1" />
+<ImagePopup src="/images/multi-tenant-ecommerce/1-registration-tenant.png" alt="Tenant Registration Step 1" /> 
 
-### Step 2
-The tenant must enter their **Personal Details**, such as:
-- **First Name**
-- **Last Name**
-- **Phone Number**
+### Étape 2 
+Le locataire doit saisir ses **Données personnelles**, telles que : 
+- **Prénom** 
+- **Nom de famille** 
+- **Numéro de téléphone** 
 
-Then, click on **Continue**.
+Ensuite, cliquez sur **Continuer**. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/2-registration-tenant.png" alt="Tenant Registration Step 2" />
+<ImagePopup src="/images/multi-tenant-ecommerce/2-registration-tenant.png" alt="Tenant Registration Step 2" /> 
 
-### Step 3
-The tenant must enter the **Organization Details**, such as:
-- **Username**
-- **Organization Name**
+### Étape 3 
+Le locataire doit saisir les **Détails de l'organisation**, tels que : 
+- **Nom d'utilisateur** 
+- **Nom de l'organisation** 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/3-registration-tenant.png" alt="Tenant Registration Step 3" />
+<ImagePopup src="/images/multi-tenant-ecommerce/3-registration-tenant.png" alt="Tenant Registration Step 3" /> 
 
-## Tenant Storefront
+## Vitrine du locataire 
 
-After registration is complete, the tenant's online store is set up automatically. As shown in the image below, this store is where customers can browse and purchase products.
+Une fois l'inscription terminée, la boutique en ligne du locataire est automatiquement configurée. Comme le montre l'image ci-dessous, ce magasin est l'endroit où les clients peuvent parcourir et acheter des produits. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/4-tenant-store.png" alt="Tenant Storefront" />
+<ImagePopup src="/images/multi-tenant-ecommerce/4-tenant-store.png" alt="Tenant Storefront" /> 
 
-## Tenant Admin Panel
+## Panneau d'administration des locataires 
 
-After registration, tenants can access their admin panel through a unique URL (e.g., **site1.ExalandStore.com/saas-common/admin/dashboard**).
+Après l'inscription, les locataires peuvent accéder à leur panneau d'administration via une URL unique (par exemple, **site1.ExalandStore.com/saas-common/admin/dashboard**). 
 
-As shown in the image below, the panel provides a **ExalandStore-like backend** where tenants can manage their store operations.
+Comme le montre l'image ci-dessous, le panneau fournit un **backend de type ExalandStore** où les locataires peuvent gérer les opérations de leur magasin. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/5-tenant-dashboard.png" alt="Tenant Admin Dashboard" />
+<ImagePopup src="/images/multi-tenant-ecommerce/5-tenant-dashboard.png" alt="Tenant Admin Dashboard" /> 
 
-## Order Management
+## Gestion des commandes 
 
-Tenants can easily handle their orders from the admin panel, as shown in the image below.
+Les locataires peuvent facilement gérer leurs commandes depuis le panneau d'administration, comme le montre l'image ci-dessous. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/6-order.png" alt="Order Management" />
+<ImagePopup src="/images/multi-tenant-ecommerce/6-order.png" alt="Order Management" /> 
 
-This allows them to:
-- Check order details
-- Follow order status
-- Carry out actions related to their orders
+Cela leur permet de : 
+- Vérifier les détails de la commande 
+- Suivre l'état de la commande 
+- Réaliser les actions liées à leurs commandes 
 
-## Invoice Management
+## Gestion des factures 
 
-Tenants can generate invoices for their orders by selecting the **Invoice** option and clicking the **Create Invoice** button, as shown below.
+Les locataires peuvent générer des factures pour leurs commandes en sélectionnant l'option **Facture** et en cliquant sur le bouton **Créer une facture**, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/7-invoice.png" alt="Invoice Management" />
+<ImagePopup src="/images/multi-tenant-ecommerce/7-invoice.png" alt="Invoice Management" /> 
 
-## Manage Shipments
+## Gérer les expéditions 
 
-Tenants can create shipments for their orders by selecting the **Ship** option and proceeding with the **Create Shipment** button, as shown below.
+Les locataires peuvent créer des expéditions pour leurs commandes en sélectionnant l'option **Expédier** et en cliquant sur le bouton **Créer une expédition**, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/8-create-shipment.png" alt="Create Shipment" />
+<ImagePopup src="/images/multi-tenant-ecommerce/8-create-shipment.png" alt="Create Shipment" /> 
 
-## Manage Products and Catalog
+## Gérer les produits et le catalogue 
 
-Tenants can **create, edit, and delete** products for their store as needed. They can also update the product status as **Active** or **Disable** whenever required.
+Les locataires peuvent **créer, modifier et supprimer** des produits pour leur magasin selon leurs besoins. Ils peuvent également mettre à jour l'état du produit comme **Actif** ou **Désactivé** chaque fois que nécessaire. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/9-product.png" alt="Product Management" />
+<ImagePopup src="/images/multi-tenant-ecommerce/9-product.png" alt="Product Management" /> 
 
-Apart from **products**, tenants can also create and manage:
-- **Categories**
-- **Attributes**
-- **Attribute Families**
+Outre les **produits**, les locataires peuvent également créer et gérer : 
+- **Catégories** 
+- **Attributs** 
+- **Familles d'attributs** 
 
-To organize their store efficiently.
+Pour organiser leur magasin efficacement. 
 
-## Manage Profile Details
+## Gérer les détails du profil 
 
-Under the **Tenant Side Menu**, tenants can manage and change their profile details. They can modify information such as:
+Dans le **Menu latéral du locataire**, les locataires peuvent gérer et modifier les détails de leur profil. Ils peuvent modifier des informations telles que : 
 
-- **First Name and Last Name**
-- **Email Address**
-- **Skype ID**
-- **CName**
-- **Phone Number**
+- **Prénom et Nom** 
+- **Adresse e-mail** 
+- **Identifiant Skype** 
+- **NomC** 
+- **Numéro de téléphone** 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/10-tenant-profile.png" alt="Tenant Profile Details" />
+<ImagePopup src="/images/multi-tenant-ecommerce/10-tenant-profile.png" alt="Tenant Profile Details" /> 
 
-Once the details are updated, tenants can click **Save Detail** or choose **Back** to return to the previous screen.
+Une fois les détails mis à jour, les locataires peuvent cliquer sur **Enregistrer les détails** ou choisir **Retour** pour revenir à l'écran précédent. 
 
-Additionally, tenants can explore other menu options available to manage their store more effectively.
+De plus, les locataires peuvent explorer d'autres options de menu disponibles pour gérer leur magasin plus efficacement.

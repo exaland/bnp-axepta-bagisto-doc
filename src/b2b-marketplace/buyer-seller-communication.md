@@ -1,63 +1,63 @@
-# Buyer Seller Communication
+# Communication acheteur vendeur 
 
-Buyer and Seller communication in a B2B Marketplace ensures smooth and transparent interactions. Buyers can send messages, negotiate prices, and discuss product details, while sellers respond with offers, updates, and order information. It builds strong relationships while keeping both parties clear and coordinated before closing.
+La communication acheteur et vendeur sur une place de marché B2B garantit des interactions fluides et transparentes. Les acheteurs peuvent envoyer des messages, négocier les prix et discuter des détails des produits, tandis que les vendeurs répondent avec des offres, des mises à jour et des informations sur les commandes. Cela construit des relations solides tout en gardant les deux parties claires et coordonnées avant la conclusion. 
 
----
+--- 
 
-### Customer to Supplier Communication
+### Communication client-fournisseur 
 
-In B2B Marketplace, customers have two simple ways to contact suppliers:
+Dans B2B Marketplace, les clients disposent de deux manières simples de contacter les fournisseurs : 
 
-**1) From the Product Page:**
-Customers can send a direct message to the supplier right from the product page. This is useful for asking about price, stock, or product details instantly.
+**1) À partir de la page produit :** 
+Les clients peuvent envoyer un message direct au fournisseur directement depuis la page produit. Ceci est utile pour demander instantanément des informations sur le prix, le stock ou le produit. 
 
-<ImagePopup src="/images/b2b-marketplace/1-product-page-msg.png" alt="Product Page Message Button" />
+<ImagePopup src="/images/b2b-marketplace/1-product-page-msg.png" alt="Product Page Message Button" /> 
 
----
+--- 
 
-### How to Send a Message from the Product Page
+### Comment envoyer un message depuis la page produit 
 
-- **Step 1:** Open the product you are interested in.
-- **Step 2:** Click on the **“Message Supplier”** button.
-- **Step 3:** Type your message clearly in the message box.
-- **Step 4:** Click on the **Submit** button to send your message directly to the supplier.
+- **Étape 1 :** Ouvrez le produit qui vous intéresse. 
+- **Étape 2 :** Cliquez sur le bouton **« Fournisseur de messages »**. 
+- **Étape 3 :** Tapez clairement votre message dans la zone de message. 
+- **Étape 4 :** Cliquez sur le bouton **Soumettre** pour envoyer votre message directement au fournisseur. 
 
-<ImagePopup src="/images/b2b-marketplace/2-write-msg.png" alt="Write Message to Supplier" />
+<ImagePopup src="/images/b2b-marketplace/2-write-msg.png" alt="Write Message to Supplier" /> 
 
----
+--- 
 
-### From the Supplier Response Page
+### À partir de la page de réponse du fournisseur 
 
-Customers can navigate to the supplier response page, where they can view replies, continue discussions, and manage communication more effectively.
+Les clients peuvent accéder à la page de réponse du fournisseur, où ils peuvent consulter les réponses, poursuivre les discussions et gérer la communication plus efficacement. 
 
-<ImagePopup src="/images/b2b-marketplace/3-supplier-msg.png" alt="Supplier Response Page" />
+<ImagePopup src="/images/b2b-marketplace/3-supplier-msg.png" alt="Supplier Response Page" /> 
 
----
+--- 
 
-### How to Send a Message from the Supplier Response Page
+### Comment envoyer un message à partir de la page de réponse du fournisseur 
 
-- **Step 1:** Log in to your buyer account.
-- **Step 2:** Go to **Profile >> My Account >> Supplier Response**.
-- **Step 3:** Open the relevant conversation.
-- **Step 4:** Write your message clearly in the text box.
-- **Step 5:** Click **Send** to deliver the message to the supplier.
+- **Étape 1 :** Connectez-vous à votre compte acheteur. 
+- **Étape 2 :** Accédez à **Profil >> Mon compte >> Réponse du fournisseur**. 
+- **Étape 3 :** Ouvrez la conversation concernée. 
+- **Étape 4 :** Écrivez clairement votre message dans la zone de texte. 
+- **Étape 5 :** Cliquez sur **Envoyer** pour transmettre le message au fournisseur. 
 
-<ImagePopup src="/images/b2b-marketplace/4-reply-to-supplier.png" alt="Reply to Supplier" />
+<ImagePopup src="/images/b2b-marketplace/4-reply-to-supplier.png" alt="Reply to Supplier" /> 
 
----
+--- 
 
-### Supplier to Customer Communication
+### Communication fournisseur-client 
 
-In the ExalandStore B2B Marketplace, suppliers can easily communicate with customers to provide updates or respond to queries.
+Sur ExalandStore B2B Marketplace, les fournisseurs peuvent facilement communiquer avec les clients pour fournir des mises à jour ou répondre à des requêtes. 
 
----
+--- 
 
-### How to Send Messages to the Customer
+### Comment envoyer des messages au client 
 
-- **Step 1:** Log in to the supplier account.
-- **Step 2:** Go to **Messages**.
-- **Step 3:** Open the conversation you want to reply to.
-- **Step 4:** Type your response clearly in the message box.
-- **Step 5:** Click **Send** to deliver your reply to the customer.
+- **Étape 1 :** Connectez-vous au compte fournisseur. 
+- **Étape 2 :** Accédez à **Messages**. 
+- **Étape 3 :** Ouvrez la conversation à laquelle vous souhaitez répondre. 
+- **Étape 4 :** Tapez clairement votre réponse dans la zone de message. 
+- **Étape 5 :** Cliquez sur **Envoyer** pour transmettre votre réponse au client. 
 
 <ImagePopup src="/images/b2b-marketplace/5-reply-to-customer.png" alt="Reply to Customer" />

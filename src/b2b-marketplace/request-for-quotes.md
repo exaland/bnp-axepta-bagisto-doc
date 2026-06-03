@@ -1,105 +1,105 @@
-# Request for Quotes
+# Demande de devis 
 
-**Request for Quotes (RFQ)** in a B2B marketplace helps buyers ask sellers for prices before placing an order. Instead of placing an order directly, buyers can send a detailed quote request with their requirements, and sellers respond with tailored offers. This makes it easier to compare prices, negotiate, and choose the right deal.
+La **Demande de devis (RFQ)** sur une place de marché B2B aide les acheteurs à demander des prix aux vendeurs avant de passer une commande. Au lieu de passer une commande directement, les acheteurs peuvent envoyer une demande de devis détaillée avec leurs exigences, et les vendeurs répondent avec des offres sur mesure. Cela facilite la comparaison des prix, la négociation et le choix de la bonne offre. 
 
-**Note:** The RFQ feature can only be used by signed-in customers.
+**Remarque :** La fonctionnalité RFQ ne peut être utilisée que par les clients connectés. 
 
-### Create Request for Quotes
+### Créer une demande de devis 
 
-To begin using the RFQ feature, customers need to sign in to their account. Just click on the profile icon at the top right corner of the page.
+Pour commencer à utiliser la fonctionnalité RFQ, les clients doivent se connecter à leur compte. Cliquez simplement sur l'icône de profil dans le coin supérieur droit de la page. 
 
-<ImagePopup src="/images/b2b-marketplace/1-guest-sign-in.png" alt="Guest Sign In" />
+<ImagePopup src="/images/b2b-marketplace/1-guest-sign-in.png" alt="Guest Sign In" /> 
 
-Enter email and password details, then click on the **Sign In** button.
+Entrez les informations de votre e-mail et votre mot de passe, puis cliquez sur le bouton **Connexion**. 
 
-<ImagePopup src="/images/b2b-marketplace/2-customer-login.png" alt="Customer Login" />
+<ImagePopup src="/images/b2b-marketplace/2-customer-login.png" alt="Customer Login" /> 
 
-Customers can find the **‘Request for Quote’** option in the website header. Click on **‘Request for Quote’** to open the Request for Quote page.
+Les clients peuvent trouver l’option **« Demande de devis »** dans l’en-tête du site Web. Cliquez sur **'Demande de devis'** pour ouvrir la page Demande de devis. 
 
-<ImagePopup src="/images/b2b-marketplace/3-customer-profile-page.png" alt="Customer Profile Page" />
+<ImagePopup src="/images/b2b-marketplace/3-customer-profile-page.png" alt="Customer Profile Page" /> 
 
-This feature enables customers to submit their requirements and request a personalized price offer. Required details must be filled out before sending the quote.
+Cette fonctionnalité permet aux clients de soumettre leurs besoins et de demander une offre de prix personnalisée. Les détails requis doivent être remplis avant d’envoyer le devis. 
 
-### Quote Information
+### Informations sur le devis 
 
-- **Quote Title:** A short name for your request.
+- **Titre du devis :** Un nom court pour votre demande. 
 
-- **Quote Description:** A clear explanation of what you need.
+- **Description du devis :** Une explication claire de ce dont vous avez besoin. 
 
-<ImagePopup src="/images/b2b-marketplace/4-quote-info.png" alt="Quote Information" />
+<ImagePopup src="/images/b2b-marketplace/4-quote-info.png" alt="Quote Information" /> 
 
-### Contact Information
+### Coordonnées 
 
-- **Name:** Enter full name for identification.
+- **Nom :** Entrez le nom complet pour identification. 
 
-- **Company Name:** Provide the name of the organization.
+- **Nom de l'entreprise :** Indiquez le nom de l'organisation. 
 
-- **Address:** Mention the complete organization address.
+- **Adresse :** Mentionnez l'adresse complète de l'organisation. 
 
-- **Contact Number:** Add a valid phone number for communication.
+- **Numéro de contact :** Ajoutez un numéro de téléphone valide pour la communication. 
 
-- **Add Attachment:** Upload files like product specs or design references.
+- **Ajouter une pièce jointe :** Téléchargez des fichiers tels que des spécifications de produit ou des références de conception. 
 
-- **Action Category:** Select at least one Action Category.
+- **Catégorie d'action :** Sélectionnez au moins une catégorie d'action. 
 
-<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" />
+<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" /> 
 
-### Product Information
+### Informations sur le produit 
 
-To include product details in a quote, click on the **Add Product** button and fill in the required information.
+Pour inclure les détails du produit dans un devis, cliquez sur le bouton **Ajouter un produit** et remplissez les informations requises. 
 
-<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" />
- src="/images/b2b-marketplace/6-product-info.png" alt="Product Information" />
+<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" /> 
+src="/images/b2b-marketplace/6-product-info.png" alt="Informations sur le produit" /> 
 
-A pop-up window will appear where the customer can enter product details such as:
+Une fenêtre pop-up apparaîtra dans laquelle le client pourra saisir les détails du produit tels que : 
 
-- **Product Name:** Specify the product you want to request.
+- **Nom du produit :** Spécifiez le produit que vous souhaitez demander. 
 
-- **Product Description:** Add important details for the product.
+- **Description du produit :** Ajoutez des détails importants sur le produit. 
 
-- **Product Quantity:** Enter the total number of units needed.
+- **Quantité de produit :** Entrez le nombre total d'unités nécessaires. 
 
-- **Expected Price Per Quantity:** Mention the price you expect per unit.
+- **Prix attendu par quantité :** Mentionnez le prix que vous attendez par unité. 
 
-- **Is Samples:** Choose if the product needs a sample or not.
+- **Est-ce que des échantillons :** Choisissez si le produit a besoin d'un échantillon ou non. 
 
-- **Image:** Enter an image for reference.
+- **Image :** Saisissez une image pour référence. 
 
-After entering all the details, click the **Submit** button to confirm and add your product information.
+Après avoir saisi tous les détails, cliquez sur le bouton **Soumettre** pour confirmer et ajouter les informations sur votre produit. 
 
-<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" />
- src="/images/b2b-marketplace/7-popup-rfq.png" alt="Product Information Popup" />
+<ImagePopup src="/images/b2b-marketplace/5-contact-info.png" alt="Contact Information" /> 
+src="/images/b2b-marketplace/7-popup-rfq.png" alt="Popup d'informations sur le produit" /> 
 
-When all requirements are filled, go to the top right corner and click the **‘Request for Quotes’** button.
+Lorsque toutes les conditions sont remplies, allez dans le coin supérieur droit et cliquez sur le bouton ** « Demande de devis » **. 
 
-Customers are redirected to **‘My Requested Quotes’** after raising a request, where all their earlier requests are listed.
+Les clients sont redirigés vers **'Mes devis demandés'** après avoir soumis une demande, où toutes leurs demandes antérieures sont répertoriées. 
 
-<ImagePopup src="/images/b2b-marketplace/8-redirect-page.png" alt="Redirect to My Requested Quotes" />
+<ImagePopup src="/images/b2b-marketplace/8-redirect-page.png" alt="Redirect to My Requested Quotes" /> 
 
-The customer can now select a specific request they raised and view the supplier’s response. Click the **Action** icon to open the **Quote Request** page.
+Le client peut désormais sélectionner une demande spécifique qu’il a formulée et consulter la réponse du fournisseur. Cliquez sur l'icône **Action** pour ouvrir la page **Demande de devis**. 
 
-<ImagePopup src="/images/b2b-marketplace/9-supplier-responsenew.png" alt="Supplier Response" />
+<ImagePopup src="/images/b2b-marketplace/9-supplier-responsenew.png" alt="Supplier Response" /> 
 
-Customers can view details such as the **Quote Request** and the **Quote Summary** for quick reference. Customers have the option to either accept or reject a quotation after reviewing the seller’s response.
+Les clients peuvent consulter des détails tels que la **Demande de devis** et le **Résumé du devis** pour référence rapide. Les clients ont la possibilité d’accepter ou de refuser un devis après avoir examiné la réponse du vendeur. 
 
-<ImagePopup src="/images/b2b-marketplace/10-approved-last-quotes-button.png" alt="Approve Last Quote Button" />
+<ImagePopup src="/images/b2b-marketplace/10-approved-last-quotes-button.png" alt="Approve Last Quote Button" /> 
 
-Click on **“Approve Last Quote”** to confirm the quotation. Once approved, the quotation status changes to **Confirmed**. This ensures the agreed terms are locked, preventing further changes.
+Cliquez sur **« Approuver le dernier devis »** pour confirmer le devis. Une fois approuvé, le statut du devis passe à **Confirmé**. Cela garantit que les conditions convenues sont verrouillées, empêchant ainsi d’autres modifications. 
 
-<ImagePopup src="/images/b2b-marketplace/11-quotes-confirm-by-customer.png" alt="Quotes Confirmed by Customer" />
+<ImagePopup src="/images/b2b-marketplace/11-quotes-confirm-by-customer.png" alt="Quotes Confirmed by Customer" /> 
 
-### Seller Dashboard
+### Tableau de bord du vendeur 
 
-In the **Seller Dashboard**, click on **Buying Leads**. The seller will find the details of the RFQs here.
+Dans le **Tableau de bord du vendeur**, cliquez sur **Acheter des prospects**. Le vendeur trouvera les détails des demandes de prix ici. 
 
-<ImagePopup src="/images/b2b-marketplace/12-buying-leads-seller.png" alt="Buying Leads in Seller Dashboard" />
+<ImagePopup src="/images/b2b-marketplace/12-buying-leads-seller.png" alt="Buying Leads in Seller Dashboard" /> 
 
-Click the **‘Send Quotes’** button to send a quote to the customer.
+Cliquez sur le bouton **'Envoyer des devis'** pour envoyer un devis au client. 
 
-The **‘Send Quote Request’** page will open. Enter the required details, including **Quote Quantity, RFQ Quote Price per Quantity, Sample Information, and Shipping Information**, then click the **‘Send’** button.
+La page **'Envoyer une demande de devis'** s'ouvrira. Entrez les détails requis, notamment **Quantité du devis, Prix du devis par quantité, Informations sur l'échantillon et Informations d'expédition**, puis cliquez sur le bouton **'Envoyer'**. 
 
-<ImagePopup src="/images/b2b-marketplace/13-send-quote-request-to-customer.png" alt="Send Quote Request to Customer" />
+<ImagePopup src="/images/b2b-marketplace/13-send-quote-request-to-customer.png" alt="Send Quote Request to Customer" /> 
 
-After sending a quote, sellers are redirected to the **‘Request For Quote’** page, where sellers can view all details, including new, pending, answered, confirmed, and rejected.
+Après avoir envoyé un devis, les vendeurs sont redirigés vers la page **« Demande de devis »**, où les vendeurs peuvent voir tous les détails, y compris les nouveaux, les en attente, les réponses, les confirmations et les rejets. 
 
 <ImagePopup src="/images/b2b-marketplace/14-req-ans-by-seller.png" alt="Request for Quote Answers by Seller" />

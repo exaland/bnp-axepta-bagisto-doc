@@ -1,49 +1,49 @@
-# Campaigns
+# Campagnes 
 
-E-commerce marketing campaigns are designed to drive traffic and increase sales. They can help you reach many potential customers, keep existing customers engaged, and build brand loyalty.
+Les campagnes de marketing de commerce électronique sont conçues pour générer du trafic et augmenter les ventes. Ils peuvent vous aider à atteindre de nombreux clients potentiels, à fidéliser les clients existants et à fidéliser votre marque. 
 
-### Add Campaigns
+### Ajouter des campagnes 
 
-On the Admin panel, go to **Marketing >> Communications >> Campaigns** and click on **Create Campaign** as shown in the below image.
+Dans le panneau d'administration, accédez à **Marketing >> Communications >> Campagnes** et cliquez sur **Créer une campagne** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/campaign.png" alt="Campaign" />
+<ImagePopup src="/images/marketing/campaign.png" alt="Campaign" /> 
 
-### Fill in the necessary fields
+### Remplissez les champs nécessaires 
 
-**1. Name** – Add the name of the campaign.  
+**1. Nom** – Ajoutez le nom de la campagne. 
 
-**2. Subject** – Add the subject according to your requirements.  
+**2. Objet** – Ajoutez le sujet selon vos besoins. 
 
-**3. Events** – Select the event for which you want to apply the campaign. You can also add your own events here.  
+**3. Événements** – Sélectionnez l'événement pour lequel vous souhaitez appliquer la campagne. Vous pouvez également ajouter vos propres événements ici. 
 
-**4. Email Template** – Select the Email template you want to use for sending campaign emails.  
+**4. Modèle d'e-mail** – Sélectionnez le modèle d'e-mail que vous souhaitez utiliser pour envoyer des e-mails de campagne. 
 
-**5. Channel** – Select the channel.  
+**5. Chaîne** – Sélectionnez la chaîne. 
 
-**6. Customer Group** – Select the customer group to which you want to apply the campaign.  
+**6. Groupe de clients** – Sélectionnez le groupe de clients auquel vous souhaitez appliquer la campagne. 
 
-By default, there are 3 customer groups:
+Par défaut, il existe 3 groupes de clients : 
 
-1) Guest
-2) General
-3) Wholesale
+1) Invité 
+2) Général 
+3) Vente en gros 
 
-For the **General** and **Wholesale** customer groups, campaign emails will be sent to customers who have subscribed to the newsletter and are Logged IN.
+Pour les groupes de clients **Général** et **Grossiste**, les e-mails de campagne seront envoyés aux clients abonnés à la newsletter et connectés. 
 
-<ImagePopup src="/images/marketing/campaignConfigration.png" alt="Campaign Configuration" />
+<ImagePopup src="/images/marketing/campaignConfigration.png" alt="Campaign Configuration" /> 
 
-For the **Guest** customer group, emails will be sent only to those who have subscribed to the newsletter. 
+Pour le groupe de clients **Invités**, les emails seront envoyés uniquement aux personnes inscrites à la newsletter. 
 
-Customers who have registered an account will not receive the email of campaigns.
+Les clients ayant enregistré un compte ne recevront pas l'e-mail des campagnes. 
 
- <ImagePopup src="/images/marketing/guest-campaign.png" alt="Campaign Configuration" />
+ <ImagePopup src="/images/marketing/guest-campaign.png" alt="Campaign Configuration" /> 
 
-**7. Status** – Set the status to Yes/No.  
+**7. Statut** – Définissez le statut sur Oui/Non. 
 
-### Step 4
+### Étape 4 
 
-Now you will be able to see the new **Campaign** as shown below.
+Vous pourrez désormais voir la nouvelle **Campagne** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/campaignOutput.png" alt="Campaign Output" />
+<ImagePopup src="/images/marketing/campaignOutput.png" alt="Campaign Output" /> 
 
-By this, you can easily create a **Campaign** in ExalandStore.
+Grâce à cela, vous pouvez facilement créer une **Campagne** dans ExalandStore.

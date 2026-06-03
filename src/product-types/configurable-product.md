@@ -1,10 +1,10 @@
-# Configurable Product
+# Produit Configurable
 
-Configurable products are items or services that offer customers the flexibility to personalize certain attributes according to their preferences. Whether in manufacturing, e-commerce, or software, these products enable users to choose from predefined options, such as features, specifications, colors, or sizes.
+Les produits configurables sont des articles ou des services qui offrent aux clients la flexibilité de personnaliser certains attributs selon leurs préférences. Que ce soit dans la fabrication, le commerce électronique ou les logiciels, ces produits permettent aux utilisateurs de choisir parmi des options prédéfinies, telles que des fonctionnalités, des spécifications, des couleurs ou des tailles.
 
-This customization allows for a diverse range of variations without the need for creating unique products. Configurable products are designed to meet individual needs, enhancing customer satisfaction and providing a tailored experience in [ExalandStore](https://www.exaland.app/ecommerce).
+Cette personnalisation permet une large gamme de variations sans avoir besoin de créer des produits uniques. Les produits configurables sont conçus pour répondre aux besoins individuels, améliorant la satisfaction des clients et offrant une expérience adaptée dans [ExalandStore](https://www.exaland.app/ecommerce).
 
-### How to Create a Configurable Product in ExalandStore 
+### Comment Créer un Produit Configurable dans ExalandStore
 
 1. **Add Product:** Click on **Catalog >>** select **Configurable** as Product Type >> select **Family** >> enter **SKU** and then **Save the Product** as shown in the below image.
 

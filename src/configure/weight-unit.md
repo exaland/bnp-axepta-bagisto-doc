@@ -1,6 +1,6 @@
-# Weight Unit
+# Unité de poids 
 
-**1)** To add Weight Unit, go to the Admin Panel and navigate to **Configure >> General**.  
-Next, select the **Weight Unit** from the dropdown (**lbs** or **kgs**) according to your requirement and click on the **Save Configuration** button as shown below:
+**1)** Pour ajouter une unité de poids, accédez au panneau d'administration et accédez à **Configurer >> Général**. 
+Ensuite, sélectionnez l'**Unité de poids** dans la liste déroulante (**lbs** ou **kgs**) en fonction de vos besoins et cliquez sur le bouton **Enregistrer la configuration** comme indiqué ci-dessous : 
 
 <ImagePopup src="/images/configure/weight.png" alt="Weight Unit" />

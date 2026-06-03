@@ -1,25 +1,25 @@
-# Events
+# Événements 
 
-An event parameter is an additional piece of data about a user interaction on a website and/or app, offering valuable context and details about the interaction. 
+Un paramètre d'événement est une donnée supplémentaire sur une interaction utilisateur sur un site Web et/ou une application, offrant un contexte et des détails précieux sur l'interaction. 
 
-For example: Birthdays, Anniversaries, Baby Showers, etc. 
+Par exemple : anniversaires, anniversaires, baby showers, etc. 
 
-### Step 1: Add Event
+### Étape 1 : Ajouter un événement 
 
-On the Admin panel, go to **Marketing >> Communications >> Events** and click on **Create Event** as shown in the below image.
+Sur le panneau d'administration, accédez à **Marketing >> Communications >> Événements** et cliquez sur **Créer un événement** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/event.png" alt="Event" />
+<ImagePopup src="/images/marketing/event.png" alt="Event" /> 
 
-### Step 2: Enter Details
+### Étape 2 : Saisissez les détails 
 
-Now add the **Event Name, Description, Date** as shown in the below image.
+Ajoutez maintenant le **Nom de l'événement, la description et la date** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/eventName.png" alt="Event Name" />
+<ImagePopup src="/images/marketing/eventName.png" alt="Event Name" /> 
 
-### Step 3: 
+### Étape 3 : 
 
-Now you will be able to see the new **Event** as shown below.
+Vous pourrez désormais voir le nouvel **événement** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/eventOutput.png" alt="Event Output" />
+<ImagePopup src="/images/marketing/eventOutput.png" alt="Event Output" /> 
 
-By this, you can easily create an **Event** in ExalandStore.
+Grâce à cela, vous pouvez facilement créer un **Événement** dans ExalandStore.

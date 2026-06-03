@@ -1,13 +1,13 @@
-# B2B eCommerce Platform 
+# Plateforme de commerce électronique B2B
 
-[B2B eCommerce Platform](https://exaland.app/ecommerce/) is an open-source solution that adds advanced Business-to-Business features to the ExalandStore eCommerce platform. It helps companies manage corporate accounts, bulk orders, and team access with ease.
+[Plateforme de commerce électronique B2B](https://exaland.app/ecommerce/) est une solution open source qui ajoute des fonctionnalités Business-to-Business avancées à la plateforme de commerce électronique ExalandStore. Il aide les entreprises à gérer facilement les comptes d'entreprise, les commandes groupées et l'accès des équipes.
 
-It is designed to simplify B2B operations by allowing companies to register, manage users, and handle purchasing from a single dashboard.
+Il est conçu pour simplifier les opérations B2B en permettant aux entreprises de s'inscrire, de gérer les utilisateurs et de gérer les achats à partir d'un seul tableau de bord.
 
-With tools like quick order, requisition lists, and request-for-quote (RFQ), it makes the buying process faster and more organized for business customers.
+Avec des outils tels que la commande rapide, les listes de demandes et les demandes de devis (RFQ), il rend le processus d'achat plus rapide et plus organisé pour les clients professionnels.
 
-Role-based permissions let companies assign roles and control access, ensuring a secure and well-managed workflow across all users.
+Les autorisations basées sur les rôles permettent aux entreprises d'attribuer des rôles et de contrôler l'accès, garantissant ainsi un flux de travail sécurisé et bien géré pour tous les utilisateurs.
 
-The B2B Suite is ideal for wholesalers, manufacturers, and distributors looking to run a scalable, flexible, and efficient B2B online store.
+La suite B2B est idéale pour les grossistes, les fabricants et les distributeurs qui cherchent à gérer une boutique en ligne B2B évolutive, flexible et efficace.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/intro-banner.webp" alt="Super Admin Login" />

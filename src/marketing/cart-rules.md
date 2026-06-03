@@ -1,102 +1,102 @@
-# Cart Rules
+# Règles du panier 
 
-It is human nature that everyone is attracted to offers, sales, and discounts while shopping. A Cart Rule is applied to the product in the shopping cart. Here we will discuss how to set cart rules in ExalandStore.
+Il est dans la nature humaine que chacun soit attiré par les offres, les soldes et les remises lors de ses achats. Une règle de panier est appliquée au produit dans le panier. Nous verrons ici comment définir les règles de panier dans ExalandStore. 
 
-By using it, you can set one or multiple discounts on the same product. Follow the below steps to learn **how to set cart rules in ExalandStore**.
+En l'utilisant, vous pouvez définir une ou plusieurs remises sur le même produit. Suivez les étapes ci-dessous pour savoir **comment définir les règles de panier dans ExalandStore**. 
 
-### Step 1: Add New Cart Rule
+### Étape 1 : Ajouter une nouvelle règle de panier 
 
-1. In the Admin Panel, go to **Marketing >> Promotions >> Cart Rules**.  
-   Click on **Create Cart Rule** as shown in the image below.
+1. Dans le panneau d'administration, accédez à **Marketing >> Promotions >> Règles du panier**. 
+Cliquez sur **Créer une règle de panier** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/createCartrule.png" alt="Create Cart Rule" />
+<ImagePopup src="/images/marketing/createCartrule.png" alt="Create Cart Rule" /> 
 
-### Rule Information Section
+### Section d'informations sur les règles 
 
-1. **Name:** Enter the name of the new cart rule (only for internal reference).
+1. **Nom :** Saisissez le nom de la nouvelle règle de panier (uniquement pour référence interne). 
 
-2. **Description:** Enter a description of the rule (only for internal reference). 
+2. **Description :** saisissez une description de la règle (uniquement pour référence interne). 
 
-3. **Status:** Set the status of the cart rule as Active.  
+3. **Statut :** Définissez le statut de la règle de panier sur Active. 
 
-4. **Channels:** Select the channel on which this cart rule will be applied. 
+4. **Canaux :** Sélectionnez le canal sur lequel cette règle de panier sera appliquée. 
 
-5. **Customer Group:** Select the customer group on which this cart rule will be applied.  
+5. **Groupe de clients :** Sélectionnez le groupe de clients sur lequel cette règle de panier sera appliquée. 
 
-6. **Coupon Type:** Select coupon type with or without a coupon. If you want the cart rule to apply to all carts, set it to **No Coupon**.
+6. **Type de coupon :** Sélectionnez le type de coupon avec ou sans coupon. Si vous souhaitez que la règle du panier s'applique à tous les paniers, définissez-la sur **Aucun coupon**. 
 
-**If you want to use a coupon, select Specific Coupon and fill in the following fields:**
+**Si vous souhaitez utiliser un coupon, sélectionnez Coupon spécifique et remplissez les champs suivants :** 
 
-1. **Auto Generate Coupon:** Set Yes/No. If Yes, the system generates the coupon automatically. If No, enter the coupon manually.  
+1. **Génération automatique du coupon :** Définissez Oui/Non. Si oui, le système génère automatiquement le coupon. Si non, saisissez le coupon manuellement. 
 
-2. **Coupon Code:** Enter the coupon code that customers will use during checkout.  
+2. **Code promo :** Saisissez le code promo que les clients utiliseront lors du paiement. 
 
-3. **Uses Per Coupon:** Define how many times the coupon can be used. Leave blank for unlimited.  
+3. **Utilisations par coupon :** Définissez combien de fois le coupon peut être utilisé. Laissez vide pour illimité. 
 
-4. **Uses Per Customer:** Define how many times the same customer can use the cart rule. Leave blank for unlimited.  
+4. **Utilisations par client :** Définissez combien de fois le même client peut utiliser la règle de panier. Laissez vide pour illimité. 
 
-5. **From and To Dates:** Set the date range when the cart rule will be active. If left blank, the rule applies as soon as it is saved.  
+5. **Dates de début et de fin :** Définissez la plage de dates pendant laquelle la règle de panier sera active. Si elle est laissée vide, la règle s'applique dès sa sauvegarde. 
 
-6. **Priority:** Enter the priority of this rule.  
+6. **Priorité :** Saisissez la priorité de cette règle. 
 
-**Note:** Priority is important when products meet the condition set for more than one cart rule. The highest priority is 0. So when multiple conditions are met, the rule with the highest priority will be applied first.
+**Remarque :** La priorité est importante lorsque les produits remplissent les conditions définies pour plusieurs règles de panier. La priorité la plus élevée est 0. Ainsi, lorsque plusieurs conditions sont remplies, la règle ayant la priorité la plus élevée sera appliquée en premier. 
 
-<ImagePopup src="/images/marketing/configurations.png" alt="Cart Rule Configurations" />
+<ImagePopup src="/images/marketing/configurations.png" alt="Cart Rule Configurations" /> 
 
-### Step 2: Set Conditions
+### Étape 2 : Définir les conditions 
 
-Conditions in cart rules are based on cart attributes, cart item attributes, and product attributes.  
+Les conditions des règles de panier sont basées sur les attributs du panier, les attributs des articles du panier et les attributs du produit. 
 
-If you want to apply the rule on all products, don’t set any condition.  
+Si vous souhaitez appliquer la règle à tous les produits, ne posez aucune condition. 
 
-You can set the condition type to **all conditions are true** or **any condition is true**.
+Vous pouvez définir le type de condition sur **toutes les conditions sont vraies** ou **n'importe quelle condition est vraie**. 
 
-<ImagePopup src="/images/marketing/condition.png" alt="Set Cart Rule Conditions" />
+<ImagePopup src="/images/marketing/condition.png" alt="Set Cart Rule Conditions" /> 
 
-Click on **Add Condition** to set conditions. Under the list of product attributes, select the attribute you want to use for the condition.
+Cliquez sur **Ajouter une condition** pour définir les conditions. Sous la liste des attributs du produit, sélectionnez l'attribut que vous souhaitez utiliser pour la condition. 
 
-<ImagePopup src="/images/marketing/attributeCondition.png" alt="Attribute Condition" />
+<ImagePopup src="/images/marketing/attributeCondition.png" alt="Attribute Condition" /> 
 
-For example, if you select **Categories**, you have to choose between *contains/does not contain* and then select the category.  
+Par exemple, si vous sélectionnez **Catégories**, vous devez choisir entre *contient/ne contient pas* puis sélectionner la catégorie. 
 
-To delete any condition, click on the **Delete icon**.
+Pour supprimer une condition, cliquez sur l'**icône Supprimer**. 
 
-### Step 3: Set the Actions
+### Étape 3 : Définir les actions 
 
-In the Actions section, define how the rule will apply to products.
+Dans la section Actions, définissez comment la règle s'appliquera aux produits. 
 
-1. **Action Type:** Apply discount on a percentage basis or a fixed amount basis. 
+1. **Type d'action :** Appliquez une remise sur une base de pourcentage ou de montant fixe. 
 
-2. **Discount Amount:** Enter the discount amount.  
+2. **Montant de la remise :** Saisissez le montant de la remise. 
 
-3. **End Other Rules:** Set Yes to stop applying other rules after this one is applied. Useful for multiple discounts.  
+3. **Fin des autres règles :** Définissez Oui pour arrêter d'appliquer les autres règles une fois celle-ci appliquée. Utile pour plusieurs réductions. 
 
-4. **Apply to Shipping:** Set Yes/No depending on whether you want to apply the discount to shipping.  
+4. **Appliquer à l'expédition :** Définissez Oui/Non selon que vous souhaitez ou non appliquer la réduction à l'expédition. 
 
-5. **Buy X Quantity:** Enter the number of quantities required.  
+5. **Acheter X quantité :** Entrez le nombre de quantités requises. 
 
-6. **Free Shipping:** Set Yes/No depending on whether you want to allow free shipping.  
+6. **Livraison gratuite :** Définissez Oui/Non selon que vous souhaitez ou non autoriser la livraison gratuite. 
 
-7. **Maximum Quantity Allowed to be Discounted:** Enter the maximum quantity eligible for discount.  
+7. **Quantité maximale autorisée à bénéficier d'une réduction :** Entrez la quantité maximale éligible à la réduction. 
 
-After configuring, click on the **Save Cart Rule** button.  
+Après la configuration, cliquez sur le bouton **Enregistrer la règle du panier**. 
 
-Now copy the **Coupon Code** as shown below.
+Copiez maintenant le **Code promo** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/couponCode.png" alt="Coupon Code Example" />
+<ImagePopup src="/images/marketing/couponCode.png" alt="Coupon Code Example" /> 
 
-### Frontend
+### Front-end 
 
-On the **Checkout Page**, while placing an order, click on **Apply Coupon** as shown below.
+Sur la **Page de paiement**, lorsque vous passez une commande, cliquez sur **Appliquer le coupon** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/checkoutPage.png" alt="Checkout Page Coupon" />
+<ImagePopup src="/images/marketing/checkoutPage.png" alt="Checkout Page Coupon" /> 
 
-After entering the coupon code, click on the **Apply** button.
+Après avoir entré le code promo, cliquez sur le bouton **Appliquer**. 
 
-<ImagePopup src="/images/marketing/applyCoupon.png" alt="Apply Coupon" />
+<ImagePopup src="/images/marketing/applyCoupon.png" alt="Apply Coupon" /> 
 
-Now the **Coupon** is applied successfully.
+Le **Coupon** est désormais appliqué avec succès. 
 
-<ImagePopup src="/images/marketing/couponApplied.png" alt="Coupon Applied Successfully" />
+<ImagePopup src="/images/marketing/couponApplied.png" alt="Coupon Applied Successfully" /> 
 
-By following the above steps, you can easily create **Cart Rules** in ExalandStore.
+En suivant les étapes ci-dessus, vous pouvez facilement créer des **Règles de panier** dans ExalandStore.

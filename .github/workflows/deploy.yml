@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - monostore
+      - french
 jobs:
   publish-docs:
     runs-on: ubuntu-latest

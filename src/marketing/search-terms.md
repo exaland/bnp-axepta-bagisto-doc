@@ -1,37 +1,37 @@
-# Search Terms
+# Termes de recherche 
 
-Search Terms are the keywords that customers use on your storefront to search for products.
+Les termes de recherche sont les mots-clés que les clients utilisent sur votre vitrine pour rechercher des produits. 
 
-### Step 1: Create Search Term
+### Étape 1 : Créer un terme de recherche 
 
-On the Admin panel, go to **Marketing >> Search & SEO >> Search Terms** and click on the **Create Search Term** button as shown in the below image.
+Dans le panneau d'administration, accédez à **Marketing >> Recherche et référencement >> Termes de recherche** et cliquez sur le bouton **Créer un terme de recherche** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/marketing/searchTerm.png" alt="Search Term" />
+<ImagePopup src="/images/marketing/searchTerm.png" alt="Search Term" /> 
 
-### Step 2: Add Search Term Details
+### Étape 2 : Ajouter les détails du terme de recherche 
 
-Fill in the following fields:
+Remplissez les champs suivants : 
 
-- **Search Query** – Enter the product name or keyword that a customer will search from the storefront.
+- **Requête de recherche** – Saisissez le nom du produit ou le mot-clé qu'un client recherchera dans la vitrine. 
 
-- **Redirect URL** – Add the URL that the search term will redirect to.  
+- **URL de redirection** – Ajoutez l'URL vers laquelle le terme de recherche sera redirigé. 
 
-- **Channel** – Select the channel where the Search Term will be visible. 
- 
-- **Locale** – Select the language in which you want the Search Term.  
+- **Chaîne** – Sélectionnez la chaîne sur laquelle le terme de recherche sera visible. 
 
-Now click on the **Save Search Term** button.
+- **Locale** – Sélectionnez la langue dans laquelle vous souhaitez le terme de recherche. 
 
-<ImagePopup src="/images/marketing/searchField.png" alt="Search Field" />
+Cliquez maintenant sur le bouton **Enregistrer le terme de recherche**. 
 
-### Step 3: Verify Search Term
+<ImagePopup src="/images/marketing/searchField.png" alt="Search Field" /> 
 
-A new search term (for example, **Adorable**) is created successfully as shown below.
+### Étape 3 : Vérifier le terme de recherche 
 
-<ImagePopup src="/images/marketing/searchGrids.png" alt="Search Grid" />
+Un nouveau terme de recherche (par exemple, **Adorable**) est créé avec succès, comme indiqué ci-dessous. 
 
-### Step 4: Frontend Check
+<ImagePopup src="/images/marketing/searchGrids.png" alt="Search Grid" /> 
 
-Now test the result by searching your search term on the storefront.
+### Étape 4 : Vérification du frontend 
+
+Testez maintenant le résultat en recherchant votre terme de recherche sur la vitrine. 
 
 <ImagePopup src="/images/marketing/frontendOutput.png" alt="Frontend Output" />

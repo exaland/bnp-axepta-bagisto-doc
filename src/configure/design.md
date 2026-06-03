@@ -1,53 +1,53 @@
-# Design
+# Conception 
 
-**Admin Logo & Favicon Configuration**
+**Logo d'administrateur et configuration de favicon** 
 
-The **Admin Logo** is a distinctive image or emblem representing the administration interface of a system or website. It is often customizable to match your brand identity. Similarly, the **Favicon** is the small icon displayed in browser tabs, helping users visually identify your site.
+Le **Logo Admin** est une image ou un emblème distinctif représentant l'interface d'administration d'un système ou d'un site Web. Il est souvent personnalisable pour correspondre à votre identité de marque. De même, le **Favicon** est la petite icône affichée dans les onglets du navigateur, aidant les utilisateurs à identifier visuellement votre site. 
 
-**Steps to Update Admin Logo & Favicon**
+**Étapes pour mettre à jour le logo de l'administrateur et le favicon** 
 
-To update the **Admin Logo** and **Favicon** in ExalandStore:
+Pour mettre à jour le **Logo d'administration** et le **Favicon** dans ExalandStore : 
 
-1. Go to the **Admin Panel**.
-2. Navigate to **Configure → Design**.
-3. Under the **Design** section, you will find options to upload a new **Admin Logo** and **Favicon**.
-4. Click on the **Choose Files** button to select the desired image files from your system.
-5. Once selected, click the **Save Configuration** button to apply the changes.
+1. Accédez au **Panneau d'administration**. 
+2. Accédez à **Configurer → Conception**. 
+3. Dans la section **Conception**, vous trouverez des options pour télécharger un nouveau **Logo d'administration** et un **Favicon**. 
+4. Cliquez sur le bouton **Choisir les fichiers** pour sélectionner les fichiers image souhaités sur votre système. 
+5. Une fois sélectionné, cliquez sur le bouton **Enregistrer la configuration** pour appliquer les modifications. 
 
-**Design Configuration Interface**
+**Interface de configuration de conception** 
 
-<ImagePopup src="/images/configure/design.png" alt="Design Configuration" />
+<ImagePopup src="/images/configure/design.png" alt="Design Configuration" /> 
 
-**Updated Logo & Favicon Output**
+**Logo et sortie Favicon mis à jour** 
 
-After saving the configuration, the new **Admin Logo** and **Favicon** will be visible in the admin panel interface.
+Après avoir enregistré la configuration, les nouveaux **Logo d'administration** et **Favicon** seront visibles dans l'interface du panneau d'administration. 
 
-**Logo**
-<ImagePopup src="/images/configure/designOutput.png" alt="Updated Admin Logo" />
+**Logo** 
+<ImagePopup src="/images/configure/designOutput.png" alt="Updated Admin Logo" /> 
 
-**Favicon**
-<ImagePopup src="/images/configure/designOutput2.png" alt="Updated Favicon" />
+** Icône de favori ** 
+<ImagePopup src="/images/configure/designOutput2.png" alt="Updated Favicon" /> 
 
-**Menu Category View**
+**Vue des catégories de menu** 
 
-ExalandStore v2.3.x introduced a new option to configure how product categories are displayed in the storefront menu.
+ExalandStore v2.3.x a introduit une nouvelle option pour configurer la façon dont les catégories de produits sont affichées dans le menu de la vitrine. 
 
-You can now choose between:
+Vous pouvez désormais choisir entre : 
 
-- **Default Menu**: Displays categories in the top navigation bar.
-- **Sidebar Menu**: Displays categories in a vertical side panel, ideal for stores with many categories or subcategories.
+- **Menu par défaut** : affiche les catégories dans la barre de navigation supérieure. 
+- **Menu de la barre latérale** : affiche les catégories dans un panneau latéral vertical, idéal pour les magasins comportant de nombreuses catégories ou sous-catégories. 
 
-### To update the Menu Category View:
+### Pour mettre à jour la vue des catégories de menu : 
 
-1. Navigate to **Admin Panel → Configure → Design**.
-2. Scroll down to the **Header Settings** section.
-3. Under **Category Menu View**, select:
-   - `Default Menu` or
-   - `Sidebar Menu` from the dropdown.
-4. Click **Save Configuration**.
+1. Accédez à **Panneau d'administration → Configurer → Conception**. 
+2. Faites défiler jusqu'à la section **Paramètres d'en-tête**. 
+3. Sous **Affichage du menu Catégorie**, sélectionnez : 
+- `Menu par défaut` ou 
+- `Menu de la barre latérale` dans la liste déroulante. 
+4. Cliquez sur **Enregistrer la configuration**. 
 
-<ImagePopup src="/images/configure/catAdmin.png" alt="Menu Category View Setting" />
+<ImagePopup src="/images/configure/catAdmin.png" alt="Menu Category View Setting" /> 
 
-**Shopfront view**
+**Vue de la vitrine** 
 
 <ImagePopup src="/images/configure/catSide.png" alt="Shopfront Menu Category View" />

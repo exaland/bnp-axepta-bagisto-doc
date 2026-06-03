@@ -1,113 +1,113 @@
-# Super Admin Management
+# Gestion des super-administrateurs 
 
-The **Super Admin** position is the top authority in the SaaS mall, in charge of overseeing tenants, staff, and the entire platform's operations.
+Le poste de **Super Admin** est la principale autorité du centre commercial SaaS, chargée de superviser les locataires, le personnel et l'ensemble des opérations de la plateforme. 
 
-This role includes:
-- Managing merchants (tenants)
-- Assigning roles to staff (agents)
-- Ensuring smooth system operations
+Ce rôle comprend : 
+- Gestion des commerçants (locataires) 
+- Attribution des rôles au personnel (agents) 
+- Assurer le bon fonctionnement du système 
 
-Super Admins set up product visibility, manage channels, and design themes to maintain a consistent look and branding for all tenant stores. They also handle CMS pages, send email broadcasts, and manage global settings to ensure clear communication and proper governance of the platform.
+Les super administrateurs configurent la visibilité des produits, gèrent les canaux et conçoivent des thèmes pour maintenir une apparence et une image de marque cohérentes pour tous les magasins locataires. Ils gèrent également les pages CMS, envoient des diffusions par e-mail et gèrent les paramètres globaux pour garantir une communication claire et une bonne gouvernance de la plateforme. 
 
 
-## Access the Super Admin Panel
+## Accédez au panneau de super-administrateur 
 
-### Steps to Sign In
+### Étapes pour vous connecter 
 
-1. Visit the registration page and click the **Super Admin Login** button located in the top right corner.
+1. Visitez la page d'inscription et cliquez sur le bouton **Connexion Super Admin** situé dans le coin supérieur droit. 
 
-2. Enter your registered **Email Address and Password**, then click **Sign In** to access the panel.
+2. Saisissez votre **adresse e-mail et votre mot de passe** enregistrés, puis cliquez sur **Connexion** pour accéder au panneau. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/1-super-login.png" alt="Super Admin Login" />
+<ImagePopup src="/images/multi-tenant-ecommerce/1-super-login.png" alt="Super Admin Login" /> 
 
-After successfully signing in, the **Super Admin Dashboard** will open, as shown below. The Super Admin can view all the tenants registered on their SaaS panel.
+Une fois connecté avec succès, le **Tableau de bord Super Admin** s'ouvrira, comme indiqué ci-dessous. Le super administrateur peut voir tous les locataires enregistrés sur son panel SaaS. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/2-super-dashboard.png" alt="Super Admin Dashboard" />
+<ImagePopup src="/images/multi-tenant-ecommerce/2-super-dashboard.png" alt="Super Admin Dashboard" /> 
 
-Here, you can browse through the list of tenants and use options to **search, filter, and paginate** for easy access.
+Ici, vous pouvez parcourir la liste des locataires et utiliser les options pour **rechercher, filtrer et paginer** pour un accès facile. 
 
-Additionally, the **Super Admin** can register a new tenant directly from the Super Admin panel by clicking the **Register Tenant** button in the top right-hand corner.
+De plus, le **Super administrateur** peut enregistrer un nouveau locataire directement à partir du panneau Super administrateur en cliquant sur le bouton **Enregistrer le locataire** dans le coin supérieur droit. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/3-super-create-tenant.png" alt="Super Admin Create Tenant" />
+<ImagePopup src="/images/multi-tenant-ecommerce/3-super-create-tenant.png" alt="Super Admin Create Tenant" /> 
 
-### Enter the Following Super Admin Details
+### Entrez les détails suivants du super-administrateur 
 
-- **First Name:** Enter the first name.
+- **Prénom :** Saisissez le prénom. 
 
-- **Last Name:** Enter the last name.
+- **Nom :** Saisissez le nom de famille. 
 
-- **Phone:** Provide the phone number.
+- **Téléphone :** Indiquez le numéro de téléphone. 
 
-- **User Name:** Enter the username.
+- **Nom d'utilisateur :** Saisissez le nom d'utilisateur. 
 
-- **Organization Name:** Mention the organization name.
+- **Nom de l'organisation :** Mentionnez le nom de l'organisation. 
 
-- **Email Address:** Provide the email.
+- **Adresse e-mail :** Fournissez l'e-mail. 
 
-- **Password:** Provide the password.
+- **Mot de passe :** Indiquez le mot de passe. 
 
-- **Confirm Password:** Confirm the password.
+- **Confirmer le mot de passe :** Confirmez le mot de passe. 
 
-- **Profile Image:** Add the profile image.
+- **Image de profil :** Ajoutez l'image de profil. 
 
-Finally, click the **Save Tenant** button to save the new tenant.
+Enfin, cliquez sur le bouton **Enregistrer le locataire** pour enregistrer le nouveau locataire. 
 
-## Tenant Insights
+## Informations sur les locataires 
 
-To view all the details about a tenant, navigate to **Tenants → Tenants** and click on the **View** icon.
+Pour afficher tous les détails d'un locataire, accédez à **Locataires → Locataires** et cliquez sur l'icône **Afficher**. 
 
-Under the **Tenant Insights**, the Super Admin can see all the information about the tenant's store, as shown in the image below:
+Sous **Tenant Insights**, le super-administrateur peut voir toutes les informations sur la boutique du locataire, comme le montre l'image ci-dessous : 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/4-Super-tenant-Insights.png" alt="Super Admin Tenant Insights" />
+<ImagePopup src="/images/multi-tenant-ecommerce/4-Super-tenant-Insights.png" alt="Super Admin Tenant Insights" /> 
 
-### Tenant Insights Information
+### Informations sur les locataires 
 
-- **Domain Information:** Details of the tenant.
+- **Informations sur le domaine :** Détails du locataire. 
 
-- **Attribute Information:** Number of attributes of the tenant.
+- **Informations sur les attributs :** Nombre d'attributs du locataire. 
 
-- **Attribute Family Information:** Number of attribute families of the company.
+- **Informations sur la famille d'attributs :** Nombre de familles d'attributs de l'entreprise. 
 
-- **Product Information:** Number of products available from that company.
+- **Informations sur le produit :** Nombre de produits disponibles auprès de cette société. 
 
-- **Category Information:** Number of categories available to that company.
+- **Informations sur la catégorie :** Nombre de catégories disponibles pour cette entreprise. 
 
-- **Customer Information:** Number of customers available.
+- **Informations client :** Nombre de clients disponibles. 
 
-- **Customer Group Information:** Number of customer groups of the tenant.
+- **Informations sur le groupe de clients :** Nombre de groupes de clients du locataire. 
 
-**Note:** The Super Admin can only **view** tenant insights and cannot delete, update, or edit any of the information shown here.
+**Remarque :** Le super administrateur peut uniquement **afficher** les informations sur les locataires et ne peut pas supprimer, mettre à jour ou modifier les informations affichées ici. 
 
-## Edit Tenant Details
+## Modifier les détails du locataire 
 
-The **Super Admin** can edit tenant details such as name, contact info, or organization, as shown below:
+Le **Super administrateur** peut modifier les détails du locataire, tels que son nom, ses coordonnées ou son organisation, comme indiqué ci-dessous : 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/5-super-edit-tenant.png" alt="Super Admin Edit Tenant" />
+<ImagePopup src="/images/multi-tenant-ecommerce/5-super-edit-tenant.png" alt="Super Admin Edit Tenant" /> 
 
-However, the **Super Admin** also has the ability to **delete** a tenant if needed by clicking the **Delete** button for that tenant.
+Cependant, le **Super administrateur** a également la possibilité de **supprimer** un locataire si nécessaire en cliquant sur le bouton **Supprimer** de ce locataire. 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/6-super-delete-tenant.png" alt="Super Admin Delete Tenant" />
+<ImagePopup src="/images/multi-tenant-ecommerce/6-super-delete-tenant.png" alt="Super Admin Delete Tenant" /> 
 
-## Tenant’s Customer
+## Client du locataire 
 
-By navigating to **Tenants → Customers**, the Super Admin can view all the customer lists of their tenants, as shown in the image below:
+En accédant à **Locataires → Clients**, le super-administrateur peut afficher toutes les listes de clients de ses locataires, comme indiqué dans l'image ci-dessous : 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/7-super-customer-list.png" alt="Super Admin Customer List" />
+<ImagePopup src="/images/multi-tenant-ecommerce/7-super-customer-list.png" alt="Super Admin Customer List" /> 
 
-**Note:** The Super Admin can only **view** the customer list and cannot delete, update, or edit any customer details.
+**Remarque :** Le super-administrateur peut uniquement **afficher** la liste des clients et ne peut pas supprimer, mettre à jour ou modifier les détails du client. 
 
-## Tenant’s Products
+## Produits du locataire 
 
-By navigating to **Tenants → Products**, the Super Admin can view all the product lists of their tenants, as shown in the image below:
+En accédant à **Locataires → Produits**, le super-administrateur peut afficher toutes les listes de produits de ses locataires, comme indiqué dans l'image ci-dessous : 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/8-super-product-list.png" alt="Super Admin Product List" />
+<ImagePopup src="/images/multi-tenant-ecommerce/8-super-product-list.png" alt="Super Admin Product List" /> 
 
-**Note:** The Super Admin can only **view** the product list and cannot delete, update, or edit any product details.
+**Remarque :** Le super administrateur peut uniquement **afficher** la liste des produits et ne peut pas supprimer, mettre à jour ou modifier les détails du produit. 
 
-## Tenant’s Orders
+## Commandes du locataire 
 
-By navigating to **Tenants → Orders**, the Super Admin can view all the orders of their tenants, as shown in the image below:
+En accédant à **Locataires → Commandes**, le super-administrateur peut afficher toutes les commandes de ses locataires, comme le montre l'image ci-dessous : 
 
-<ImagePopup src="/images/multi-tenant-ecommerce/9-super-order-list.png" alt="Super Admin Order List" />
+<ImagePopup src="/images/multi-tenant-ecommerce/9-super-order-list.png" alt="Super Admin Order List" /> 
 
-**Note:** The Super Admin can only **view** the orders list and cannot delete, update, or edit any order details.
+**Remarque :** Le super administrateur peut uniquement **afficher** la liste des commandes et ne peut pas supprimer, mettre à jour ou modifier les détails de la commande.

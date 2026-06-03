@@ -1,11 +1,11 @@
-# Cart View Page
+# Page d'affichage du panier 
 
-Cart view page configuration involves arranging items, details, and options on the shopping cart page, improving user interaction and purchase flow.
+La configuration de la page d'affichage du panier implique d'organiser les articles, les détails et les options sur la page du panier, améliorant ainsi l'interaction des utilisateurs et le flux d'achat. 
 
-To add, go to Admin Panel and click on **Configure >> Products**.
+Pour ajouter, accédez au panneau d'administration et cliquez sur **Configurer >> Produits**. 
 
-Here you can manage several cross-selling products that will be visible on the front end.
+Ici, vous pouvez gérer plusieurs produits de vente croisée qui seront visibles sur le front-end. 
 
-<ImagePopup src="/images/configure/cartpageConfiguration.png" alt="Cart Configuration" />
+<ImagePopup src="/images/configure/cartpageConfiguration.png" alt="Cart Configuration" /> 
 
-After that, click on the **Save Configuration** button.
+Après cela, cliquez sur le bouton **Enregistrer la configuration**.

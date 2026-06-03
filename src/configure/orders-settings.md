@@ -1,32 +1,32 @@
-# Order Settings
+# Paramètres de commande 
 
-To configure order settings, go to the Admin Panel and navigate to **Configure >> Order Settings**.
+Pour configurer les paramètres de commande, accédez au panneau d'administration et accédez à **Configurer >> Paramètres de commande**. 
 
-**Order Number Settings:**  
-These settings determine how order numbers are generated, formatted, and managed within the system. They are crucial for organizing and tracking orders efficiently.
+**Paramètres du numéro de commande :** 
+Ces paramètres déterminent la manière dont les numéros de commande sont générés, formatés et gérés dans le système. Ils sont essentiels pour organiser et suivre efficacement les commandes. 
 
-**Minimum Order Settings:**  
-Configured criteria specifying the lowest required quantity or value for an order to be processed or qualify for benefits.
+**Paramètres de commande minimum :** 
+Critères configurés spécifiant la quantité ou la valeur requise la plus basse pour qu'une commande soit traitée ou puisse bénéficier d'avantages. 
 
-You can also add new configuration options in the Order section, including **Include Discount Amount**, **Include Tax to Amount**, and **Description** on the cart page.
+Vous pouvez également ajouter de nouvelles options de configuration dans la section Commande, notamment **Inclure le montant de la remise**, **Inclure la taxe sur le montant** et **Description** sur la page du panier. 
 
-<ImagePopup src="/images/configure/orderSettings.png" alt="Order Settings" />
+<ImagePopup src="/images/configure/orderSettings.png" alt="Order Settings" /> 
 
-**Allow Reorder:**  
-Enable or disable the reordering feature for admin users.
+**Autoriser la réorganisation :** 
+Activez ou désactivez la fonctionnalité de réorganisation pour les utilisateurs administrateurs. 
 
-<ImagePopup src="/images/configure/allowReorder.png" alt="Allow Reorder" />
+<ImagePopup src="/images/configure/allowReorder.png" alt="Allow Reorder" /> 
 
-After making changes, click the **Save Configuration** button.
+Après avoir apporté des modifications, cliquez sur le bouton **Enregistrer la configuration**. 
 
-## Admin Reorder
+## Réorganisation de l'administrateur 
 
-To check admin reorder functionality, go to **Sales >> Orders**. Open any order showing a pending status to see the **Reorder** option on the admin side.
+Pour vérifier la fonctionnalité de réapprovisionnement de l'administrateur, accédez à **Ventes >> Commandes**. Ouvrez n'importe quelle commande affichant un statut en attente pour voir l'option **Réorganiser** du côté administrateur. 
 
-<ImagePopup src="/images/configure/adminReorder.png" alt="Admin Reorder" />
+<ImagePopup src="/images/configure/adminReorder.png" alt="Admin Reorder" /> 
 
-## Frontend Reorder
+## Réorganisation du frontend 
 
-After completing your order, navigate to **My Account >> Orders**. The **Reorder** button will appear at the top right corner of the order list.
+Après avoir terminé votre commande, accédez à **Mon compte >> Commandes**. Le bouton **Réorganiser** apparaîtra dans le coin supérieur droit de la liste de commandes. 
 
 <ImagePopup src="/images/configure/frontreorder.png" alt="Frontend Reorder" />

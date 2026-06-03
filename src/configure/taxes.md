@@ -1,60 +1,60 @@
-# Taxes
+# Impôts 
 
-**A) Tax Categories**  
-Tax categories are classifications for different types of taxes, such as sales tax, value-added tax, or excise tax, used to categorize and apply tax rates to products or services.
+**A) Catégories de taxes** 
+Les catégories de taxes sont des classifications de différents types de taxes, telles que la taxe de vente, la taxe sur la valeur ajoutée ou la taxe d'accise, utilisées pour catégoriser et appliquer des taux de taxe aux produits ou services. 
 
-To configure, go to the Admin Panel and click on **Configure >> Taxes**.
+Pour configurer, allez dans le panneau d'administration et cliquez sur **Configurer >> Taxes**. 
 
-**B) Calculation Settings**  
-Calculation settings define how product pricing and taxes are applied.
+**B) Paramètres de calcul** 
+Les paramètres de calcul définissent la manière dont les prix et les taxes des produits sont appliqués. 
 
-### Calculation Based On
-By default, there are 3 options for calculations: Shipping Address, Billing Address, Shipping Origin.
+### Calcul basé sur 
+Par défaut, il existe 3 options de calcul : Adresse de livraison, Adresse de facturation, Origine de livraison. 
 
-**A) Shipping Address**  
-A shipping address is the location where goods are sent for delivery, including recipient name, street, city, state, postal/ZIP code, etc.
+**A) Adresse de livraison** 
+Une adresse de livraison est l'endroit où les marchandises sont envoyées pour livraison, y compris le nom du destinataire, la rue, la ville, l'état, le code postal, etc. 
 
-**B) Billing Address**  
-A billing address is linked to the payment method and is used for verification.
+**B) Adresse de facturation** 
+Une adresse de facturation est liée au mode de paiement et est utilisée à des fins de vérification. 
 
-**C) Shipping Origin**  
-Shipping origin refers to the location from which products are dispatched.  
-This information is important for shipment tracking, calculating shipping costs, and estimating delivery times.
+**C) Origine de l'expédition** 
+L’origine de l’expédition fait référence au lieu à partir duquel les produits sont expédiés. 
+Ces informations sont importantes pour le suivi des expéditions, le calcul des frais d'expédition et l'estimation des délais de livraison. 
 
-<ImagePopup src="/images/configure/shipping.png" alt="Shipping Origin" />
+<ImagePopup src="/images/configure/shipping.png" alt="Shipping Origin" /> 
 
-### Product Pricing
-You can select how taxes are included in product pricing:
+### Prix des produits 
+Vous pouvez sélectionner la manière dont les taxes sont incluses dans le prix des produits : 
 
-**A) Excluding Tax**  
-No taxes are included in the product price.  
+**A) Hors Taxe** 
+Aucune taxe n'est incluse dans le prix du produit. 
 
-<ImagePopup src="/images/configure/excludeTax.png" alt="Exclude Tax" />
+<ImagePopup src="/images/configure/excludeTax.png" alt="Exclude Tax" /> 
 
-**B) Including Tax**  
-Taxes are already included in the product price.  
+**B) TTC** 
+Les taxes sont déjà incluses dans le prix du produit. 
 
-<ImagePopup src="/images/configure/includeTax.png" alt="Include Tax" />
+<ImagePopup src="/images/configure/includeTax.png" alt="Include Tax" /> 
 
-**C) Default Destination Calculation**  
-Select **Country, State & Pin Code** to automatically determine the shipping/delivery address.  
+**C) Calcul de la destination par défaut** 
+Sélectionnez **Pays, État et code PIN** pour déterminer automatiquement l'adresse d'expédition/de livraison. 
 
-<ImagePopup src="/images/configure/destination.png" alt="Destination Calculation" />
+<ImagePopup src="/images/configure/destination.png" alt="Destination Calculation" /> 
 
-### Shopping Cart Display Settings
-Controls how taxes are displayed in the shopping cart.
+### Paramètres d'affichage du panier 
+Contrôle la façon dont les taxes sont affichées dans le panier. 
 
-**A) Excluding Tax**  
-Taxes shown separately.  
+**A) Hors Taxe** 
+Taxes indiquées séparément. 
 
-<ImagePopup src="/images/configure/excludeTax.png" alt="Exclude Tax" />
+<ImagePopup src="/images/configure/excludeTax.png" alt="Exclude Tax" /> 
 
-**B) Including Tax**  
-Taxes included in total.  
+**B) TTC** 
+Taxes incluses au total. 
 
-<ImagePopup src="/images/configure/includeTax.png" alt="Include Tax" />
+<ImagePopup src="/images/configure/includeTax.png" alt="Include Tax" /> 
 
-**C) Excluding and Including Both**  
-Shows both excluded and included tax amounts.  
+**C) Excluant et incluant les deux ** 
+Affiche les montants de taxes exclus et inclus. 
 
 <ImagePopup src="/images/configure/includeexcludeBoth.png" alt="Include & Exclude Both" />

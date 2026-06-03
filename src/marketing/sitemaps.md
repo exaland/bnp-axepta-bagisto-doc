@@ -1,27 +1,27 @@
-# Sitemaps
+# Plans du site 
 
-Sitemaps inform search engines which pages on a website should be crawled, and may help search engines discover and index those pages. 
+Les plans de site indiquent aux moteurs de recherche quelles pages d'un site Web doivent être explorées et peuvent aider les moteurs de recherche à découvrir et à indexer ces pages. 
 
-While sitemaps can be a simple text file listing the URLs of all the pages you'd like to have indexed, they can also be an XML document carrying more information.
+Bien que les plans de site puissent être un simple fichier texte répertoriant les URL de toutes les pages que vous souhaitez indexer, ils peuvent également être un document XML contenant plus d'informations. 
 
-## Step 1: Add New Sitemap
+## Étape 1 : Ajouter un nouveau plan du site 
 
-On the Admin panel, go to **Marketing > Search & SEO > Sitemaps** and click on **Create Sitemap** as shown below.
+Dans le panneau d'administration, accédez à **Marketing > Recherche et référencement > Plans de site** et cliquez sur **Créer un plan de site** comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/createSitemap.png" alt="Search Field" />
+<ImagePopup src="/images/marketing/createSitemap.png" alt="Search Field" /> 
 
-## Step 2: Configure Sitemap
+## Étape 2 : Configurer le plan du site 
 
-Add the **File Name** and **File Path**, then click the **Save Sitemap** button.
+Ajoutez le **Nom du fichier** et le **Chemin du fichier**, puis cliquez sur le bouton **Enregistrer le plan du site**. 
 
-Make sure you have created an **XML file** and mentioned its correct path as shown below.
+Assurez-vous d'avoir créé un **fichier XML** et mentionné son chemin correct comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/saveSitemap.png" alt="Search Field" />
+<ImagePopup src="/images/marketing/saveSitemap.png" alt="Search Field" /> 
 
-## Step 3: View Sitemap
+## Étape 3 : Afficher le plan du site 
 
-Now you will be able to see the newly created **Sitemap** as shown below.
+Vous pourrez désormais voir le **Sitemap** nouvellement créé, comme indiqué ci-dessous. 
 
-<ImagePopup src="/images/marketing/sitemapOutput.png" alt="Search Field" />
+<ImagePopup src="/images/marketing/sitemapOutput.png" alt="Search Field" /> 
 
-By this, you can easily create a **Sitemap** in ExalandStore.
+Grâce à cela, vous pouvez facilement créer un **Sitemap** dans ExalandStore.

@@ -1,114 +1,114 @@
-# Magic AI (Paid)
+# Magic AI (payant) 
 
-To configure Magic AI, go to the Admin Panel and navigate to **Configure -> Magic AI**.
+Pour configurer Magic AI, accédez au panneau d'administration et accédez à **Configurer -> Magic AI**. 
 
-Here you will able to see the seprate section to configure Magic AI **Settings, Providers, Admin Features and Storefront Features** as shown in the image below.
+Ici, vous pourrez voir la section séparée pour configurer Magic AI **Paramètres, fournisseurs, fonctionnalités d'administration et fonctionnalités de vitrine**, comme indiqué dans l'image ci-dessous. 
 
- <ImagePopup src="/images/configure/magic.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/magic.png" alt="Magic AI" /> 
 
-### General
+### Général 
 
-In the General section, a toggle button is available to enable or disable the Magic AI feature across the entire application.
+Dans la section Général, un bouton bascule est disponible pour activer ou désactiver la fonctionnalité Magic AI dans l'ensemble de l'application. 
 
-To use the Magic AI feature, you need to enable this option and then click on **Save Configuration** button.
+Pour utiliser la fonctionnalité Magic AI, vous devez activer cette option, puis cliquer sur le bouton **Enregistrer la configuration**. 
 
- <ImagePopup src="/images/configure/general-setting.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/general-setting.png" alt="Magic AI" /> 
 
-### Providers 
+### Fournisseurs 
 
-By default, we provide multiple Magic AI providers such as **OpenAI, Anthropic, Gemini, Groq, xAI, DeepSeek, Mistral, and Ollama**. 
+Par défaut, nous proposons plusieurs fournisseurs Magic AI tels que **OpenAI, Anthropic, Gemini, Groq, xAI, DeepSeek, Mistral et Ollama**. 
 
-To start using any of these providers, you need to generate the **API key** from their respective official websites and add it under the Magic AI Providers configuration section.
+Pour commencer à utiliser l'un de ces fournisseurs, vous devez générer la **clé API** à partir de leurs sites Web officiels respectifs et l'ajouter dans la section de configuration des fournisseurs Magic AI. 
 
-After adding the API key, make sure to click on the **Save Configuration** button to apply the changes successfully.
+Après avoir ajouté la clé API, assurez-vous de cliquer sur le bouton **Enregistrer la configuration** pour appliquer les modifications avec succès. 
 
- <ImagePopup src="/images/configure/providers-magicai.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/providers-magicai.png" alt="Magic AI" /> 
 
-### Admin Features
+### Fonctionnalités d'administration 
 
-In the Admin AI Features section, there are two main features available:
+Dans la section Fonctionnalités Admin AI, deux fonctionnalités principales sont disponibles : 
 
-**1) Text Generation**
+**1) Génération de texte** 
 
-**2) Image Generation**
+**2) Génération d'images** 
 
-Each feature includes a toggle button to enable or disable it. Along with this, multiple AI providers are available, and the admin can select as many providers as required. 
+Chaque fonctionnalité comprend un bouton bascule pour l'activer ou la désactiver. Parallèlement à cela, plusieurs fournisseurs d'IA sont disponibles et l'administrateur peut sélectionner autant de fournisseurs que nécessaire. 
 
-The selected providers will be visible under the Text Generation and Image Generation sections, allowing the admin to easily choose which model or provider to use while proceeding. 
+Les fournisseurs sélectionnés seront visibles sous les sections Génération de texte et Génération d'images, permettant à l'administrateur de choisir facilement le modèle ou le fournisseur à utiliser lors de la procédure. 
 
-At last click on **Save Configurations** button.
+Cliquez enfin sur le bouton **Enregistrer les configurations**. 
 
- <ImagePopup src="/images/configure/adminFeatures-magicai.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/adminFeatures-magicai.png" alt="Magic AI" /> 
 
-### Text Generation
+### Génération de texte 
 
-The Text Generation feature in Magic AI helps you create product short descriptions and long descriptions easily.
+La fonctionnalité de génération de texte de Magic AI vous aide à créer facilement des descriptions courtes et longues de produits. 
 
-To use Text Generation with Magic AI, go to **Catalog → Products**, and click on the **Magic AI** button available in the description section. 
+Pour utiliser la génération de texte avec Magic AI, accédez à **Catalogue → Produits** et cliquez sur le bouton **Magic AI** disponible dans la section description. 
 
-This will allow you to generate AI-assisted content for product descriptions.
+Cela vous permettra de générer du contenu assisté par l'IA pour les descriptions de produits. 
 
-  <ImagePopup src="/images/configure/description-magicai.png" alt="Magic AI" />
+  <ImagePopup src="/images/configure/description-magicai.png" alt="Magic AI" /> 
 
-After clicking on the Magic AI button, a popup form will open where you need to enter the prompt related to the description you want to generate.
+Après avoir cliqué sur le bouton Magic AI, un formulaire contextuel s'ouvrira dans lequel vous devrez saisir l'invite relative à la description que vous souhaitez générer. 
 
-Then, you need to select a model from the Model List, and finally click on the **Generate** button. 
+Ensuite, vous devez sélectionner un modèle dans la liste des modèles, et enfin cliquer sur le bouton **Générer**. 
 
-Once done, your AI-generated content will be created automatically. Then click on **Apply** button to add the changes.
+Une fois cela fait, votre contenu généré par l’IA sera créé automatiquement. Cliquez ensuite sur le bouton **Appliquer** pour ajouter les modifications. 
 
- <ImagePopup src="/images/configure/textgeneration.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/textgeneration.png" alt="Magic AI" /> 
 
-### Image Generation 
+### Génération d'images 
 
-To use Image Generation, you can easily generate product images with the help of Magic AI.
+Pour utiliser la génération d'images, vous pouvez facilement générer des images de produits à l'aide de Magic AI. 
 
-To use this feature, go to **Catalog → Products**, and in the Images section, click on **Magic AI Generate Images**.
+Pour utiliser cette fonctionnalité, accédez à **Catalogue → Produits**, et dans la section Images, cliquez sur **Magic AI Generate Images**. 
 
-1) Enter the prompt based on the type of image you want to create.
+1) Entrez l'invite en fonction du type d'image que vous souhaitez créer. 
 
-2) Specify the number of images (quantity) you want to generate.
+2) Spécifiez le nombre d'images (quantité) que vous souhaitez générer. 
 
-3) Choose the image size. By default, we provide three options: Square, Portrait, and Landscape.
+3) Choisissez la taille de l'image. Par défaut, nous proposons trois options : Carré, Portrait et Paysage. 
 
-4) Select the image quality — High, Medium, or Low.
+4) Sélectionnez la qualité de l'image — Élevée, Moyenne ou Faible. 
 
-5) Finally, choose your preferred model from the Model List and click on the “Generate” button to create the images.
+5) Enfin, choisissez votre modèle préféré dans la liste des modèles et cliquez sur le bouton « Générer » pour créer les images. 
 
-  <ImagePopup src="/images/configure/image-generate.png" alt="Magic AI" />
+  <ImagePopup src="/images/configure/image-generate.png" alt="Magic AI" /> 
 
-Once the images are generated, you need to click on the desired images to apply them. After selecting and applying them, your AI-generated product images will be successfully added.
+Une fois les images générées, vous devez cliquer sur les images souhaitées pour les appliquer. Après les avoir sélectionnés et appliqués, vos images de produits générées par l'IA seront ajoutées avec succès. 
 
-If you are not satisfied with the generated images, you can simply click on the **Regenerate** button to create new images again.
+Si vous n'êtes pas satisfait des images générées, vous pouvez simplement cliquer sur le bouton **Régénérer** pour créer à nouveau de nouvelles images. 
 
-<ImagePopup src="/images/configure/ai-images.png" alt="Magic AI" />
+<ImagePopup src="/images/configure/ai-images.png" alt="Magic AI" /> 
 
-### Storefront Features
+### Fonctionnalités de la vitrine 
 
-In the Storefront Features section, there are two main features available:
+Dans la section Fonctionnalités de Storefront, deux fonctionnalités principales sont disponibles : 
 
-**1) Review Translations**
+**1) Réviser les traductions** 
 
-**2) Personalized Checkout Message**
+**2) Message de paiement personnalisé** 
 
-Each feature includes a toggle button to enable or disable it. Along with this, multiple AI Models are available, and the admin can select a desired model as per their requirement.
+Chaque fonctionnalité comprend un bouton bascule pour l'activer ou la désactiver. Parallèlement à cela, plusieurs modèles d'IA sont disponibles et l'administrateur peut sélectionner le modèle souhaité en fonction de ses besoins. 
 
-At last, click on the **Save Configuration** button to apply the changes.
+Enfin, cliquez sur le bouton **Enregistrer la configuration** pour appliquer les modifications. 
 
- <ImagePopup src="/images/configure/storefront-features-magicai.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/storefront-features-magicai.png" alt="Magic AI" /> 
 
-### Review Translations
+### Revoir les traductions 
 
-If someone just wants to understand what is written, this feature can simply translate the content for them into their preferred language.
+Si quelqu'un veut simplement comprendre ce qui est écrit, cette fonctionnalité peut simplement traduire le contenu pour lui dans sa langue préférée. 
 
- <ImagePopup src="/images/configure/review-magicai.png" alt="Magic AI" />
+ <ImagePopup src="/images/configure/review-magicai.png" alt="Magic AI" /> 
 
-### Personalized Checkout Message
+### Message de paiement personnalisé 
 
-With the help of the Personalized Checkout Message feature in ExalandStore, once you enable this option, customers will start seeing automatically generated messages after the checkout process and order gets completed.
+Avec l'aide de la fonctionnalité de message de paiement personnalisé dans ExalandStore, une fois que vous avez activé cette option, les clients commenceront à voir des messages générés automatiquement une fois le processus de paiement et la commande terminée. 
 
-It helps store owners create a more personalized and engaging shopping experience by displaying dynamic and AI-generated messages to customers at the time of checkout. 
+Il aide les propriétaires de magasins à créer une expérience d'achat plus personnalisée et plus attrayante en affichant des messages dynamiques et générés par l'IA aux clients au moment du paiement. 
 
-These messages can improve customer interaction, build trust, and encourage successful order completion, ultimately enhancing the overall shopping experience.
+Ces messages peuvent améliorer l'interaction avec les clients, renforcer la confiance et encourager la réussite des commandes, améliorant ainsi l'expérience d'achat globale. 
 
   <ImagePopup src="/images/configure/personalized-chckout-message.png" alt="Magic AI" />
 

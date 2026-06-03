@@ -1,19 +1,19 @@
-# Create Shipment
+# Créer un envoi 
 
-Shipment is a process whereby goods are shipped using the Internet as the primary means of communication. 
+L'expédition est un processus par lequel les marchandises sont expédiées en utilisant Internet comme principal moyen de communication. 
 
-It is a convenient way of shipping for both consumers and businesses alike, as it offers a quick and easy way to send items from one location to another.
+Il s’agit d’un moyen d’expédition pratique tant pour les consommateurs que pour les entreprises, car il offre un moyen rapide et facile d’envoyer des articles d’un endroit à un autre. 
 
-“Shipping” denotes the processing, packaging, and dispatching of small items that can be sent quickly and easily, typically through a local courier service. 
+« Expédition » désigne le traitement, l'emballage et l'expédition de petits articles qui peuvent être envoyés rapidement et facilement, généralement via un service de messagerie local. 
 
-To create a shipment for that order, click on the **Ship** button. Enter the **Carrier Name, Tracking Number** and choose your **Inventory Source** from the drop-down list.
+Pour créer un envoi pour cette commande, cliquez sur le bouton **Expédier**. Entrez le **Nom du transporteur, le numéro de suivi** et choisissez votre **Source d'inventaire** dans la liste déroulante. 
 
- Enter the quantity to ship then click on **Create Shipment**
+Entrez la quantité à expédier puis cliquez sur **Créer un envoi** 
 
-<ImagePopup src="/images/orders/createShipment.png" alt="Create Shipment" />
+<ImagePopup src="/images/orders/createShipment.png" alt="Create Shipment" /> 
 
-Now the order is **Completed** which you can check in the order list as shown in the below image.
+La commande est maintenant **Terminée** et vous pouvez vérifier dans la liste des commandes comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/orders/shipmentOutput.png" alt="Shipment Output" />
+<ImagePopup src="/images/orders/shipmentOutput.png" alt="Shipment Output" /> 
 
-By following the above steps, you can easily create a **Shipment** in ExalandStore.
+En suivant les étapes ci-dessus, vous pouvez facilement créer un **Expédition** dans ExalandStore.

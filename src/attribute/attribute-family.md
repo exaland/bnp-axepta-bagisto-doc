@@ -1,34 +1,34 @@
-# Create Attribute Family
+# Créer une famille d'attributs
 
-Attribute Families allow you to import all the required product information in a single step. 
+Les familles d'attributs vous permettent d'importer toutes les informations produit requises en une seule étape.
 
-They are essentially a collection of attributes related to a specific product type.
+Il s’agit essentiellement d’un ensemble d’attributs liés à un type de produit spécifique.
 
-In this tutorial, we’ll guide you on how to create attribute families in ExalandStore.
+Dans ce didacticiel, nous vous expliquerons comment créer des familles d'attributs dans ExalandStore.
 
-## Create Attribute Family in ExalandStore
+## Créer une famille d'attributs dans ExalandStore
 
-### Step 1
-On the Admin Dashboard, navigate to **Catalog → Attribute Families → Create Attribute Family**.
+### Étape 1
+Sur le tableau de bord d'administration, accédez à **Catalogue → Familles d'attributs → Créer une famille d'attributs**.
 
 <ImagePopup src="/images/attribute/createFamily.png" alt="Attribute Family" />
 
-### Step 2
-Enter the **Attribute Family Code** and **Name**, as shown below.
+### Étape 2
+Saisissez le **Code de famille d'attribut** et le **Nom**, comme indiqué ci-dessous.
 
 <ImagePopup src="/images/attribute/saveFamily.png" alt="Save Family" />
 
-Once done, click **Save Attribute Family**. A new Attribute Family will be created and displayed in the grid.
+Une fois terminé, cliquez sur **Enregistrer la famille d'attributs**. Une nouvelle famille d'attributs sera créée et affichée dans la grille.
 
 <ImagePopup src="/images/attribute/familyGrid.png" alt="Family Grid" />
 
-### Step 3
-After the Attribute Family is created, you can edit it via the **Action** option.  
-- Add the desired **Attributes** to this family based on your requirements.  
-- During the product creation process, you’ll now see this new Attribute Family available.  
+### Étape 3
+Une fois la famille d'attributs créée, vous pouvez la modifier via l'option **Action**.
+- Ajoutez les **attributs** souhaités à cette famille en fonction de vos besoins.
+- Pendant le processus de création du produit, vous verrez désormais cette nouvelle famille d'attributs disponible.
 
-All assigned attributes will then be visible on the product page for products belonging to this Attribute Family.
+Tous les attributs attribués seront alors visibles sur la page produit pour les produits appartenant à cette famille d'attributs.
 
 <ImagePopup src="/images/attribute/output.png" alt="Output" />
 
-By following these steps, you can easily create and manage **Attribute Families** in ExalandStore.
+En suivant ces étapes, vous pouvez facilement créer et gérer des **familles d'attributs** dans ExalandStore.

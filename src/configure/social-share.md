@@ -1,15 +1,15 @@
-# Social Share
+# Partage social 
 
-Social Share allows customers to share products or content from your website on social media platforms like Facebook, Twitter, or Instagram.
+Le partage social permet aux clients de partager des produits ou du contenu de votre site Web sur des plateformes de médias sociaux comme Facebook, Twitter ou Instagram. 
 
-To configure, go to the Admin Panel and navigate to **Configure >> Products >> Social Share**.
+Pour configurer, accédez au panneau d'administration et accédez à **Configurer >> Produits >> Partage social**. 
 
-<ImagePopup src="/images/configure/socialShare.png" alt="Social Share Configuration" />
+<ImagePopup src="/images/configure/socialShare.png" alt="Social Share Configuration" /> 
 
-After configuring, click the **Save Configuration** button.
+Après la configuration, cliquez sur le bouton **Enregistrer la configuration**. 
 
-### Frontend
+### Front-end 
 
-All the icons enabled from the Admin Panel will appear on the storefront as shown below.
+Toutes les icônes activées depuis le panneau d'administration apparaîtront sur la vitrine comme indiqué ci-dessous. 
 
 <ImagePopup src="/images/configure/socialOutput.png" alt="Social Share Frontend Output" />

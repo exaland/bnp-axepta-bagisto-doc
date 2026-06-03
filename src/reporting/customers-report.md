@@ -1,101 +1,101 @@
-# Customers Reporting
+# Rapports clients 
 
-ExalandStore provides detailed customer analytics to help store owners understand their customer base, purchasing habits, and engagement levels. Below is an explanation of the customer-related reports.
+ExalandStore fournit des analyses clients détaillées pour aider les propriétaires de magasins à comprendre leur clientèle, leurs habitudes d'achat et leurs niveaux d'engagement. Vous trouverez ci-dessous une explication des rapports relatifs aux clients. 
 
-### A) Total Customers 
+### A) Nombre total de clients 
 
-This report shows the total number of customers registered in the store within the selected date range.
+Ce rapport affiche le nombre total de clients enregistrés dans le magasin au cours de la plage de dates sélectionnée. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-**1) Total Customers:** The number of new customers who signed up.
+**1) Nombre total de clients :** Le nombre de nouveaux clients qui se sont inscrits. 
 
-**2) Percentage Change:** Comparison with the previous period.
+**2) Variation en pourcentage :** Comparaison avec la période précédente. 
 
-**3) View Details:** Click to see a list of new customers.
+**3) Afficher les détails :** Cliquez pour voir une liste de nouveaux clients. 
 
-### B) Customers Over Time
+### B) Clients au fil du temps 
 
-This section provides a timeline of new customer registrations over a specific period.
+Cette section fournit une chronologie des inscriptions de nouveaux clients sur une période spécifique. 
 
-**How to Use:**
+**Comment utiliser :** 
 
-1) Compare customer growth over different date ranges.
+1) Comparez la croissance des clients sur différentes plages de dates. 
 
-2) Identify periods of high or low customer sign-ups.
+2) Identifiez les périodes d’inscriptions de clients élevées ou faibles. 
 
-3) Adjust marketing strategies to boost customer registrations.
+3) Ajustez les stratégies marketing pour augmenter les inscriptions de clients. 
 
-<ImagePopup src="/images/reporting/total-customers.png" alt="Customers Over Time" />
+<ImagePopup src="/images/reporting/total-customers.png" alt="Customers Over Time" /> 
 
-### C) Customers With Most Sales
+### C) Clients avec le plus de ventes 
 
-Lists customers who have made the highest total purchases in terms of revenue.
+Répertorie les clients qui ont effectué le total d'achats le plus élevé en termes de revenus. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-**1) Customer Name:** The customer who generated the most revenue.
+**1) Nom du client :** Le client qui a généré le plus de revenus. 
 
-**2) Total Sales Amount:** The total value of their purchases.
+**2) Montant total des ventes :** La valeur totale de leurs achats. 
 
-<ImagePopup src="/images/reporting/total-sale-customers.png" alt="Customers With Most Sales" />
+<ImagePopup src="/images/reporting/total-sale-customers.png" alt="Customers With Most Sales" /> 
 
-### D) Customers With Most Orders
+### D) Clients avec le plus de commandes 
 
-Shows which customers have placed the highest number of orders.
+Indique quels clients ont passé le plus grand nombre de commandes. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-**1) Customer Name:** The customer who placed the most orders.
+**1) Nom du client :** Le client qui a passé le plus de commandes. 
 
-**2) Total Orders:** The number of orders they completed.
+**2) Total des commandes :** Le nombre de commandes terminées. 
 
-<ImagePopup src="/images/reporting/customer-most-order.png" alt="Customers With Most Orders" />
+<ImagePopup src="/images/reporting/customer-most-order.png" alt="Customers With Most Orders" /> 
 
-### E) Customer Traffic
+### E) Trafic client 
 
-Tracks the number of visitors who browsed the store within the selected period.
+Suit le nombre de visiteurs qui ont parcouru le magasin au cours de la période sélectionnée. 
 
-**Key Metrics:**
+**Mesures clés :** 
 
-**1) Total Visitors:** The total number of visitors to the store.
+**1) Nombre total de visiteurs :** Le nombre total de visiteurs du magasin. 
 
-**2) Unique Visitors:** The number of distinct visitors (not counting repeat visits).
+**2) Visiteurs uniques :** Le nombre de visiteurs distincts (sans compter les visites répétées). 
 
-**3) Percentage Change:** Comparison with the previous period.
+**3) Variation en pourcentage :** Comparaison avec la période précédente. 
 
-### 6) Traffic Over Time
+### 6) Trafic au fil du temps 
 
-Provides a trend analysis of visitor traffic over different time periods.
+Fournit une analyse des tendances du trafic des visiteurs sur différentes périodes. 
 
-**How to Use:**
+**Comment utiliser :** 
 
-1) Compare store traffic between different time frames.
+1) Comparez le trafic du magasin entre différentes périodes. 
 
-2) Identify peak traffic times and align marketing campaigns accordingly.
+2) Identifiez les heures de pointe du trafic et alignez les campagnes marketing en conséquence. 
 
-<ImagePopup src="/images/reporting/customer-traffic.png" alt="Customer Traffic" />
+<ImagePopup src="/images/reporting/customer-traffic.png" alt="Customer Traffic" /> 
 
-### 7) Top Customer Groups
+### 7) Principaux groupes de clients 
 
-Lists the most active customer groups (e.g., wholesale, retail, VIP).
+Répertorie les groupes de clients les plus actifs (par exemple, vente en gros, détail, VIP). 
 
-**Why It Matters?**
+**Pourquoi est-ce important ?** 
 
-1) Helps segment customers based on buying behavior.
+1) Aide à segmenter les clients en fonction de leur comportement d'achat. 
 
-2) No data may indicate that customer groups need to be configured.
+2) Aucune donnée ne peut indiquer que des groupes de clients doivent être configurés. 
 
-<ImagePopup src="/images/reporting/customer-group.png" alt="Top Customer Groups" />
+<ImagePopup src="/images/reporting/customer-group.png" alt="Top Customer Groups" /> 
 
-### 8) Customers With Most Reviews
+### 8) Clients avec le plus d'avis 
 
-Lists customers who have left the most product reviews.
+Répertorie les clients qui ont laissé le plus d’avis sur les produits. 
 
-**Why It Matters?**
+**Pourquoi est-ce important ?** 
 
-1) Helps identify engaged customers.
+1) Aide à identifier les clients engagés. 
 
-2) Encouraging reviews can improve product credibility and boost conversions.
+2) Des avis encourageants peuvent améliorer la crédibilité du produit et stimuler les conversions. 
 
 <ImagePopup src="/images/reporting/customer-most-review.png" alt="Customers With Most Reviews" />

@@ -1,29 +1,29 @@
-# Invoice Settings
+# Paramètres de facture 
 
-To configure invoice settings, go to the Admin Panel and click on **Configure >> Invoice Settings**.
+Pour configurer les paramètres de facture, accédez au panneau d'administration et cliquez sur **Configurer >> Paramètres de facture**. 
 
-### 1. Invoice Number Settings
+### 1. Paramètres du numéro de facture 
 
-Configure rules or parameters for generating and assigning unique identification numbers to invoices for organizational and tracking purposes.
+Configurez des règles ou des paramètres pour générer et attribuer des numéros d'identification uniques aux factures à des fins d'organisation et de suivi. 
 
-<ImagePopup src="/images/configure/invoicenumberSettings.png" alt="Invoice Number Settings" />
+<ImagePopup src="/images/configure/invoicenumberSettings.png" alt="Invoice Number Settings" /> 
 
-### 2. Payment Terms
+### 2. Conditions de paiement 
 
-Set agreed-upon conditions dictating when and how payment for goods or services should be made by the buyer to the seller.
+Fixez des conditions convenues dictant quand et comment le paiement des biens ou des services doit être effectué par l'acheteur au vendeur. 
 
-<ImagePopup src="/images/configure/paymentTerms.png" alt="Payment Terms" />
+<ImagePopup src="/images/configure/paymentTerms.png" alt="Payment Terms" /> 
 
-### 3. Invoice Slip Design
+### 3. Conception du bordereau de facture 
 
-Customize the visual layout and formatting of an invoice slip, including company branding, itemization, pricing, and payment details for professional presentation.
+Personnalisez la présentation visuelle et le formatage d'un bordereau de facture, y compris la marque de l'entreprise, les détails, les prix et les détails de paiement pour une présentation professionnelle. 
 
-<ImagePopup src="/images/configure/invoiceSlip.png" alt="Invoice Slip Design" />
+<ImagePopup src="/images/configure/invoiceSlip.png" alt="Invoice Slip Design" /> 
 
-### 4. Invoice Reminders
+### 4. Rappels de factures 
 
-Enable automated notifications or communications sent to customers to remind them of upcoming or overdue invoice payments.
+Activez les notifications ou communications automatisées envoyées aux clients pour leur rappeler les paiements de factures à venir ou en retard. 
 
-<ImagePopup src="/images/configure/invoiceReminder.png" alt="Invoice Reminder" />
+<ImagePopup src="/images/configure/invoiceReminder.png" alt="Invoice Reminder" /> 
 
-After making changes, click on the **Save Configuration** button.
+Après avoir apporté les modifications, cliquez sur le bouton **Enregistrer la configuration**.

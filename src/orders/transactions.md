@@ -1,45 +1,45 @@
-# Transactions
+# opérations 
 
-Transaction is a digital financial exchange that occurs when you buy goods and services through online platforms. 
+La transaction est un échange financier numérique qui se produit lorsque vous achetez des biens et des services via des plateformes en ligne. 
 
-E-commerce transaction means the transfer of funds electronically in exchange for products or services, conducted via e-commerce websites or mobile applications.
+Une transaction de commerce électronique désigne le transfert de fonds par voie électronique en échange de produits ou de services, effectué via des sites Web de commerce électronique ou des applications mobiles. 
 
-### Steps to Create Transactions in ExalandStore 
+### Étapes pour créer des transactions dans ExalandStore 
 
-**Step-1** Click on **Orders >> Transactions >> Create Transaction** as shown in the below image.
+**Étape 1** Cliquez sur **Commandes >> Transactions >> Créer une transaction** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/orders/createTransaction.png" alt="Create Transactions" />
+<ImagePopup src="/images/orders/createTransaction.png" alt="Create Transactions" /> 
 
-**Step-2** Add the below details.
+**Étape 2** Ajoutez les détails ci-dessous. 
 
-**A) Invoice ID-** Enter the Invoice ID for which you are creating a transaction.  
+**A) ID de facture-** Saisissez l'ID de facture pour lequel vous créez une transaction. 
 
-**B) Payment Methods-** By default, 3 online payment gateways are presented.  
+**B) Modes de paiement-** Par défaut, 3 passerelles de paiement en ligne sont présentées. 
 
-- Paypal Smart Button  
-- Money Transfer  
-- Paypal Standard  
+- Bouton intelligent Paypal 
+- Transfert d'argent 
+- Norme Paypal 
 
-Kindly select your payment gateway from the dropdown.  
+Veuillez sélectionner votre passerelle de paiement dans la liste déroulante. 
 
-**C) Amount-** Enter the amount of your transaction.  
+**C) Montant-** Entrez le montant de votre transaction. 
 
-At last, click on the **Save Transaction** button.  
+Enfin, cliquez sur le bouton **Enregistrer la transaction**. 
 
-<ImagePopup src="/images/orders/saveTransaction.png" alt="Save Transaction" />
+<ImagePopup src="/images/orders/saveTransaction.png" alt="Save Transaction" /> 
 
-**Step-3** Transaction is created successfully as shown in the image below.
+**Étape 3** La transaction est créée avec succès, comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/orders/transactionGrid.png" alt="Transaction Grid" />
+<ImagePopup src="/images/orders/transactionGrid.png" alt="Transaction Grid" /> 
 
-**Note - Additionally, you can also create transactions while creating an Invoice**
+**Remarque : De plus, vous pouvez également créer des transactions lors de la création d'une facture** 
 
-**1)** Click on **Sales >> Order >> Select Order** and then click on **Invoice button** after that click on the **Create Transaction** checkbox.  
+**1)** Cliquez sur **Ventes >> Commande >> Sélectionnez la commande**, puis cliquez sur **Bouton Facture**, puis cliquez sur la case **Créer une transaction**. 
 
-At last, click on the **Create Invoice** button as shown in the below image.  
+Enfin, cliquez sur le bouton **Créer une facture** comme indiqué dans l'image ci-dessous. 
 
-<ImagePopup src="/images/orders/other.png" alt="Transaction During Invoice" />
+<ImagePopup src="/images/orders/other.png" alt="Transaction During Invoice" /> 
 
-**2)** Now go to **Sales >> Orders >> Transactions** and a new transaction is created successfully as shown in the image below.
+**2)** Allez maintenant dans **Ventes >> Commandes >> Transactions** et une nouvelle transaction est créée avec succès, comme indiqué dans l'image ci-dessous. 
 
 <ImagePopup src="/images/orders/transactionOutput.png" alt="Transaction Output" />

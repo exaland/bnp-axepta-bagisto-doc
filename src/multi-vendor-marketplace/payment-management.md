@@ -1,43 +1,43 @@
-# Payment Management
-Payment management in a Multi-Vendor Marketplace helps both sellers and admins handle finances with ease and clarity. Sellers can quickly check their earnings, see payment details for orders, and request payouts without hassle.
+# Gestion des paiements 
+La gestion des paiements sur une place de marché multi-fournisseurs aide les vendeurs et les administrateurs à gérer les finances avec facilité et clarté. Les vendeurs peuvent vérifier rapidement leurs revenus, consulter les détails de paiement des commandes et demander des paiements sans problème. 
 
-Admins can easily track all payments, manage commissions, and make sure settlements are secure and on time.
+Les administrateurs peuvent facilement suivre tous les paiements, gérer les commissions et s'assurer que les règlements sont sécurisés et ponctuels. 
 
-### Seller Side – Requesting Payment
+### Côté vendeur – Demande de paiement 
 
-Sellers can request their earnings once orders are completed.
-Follow the steps below to request a payment.
+Les vendeurs peuvent demander leurs gains une fois les commandes terminées. 
+Suivez les étapes ci-dessous pour demander un paiement. 
 
-1) Go to **Order >> Payment Request**.
+1) Allez dans **Commande >> Demande de paiement**. 
 
-2) Click **"Payment Request"** to send a payout request to the admin.
+2) Cliquez sur **"Demande de paiement"** pour envoyer une demande de paiement à l'administrateur. 
 
-The request is submitted and will be visible to the admin for review.
+La demande est soumise et sera visible par l'administrateur pour examen. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/1-seller-payment-request-to-admin.png" alt="Seller Payment Request to Admin" />
+<ImagePopup src="/images/multi-vendor-marketplace/1-seller-payment-request-to-admin.png" alt="Seller Payment Request to Admin" /> 
 
-Once the admin releases the payment, it appears in the **Seller’s Transaction** section.
+Une fois que l'administrateur a validé le paiement, celui-ci apparaît dans la section **Transaction du vendeur**. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/2-seller-transtion.png" alt="Seller Transaction" />
+<ImagePopup src="/images/multi-vendor-marketplace/2-seller-transtion.png" alt="Seller Transaction" /> 
 
-**Note:** Payment requests start as Pending. After admin review, they move to Processing, and once paid out, the status updates to Paid.
+**Remarque :** Les demandes de paiement commencent par En attente. Après examen par l'administrateur, ils passent au traitement et, une fois payés, le statut est mis à jour sur Payé. 
 
-### Admin Side – Managing Payments
+### Côté administrateur – Gestion des paiements 
 
-Admins can manage seller payout requests directly from the marketplace dashboard.
-Go to the **Marketplace >> Payment Request**.
+Les administrateurs peuvent gérer les demandes de paiement des vendeurs directement depuis le tableau de bord de la place de marché. 
+Accédez au **Marketplace >> Demande de paiement**. 
 
-On the Payment Request page, admins can see complete product and order details. They review the request and verify that the order was delivered successfully before processing the payment.
+Sur la page Demande de paiement, les administrateurs peuvent voir les détails complets du produit et de la commande. Ils examinent la demande et vérifient que la commande a été livrée avec succès avant de traiter le paiement. 
 
-After verification, the admin clicks on the **Pay Now** button to release the payment to the seller.
+Après vérification, l'administrateur clique sur le bouton **Payer maintenant** pour effectuer le paiement au vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/3-admin-payment-request-byseller.png" alt="Admin Payment Request by Seller" />
+<ImagePopup src="/images/multi-vendor-marketplace/3-admin-payment-request-byseller.png" alt="Admin Payment Request by Seller" /> 
 
-A popup will appear. The admin can enter a comment or note in the box and then click on Pay Now again to release the payment to the seller.
+Une fenêtre contextuelle apparaîtra. L'administrateur peut saisir un commentaire ou une note dans la case, puis cliquer à nouveau sur Payer maintenant pour effectuer le paiement au vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/4-popup.png" alt="Payment Confirmation Popup" />
+<ImagePopup src="/images/multi-vendor-marketplace/4-popup.png" alt="Payment Confirmation Popup" /> 
 
-After payment completion, the details are stored in the **Transaction.**
-Admins can access these by going to **Marketplace >> Transactions**.
+Une fois le paiement effectué, les détails sont stockés dans **Transaction.** 
+Les administrateurs peuvent y accéder en accédant à **Marketplace >> Transactions**. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/5-admin-transaction.png" alt="Admin Transaction" />

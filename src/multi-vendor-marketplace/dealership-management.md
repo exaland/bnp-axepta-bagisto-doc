@@ -1,122 +1,122 @@
-# Dealership Management
+# Gestion de concession 
 
-The Dealership Management system lets marketplace sellers add products that already exist in the store catalog, created by the admin. 
+Le système de gestion des concessionnaires permet aux vendeurs du marché d'ajouter des produits qui existent déjà dans le catalogue du magasin, créé par l'administrateur. 
 
-Instead of building every product from scratch, dealers can simply pick items from the master catalog and publish them with their own price, stock, and details.
+Au lieu de créer chaque produit à partir de zéro, les revendeurs peuvent simplement sélectionner des articles dans le catalogue principal et les publier avec leurs propres prix, stocks et détails. 
 
-This makes listing faster, keeps product information consistent, and reduces the effort needed to start selling.
+Cela accélère la mise en vente, maintient la cohérence des informations sur les produits et réduit les efforts nécessaires pour commencer à vendre. 
 
-Dealers can also assign product from master catalog, making it simple to list products that already exist in the marketplace system.
+Les revendeurs peuvent également attribuer des produits à partir du catalogue principal, ce qui simplifie la liste des produits qui existent déjà dans le système Marketplace. 
 
-### Vendor Listing from Central Catalog
+### Liste des fournisseurs du catalogue central 
 
-The Vendor Listing feature lets customers view all sellers in one place.
+La fonctionnalité de liste des fournisseurs permet aux clients de visualiser tous les vendeurs en un seul endroit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/1.1marketplace.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/1.1marketplace.png" alt="Global Commission Configuration" /> 
 
-Each vendor is shown with important details like the store name, logo, address, ratings, and number of reviews. 
+Chaque fournisseur est affiché avec des détails importants tels que le nom du magasin, le logo, l'adresse, les notes et le nombre d'avis. 
 
-This makes it easier for buyers to find and explore different sellers in the marketplace.
+Cela permet aux acheteurs de trouver et d’explorer plus facilement différents vendeurs sur le marché. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/2-vendor-listing-from-catlog.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/2-vendor-listing-from-catlog.png" alt="Global Commission Configuration" /> 
 
-Customers can click on any vendor to open their store page, where they can view all products, read reviews, and check the complete seller information.
+Les clients peuvent cliquer sur n'importe quel fournisseur pour ouvrir la page de leur boutique, où ils peuvent voir tous les produits, lire les avis et vérifier les informations complètes sur le vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/3-vendor-profile-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/3-vendor-profile-page.png" alt="Global Commission Configuration" /> 
 
-This helps build trust and gives vendors more visibility to attract buyers and increase sales.
+Cela contribue à renforcer la confiance et donne aux fournisseurs plus de visibilité pour attirer les acheteurs et augmenter les ventes. 
 
-### Add Product from Marketplace Catalog
+### Ajouter un produit à partir du catalogue Marketplace 
 
-From the seller dashboard, go to **Products** and click on it to open the product page.
+Depuis le tableau de bord du vendeur, accédez à **Produits** et cliquez dessus pour ouvrir la page du produit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/4-seller-dashboards.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/4-seller-dashboards.png" alt="Global Commission Configuration" /> 
 
-Click on the Add New Product button at the top right corner to begin adding a new product to your store.
+Cliquez sur le bouton Ajouter un nouveau produit dans le coin supérieur droit pour commencer à ajouter un nouveau produit à votre boutique. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/5-product-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/5-product-page.png" alt="Global Commission Configuration" /> 
 
-On the Search Products page, dealers can assign a product from the Master Catalog by searching for items already available.
+Sur la page Rechercher des produits, les revendeurs peuvent attribuer un produit du catalogue principal en recherchant des articles déjà disponibles. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/6-search-product.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/6-search-product.png" alt="Global Commission Configuration" /> 
 
-Type the product name in the search bar to locate it in the marketplace catalog.
+Tapez le nom du produit dans la barre de recherche pour le localiser dans le catalogue de la Marketplace. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/7-sell-as-your-product.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/7-sell-as-your-product.png" alt="Global Commission Configuration" /> 
 
-The system shows matching products in the search results. Dealers can select a product and sell on existing listing by using their own price and stock quantity.
+Le système affiche les produits correspondants dans les résultats de recherche. Les revendeurs peuvent sélectionner un produit et le vendre sur une liste existante en utilisant leur propre prix et quantité de stock. 
 
-Click on **‘Sell As Yours’** to create your personalized version of the existing product
+Cliquez sur **'Sell As Yours'** pour créer votre version personnalisée du produit existant 
 
-### List Existing Catalog Product
+### Répertorier les produits du catalogue existant 
 
-The platform also supports the list existing catalog product feature, which allows sellers to quickly add products from the global catalog without recreating product information.
+La plateforme prend également en charge la fonctionnalité de liste de produits du catalogue existant, qui permet aux vendeurs d'ajouter rapidement des produits à partir du catalogue global sans recréer les informations sur les produits. 
 
-This helps dealers save time and ensures product data stays consistent across the marketplace.
+Cela permet aux concessionnaires de gagner du temps et garantit que les données sur les produits restent cohérentes sur l'ensemble du marché. 
 
-#### Product Attributes
+#### Attributs du produit 
 
-Enter all the required details for your personalized version of the existing product.
+Entrez tous les détails requis pour votre version personnalisée du produit existant. 
 
-**1) Condition:** Specify the condition of the product (New, Old).
+**1) Condition :** Précisez l'état du produit (Neuf, Ancien). 
 
-**2) Price:** Enter the selling price you want to offer for this product.
+**2) Prix :** Saisissez le prix de vente que vous souhaitez proposer pour ce produit. 
 
-**3) Quantities:** Add the available quantity of the product in inventory.
+**3) Quantités :** Ajoutez la quantité disponible du produit en inventaire. 
 
-**4) Description:** Provide a brief description of the product.
+**4) Description :** Fournissez une brève description du produit. 
 
-**5) Images:** Upload product images to showcase the item.
+**5) Images :** Téléchargez des images de produits pour présenter l'article. 
 
-**6) Video:** Optionally, add a video to give customers a better view of the product.
+**6) Vidéo :** Vous pouvez éventuellement ajouter une vidéo pour offrir aux clients une meilleure vue du produit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/8-product-updated-by-dealler.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/8-product-updated-by-dealler.png" alt="Global Commission Configuration" /> 
 
-Click **Save** to add the product to your store. Initially, it will be marked as **Disapproved**.
+Cliquez sur **Enregistrer** pour ajouter le produit à votre boutique. Initialement, il sera marqué comme **Refusé**. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/9-product-disapprove-states.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/9-product-disapprove-states.png" alt="Global Commission Configuration" /> 
 
-**Note: Once the admin reviews and approves it, the status will change to Approved, and only then will the product be visible on the store frontend.**
+**Remarque : Une fois que l'administrateur l'a examiné et approuvé, le statut passera à Approuvé, et ce n'est qu'alors que le produit sera visible sur l'interface du magasin.** 
 
-### Admin Panel: Manage Dealers Product
+### Panneau d'administration : gérer les produits des concessionnaires 
 
-From the Admin Dashboard, admins can approve or disapprove dealer added products. Only approved items appear on the storefront.
+À partir du tableau de bord d'administration, les administrateurs peuvent approuver ou refuser les produits ajoutés par le concessionnaire. Seuls les articles approuvés apparaissent sur la vitrine. 
 
-This ensures master catalog products stay consistent across all dealer listings.
+Cela garantit que les produits du catalogue principal restent cohérents dans toutes les listes de revendeurs. 
 
-Go to **Marketplace >> Products** to view and manage all your products from the seller dashboard.
+Accédez à **Marketplace >> Produits** pour afficher et gérer tous vos produits à partir du tableau de bord du vendeur. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/10-admin-product-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/10-admin-product-page.png" alt="Global Commission Configuration" /> 
 
-To approve a product, follow these steps:
+Pour approuver un produit, procédez comme suit : 
 
-1) Check the product checkbox for the item want to approve.
+1) Cochez la case du produit correspondant à l'article que vous souhaitez approuver. 
 
-2) Go to the Select Action dropdown.
+2) Accédez à la liste déroulante Sélectionner une action. 
 
-3) Click on Update Status.
+3) Cliquez sur Statut de mise à jour. 
 
-4) Select Approved to approve the product.
+4) Sélectionnez Approuvé pour approuver le produit. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/11-select-action.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/11-select-action.png" alt="Global Commission Configuration" /> 
 
-Once the product is approved, it will show as Approved on the Vendor Product page and under vendor listing, and will also become visible on the storefront for customers.
+Une fois le produit approuvé, il apparaîtra comme approuvé sur la page Produit du fournisseur et sous la liste des fournisseurs, et deviendra également visible sur la vitrine pour les clients. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/12-admin-approved-states.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/12-admin-approved-states.png" alt="Global Commission Configuration" /> 
 
-### Product Preview – Dealership Side
+### Aperçu du produit – Côté concessionnaire 
 
-After approval, changes reflect on the dealer side, including any products added through the dealer from the central catalog.
+Après approbation, les modifications sont répercutées du côté du concessionnaire, y compris tous les produits ajoutés via le concessionnaire à partir du catalogue central. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/13-seller-side-preview.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/13-seller-side-preview.png" alt="Global Commission Configuration" /> 
 
-### Store view
+### Vue du magasin 
 
-The approved product appears on the storefront for customers to browse and purchase.
+Le produit approuvé apparaît sur la vitrine pour que les clients puissent le parcourir et l'acheter. 
 
-<ImagePopup src="/images/multi-vendor-marketplace/14-store-frontend-view.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/14-store-frontend-view.png" alt="Global Commission Configuration" /> 
 
-Customers can also click “1 more seller selling this product” to view other dealers offering the same item, making comparisons and purchases easier and helping dealers sell on existing listings more effectively.
+Les clients peuvent également cliquer sur « 1 vendeur supplémentaire vendant ce produit » pour voir d'autres revendeurs proposant le même article, ce qui facilite les comparaisons et les achats et aide les revendeurs à vendre plus efficacement les annonces existantes. 
 
 <ImagePopup src="/images/multi-vendor-marketplace/15-storefrontend-part-two.png" alt="Global Commission Configuration" />
 

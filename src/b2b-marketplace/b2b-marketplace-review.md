@@ -1,77 +1,77 @@
-# B2B Marketplace Review
+# Revue du marché B2B 
 
-The **Review** feature allows buyers to share their experience with sellers in the marketplace. It is designed to build trust and make buying decisions easier.
+La fonctionnalité **Review** permet aux acheteurs de partager leur expérience avec les vendeurs sur le marché. Il est conçu pour instaurer la confiance et faciliter les décisions d’achat. 
 
-- Buyers can rate sellers based on service quality, communication, and reliability.
-- Reviews help other buyers choose the right seller with confidence.
-- Sellers can use reviews to gain credibility and improve their services.
+- Les acheteurs peuvent évaluer les vendeurs en fonction de la qualité du service, de la communication et de la fiabilité. 
+- Les avis aident les autres acheteurs à choisir le bon vendeur en toute confiance. 
+- Les vendeurs peuvent utiliser les avis pour gagner en crédibilité et améliorer leurs services. 
 
-This feature creates a transparent B2B marketplace where genuine feedback supports better business relationships.
+Cette fonctionnalité crée un marché B2B transparent où de véritables commentaires favorisent de meilleures relations commerciales. 
 
-**Note:** Reviews can only be given by logged-in customers after their product has been successfully delivered.
+**Remarque :** Les avis ne peuvent être donnés que par les clients connectés une fois que leur produit a été livré avec succès. 
 
----
+--- 
 
-### How to Submit a Review
+### Comment soumettre un avis 
 
-The customer opens the **Supplier Page** to view details about the seller. From this page, they can click on the **“Review”** button.
+Le client ouvre la **Page Fournisseur** pour afficher les détails sur le vendeur. À partir de cette page, ils peuvent cliquer sur le bouton **« Réviser »**. 
 
-<ImagePopup src="/images/b2b-marketplace/1-seller-profile-page.png" alt="Seller Profile Page" />
+<ImagePopup src="/images/b2b-marketplace/1-seller-profile-page.png" alt="Seller Profile Page" /> 
 
-Once the **Review Page** is open, click on the **“Write a Review”** button to start adding your feedback about the seller.
+Une fois la **Page d'avis** ouverte, cliquez sur le bouton **« Écrire un avis »** pour commencer à ajouter vos commentaires sur le vendeur. 
 
-<ImagePopup src="/images/b2b-marketplace/2-write-a-review.png" alt="Write a Review Button" />
+<ImagePopup src="/images/b2b-marketplace/2-write-a-review.png" alt="Write a Review Button" /> 
 
-A popup box will open on your screen.
+Une boîte contextuelle s'ouvrira sur votre écran. 
 
-- **Rating:** Select the rating the customer wants to give the seller. 
+- **Note :** Sélectionnez la note que le client souhaite attribuer au vendeur. 
 
-- **Title:** Enter a clear title for the review.
+- **Titre :** Saisissez un titre clair pour l'avis. 
 
-- **Comment:** Write detailed comments about the seller’s service.
+- **Commentaire :** Écrivez des commentaires détaillés sur le service du vendeur. 
 
-Finally, click on the **“Submit”** button to post the review.
+Enfin, cliquez sur le bouton **« Soumettre »** pour publier l'avis. 
 
-<ImagePopup src="/images/b2b-marketplace/3-review-msg.png" alt="Review Submission Popup" />
+<ImagePopup src="/images/b2b-marketplace/3-review-msg.png" alt="Review Submission Popup" /> 
 
-**Note:** Reviews show on the page only after the admin approves.
+**Remarque :** Les avis s'affichent sur la page uniquement après l'approbation de l'administrateur. 
 
----
+--- 
 
-### Admin Panel: Approve Reviews
+### Panneau d'administration : approuver les avis 
 
-Go to **B2B Marketplace >> Supplier Reviews** to handle and approve supplier reviews.
+Accédez à **B2B Marketplace >> Avis sur les fournisseurs** pour gérer et approuver les avis des fournisseurs. 
 
-The seller's review page will open, where the admin can see all customer ratings and feedback in one place.
+La page d'avis du vendeur s'ouvrira, où l'administrateur pourra voir toutes les évaluations et commentaires des clients en un seul endroit. 
 
-<ImagePopup src="/images/b2b-marketplace/4-review-unapproved-state.png" alt="Review Unapproved State" />
+<ImagePopup src="/images/b2b-marketplace/4-review-unapproved-state.png" alt="Review Unapproved State" /> 
 
-To approve or disapprove a review, the admin selects it using the checkbox and chooses the desired action from the **“Select Action”** dropdown.
+Pour approuver ou refuser un avis, l'administrateur le sélectionne à l'aide de la case à cocher et choisit l'action souhaitée dans la liste déroulante **« Sélectionner une action »**. 
 
-<ImagePopup src="/images/b2b-marketplace/5-select-action.png" alt="Select Action Dropdown" />
+<ImagePopup src="/images/b2b-marketplace/5-select-action.png" alt="Select Action Dropdown" /> 
 
-The admin can then either approve or disapprove the review.
+L'administrateur peut alors approuver ou désapprouver l'avis. 
 
----
+--- 
 
-### Admin Supplier Reviews Page
+### Page d'avis des fournisseurs administrateurs 
 
-Below is a detailed view of admin supplier reviews.
+Vous trouverez ci-dessous une vue détaillée des avis des fournisseurs administrateurs. 
 
-<ImagePopup src="/images/b2b-marketplace/6-approved.png" alt="Admin Approved Supplier Reviews" />
+<ImagePopup src="/images/b2b-marketplace/6-approved.png" alt="Admin Approved Supplier Reviews" /> 
 
----
+--- 
 
-### Seller Reviews Page
+### Page d'avis du vendeur 
 
-Here’s a detailed view of seller reviews for easy monitoring.
+Voici une vue détaillée des avis des vendeurs pour un suivi facile. 
 
-<ImagePopup src="/images/b2b-marketplace/7-supplier-review.png" alt="Supplier Review Page" />
+<ImagePopup src="/images/b2b-marketplace/7-supplier-review.png" alt="Supplier Review Page" /> 
 
----
+--- 
 
-### Frontend View
+### Vue frontale 
 
-The display below shows how reviews appear to customers.
+L'affichage ci-dessous montre comment les avis apparaissent aux clients. 
 
 <ImagePopup src="/images/b2b-marketplace/8-review-at-frontend.png" alt="Review Frontend View" />
