@@ -3,11 +3,11 @@ on:
   push:
     branches:
       - axepta_bnp
-permissions:
-  contents: write
 jobs:
   publish-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
