@@ -6,6 +6,8 @@ on:
 jobs:
   publish-docs:
     runs-on: ubuntu-latest
+    runs:
+      using: "node24"
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
