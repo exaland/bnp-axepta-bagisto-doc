@@ -2,10 +2,7 @@ name: Deploy To GitHub Pages
 on:
   push:
     branches:
-      - master
       - axepta_bnp
-      - monostore
-      - french
 jobs:
   publish-docs:
     runs-on: ubuntu-latest
