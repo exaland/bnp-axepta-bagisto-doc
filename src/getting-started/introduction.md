@@ -1,5 +1,2 @@
 #Présentation 
-
-[ExalandStore](https://www.exaland.app/ecommerce) est la solution e-commerce complète pour les entreprises modernes. Créez de superbes boutiques en ligne, gérez les produits sans effort, traitez les commandes efficacement et offrez des expériences d'achat exceptionnelles à partir d'une plateforme unique. 
-
-
+L'extension Axepta BNP Paribas par [Exaland Concept] permet d'intégrer la solution de paiement sécurisée Axepta à votre boutique Bagisto. Les clients sont redirigés vers la page de paiement sécurisée de BNP Paribas, garantissant un paiement conforme aux standards de sécurité PCI DSS et 3-D Secure.

@@ -14,6 +14,6 @@ echo 'docs.ExalandStore.com' > CNAME
 git init
 git add -A
 git commit -m 'chore: deploy docs to github'
-git push -f git@github.com:ExalandStore/user-guide.git master:gh-pages
+git push -f git@github.com:exaland/bnp-axepta-bagisto-doc.git axepta_master:gh-pages
 
 cd -

@@ -291,7 +291,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://docs.ExalandStore.com/getting-started/configuration</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://docs.ExalandStore.com/getting-started/desinstallation</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://docs.ExalandStore.com/getting-started/installation</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://docs.ExalandStore.com/getting-started/introduction</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://docs.ExalandStore.com/getting-started/paymenttest</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
