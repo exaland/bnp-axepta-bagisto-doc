@@ -5,11 +5,12 @@ on:
       - axepta_bnp
 jobs:
   publish-docs:
-    runs-on: node: 24
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
         with:
+          node-version: '24'
           persist-credentials: false
 
       - name: NPM Install 📦
