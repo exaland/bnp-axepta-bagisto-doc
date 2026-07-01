@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - axepta
       - monostore
       - french
 jobs:
