@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - axepta
+      - axepta_bnp
       - monostore
       - french
 jobs:
